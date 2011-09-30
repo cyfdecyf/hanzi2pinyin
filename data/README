@@ -1,0 +1,25 @@
+Refer to the Unicode standard chapter 12 for more information about the Unified
+CJK Ideographs. Table 12-2 has the codepoint range for different blocks.
+
+Notes for the codepoint to pinyin map files
+
+- Unihan/{kMandarin.txt, unicode-codepoint2py.txt}
+  - The data is from the Unihan database
+    ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip, unicode version 6.0.0
+  - ``kMandarin.txt`` is extracted by by ``grep kMandarin Unihan_Readings.txt``
+    and some manual edit in Vim.
+  - ``unicode-codepoint2py.txt`` is generated from ``kMandarin.txt`` by removing
+    the tone mark and add character (encoded in UTF-8) to make it easier to read.
+
+At first I tried to use data from other sources, but these data has some
+problems. Just document the experience here, data is not included.
+
+- fcitx
+  - Data file ``gbkpy.org`` in fcitx
+  - Covers GBK character set, only one character is not in the 1st block
+  - Problem: some characters have weird pinyin (maybe used in dialect)
+- chinese_pinyin from https://github.com/flyerhzm/chinese_pinyin
+  - Data file ``Mandarin.dat``
+  - Contains the characters in the 1st block, extension A and B
+  - Problem: the 1st block characters are not completely covered. Some
+    characters covered in fcitx's data file is not present in this one.
