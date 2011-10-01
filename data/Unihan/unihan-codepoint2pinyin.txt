@@ -69,7 +69,7 @@
 3479 㑹 hui
 347A 㑺 jun
 347B 㑻 ma
-347C 㑼 lÜe
+347C 㑼 lve
 347D 㑽 tang
 347E 㑾 xiao yao
 347F 㑿 tiao zhao
@@ -161,7 +161,7 @@
 34FC 㓼 chi chong
 34FD 㓽 chong
 34FE 㓾 chi
-3500 㔀 lÜe qing
+3500 㔀 lve qing
 3502 㔂 lin
 3503 㔃 jue pi
 3504 㔄 su
@@ -191,7 +191,7 @@
 3524 㔤 shen
 3525 㔥 pi
 3526 㔦 yang
-3527 㔧 lÜ xue
+3527 㔧 lv xue
 3528 㔨 bei
 3529 㔩 e
 352A 㔪 lu
@@ -310,7 +310,7 @@
 35C6 㗆 ge kai
 35C7 㗇 xia
 35C8 㗈 man
-35C9 㗉 bi e lÜe
+35C9 㗉 bi e lve
 35CA 㗊 ji
 35CB 㗋 hou
 35CC 㗌 zhi
@@ -762,7 +762,7 @@
 3821 㠡 niao
 3822 㠢 hua huai huan mo
 3823 㠣 lai li
-3825 㠥 lÜ
+3825 㠥 lv
 3827 㠧 mi
 3828 㠨 yu
 382A 㠪 ju
@@ -799,7 +799,7 @@
 385B 㡛 mang
 385C 㡜 xue
 385D 㡝 feng fu
-385E 㡞 lei lou lÜ
+385E 㡞 lei lou lv
 3860 㡠 zheng
 3861 㡡 chu
 3862 㡢 man
@@ -865,7 +865,7 @@
 38AF 㢯 min
 38B0 㢰 bi huan
 38B2 㢲 xun
-38B3 㢳 lu lÜ
+38B3 㢳 lu lv
 38B5 㢵 she xie
 38B6 㢶 bi
 38B8 㢸 bi
@@ -1177,7 +1177,7 @@
 3A39 㨹 hui
 3A3A 㨺 men mi mian
 3A3B 㨻 can
-3A3C 㨼 lÜe
+3A3C 㨼 lve
 3A3D 㨽 pi qiao
 3A3E 㨾 yang
 3A3F 㨿 ju
@@ -1381,7 +1381,7 @@
 3B54 㭔 lu
 3B58 㭘 he
 3B59 㭙 she zhe
-3B5A 㭚 lÜ
+3B5A 㭚 lv
 3B5B 㭛 pai
 3B5C 㭜 rong
 3B5D 㭝 qiu
@@ -1432,7 +1432,7 @@
 3B9B 㮛 chi
 3B9D 㮝 he luo
 3B9E 㮞 jie ni ya
-3B9F 㮟 ji nian nÜ peng rou
+3B9F 㮟 ji nian nv peng rou
 3BA1 㮡 guan
 3BA2 㮢 hou
 3BA3 㮣 gai ze
@@ -1635,7 +1635,7 @@
 3CB2 㲲 die yi
 3CB3 㲳 die
 3CB4 㲴 zhong zhou
-3CB6 㲶 lÜ
+3CB6 㲶 lv
 3CB7 㲷 dan
 3CB9 㲹 gui qiu
 3CBA 㲺 ji ke lei
@@ -1744,7 +1744,7 @@
 3D53 㵓 shi
 3D54 㵔 che
 3D55 㵕 shen
-3D56 㵖 nÜ
+3D56 㵖 nv
 3D57 㵗 fu pan ping
 3D58 㵘 man
 3D5D 㵝 yi
@@ -2033,7 +2033,7 @@
 3EEE 㻮 can
 3EEF 㻯 tu
 3EF0 㻰 mian re wei yu
-3EF2 㻲 lÜ
+3EF2 㻲 lv
 3EF5 㻵 zhan
 3EF6 㻶 bi
 3EF7 㻷 ji
@@ -2156,7 +2156,7 @@
 3F90 㾐 li
 3F91 㾑 da
 3F92 㾒 ji ru
-3F94 㾔 lÜ
+3F94 㾔 lv
 3F95 㾕 shen
 3F96 㾖 li luo
 3F97 㾗 lang liang
@@ -2386,7 +2386,7 @@
 40AA 䂪 diao tiao
 40AB 䂫 hong
 40AC 䂬 gong
-40AE 䂮 lÜe
+40AE 䂮 lve
 40AF 䂯 guai guan
 40B0 䂰 la
 40B1 䂱 cui rui
@@ -2862,7 +2862,7 @@
 430A 䌊 yao you
 430C 䌌 qi qie qu
 430D 䌍 han jin
-430E 䌎 lÜe
+430E 䌎 lve
 430F 䌏 mi mian
 4310 䌐 mi
 4312 䌒 lu
@@ -3288,7 +3288,7 @@
 451A 䔚 chun
 451B 䔛 qing
 451C 䔜 nan
-451E 䔞 lÜ
+451E 䔞 lv
 451F 䔟 chi yi
 4520 䔠 shao
 4521 䔡 yu
@@ -3337,7 +3337,7 @@
 455B 䕛 jia
 455E 䕞 lang liao
 4560 䕠 fei
-4561 䕡 lu lÜ
+4561 䕡 lu lv
 4562 䕢 zha
 4563 䕣 he ke she
 4565 䕥 ni yi
@@ -3372,9 +3372,9 @@
 4585 䖅 ling
 4586 䖆 niang
 4587 䖇 yu
-4588 䖈 nÜe
+4588 䖈 nve
 458A 䖊 yi
-458B 䖋 nÜe
+458B 䖋 nve
 458C 䖌 qin ya yi
 458D 䖍 qian
 458E 䖎 xia
@@ -3393,7 +3393,7 @@
 459E 䖞 zhou
 459F 䖟 mang meng
 45A0 䖠 yuan
-45A1 䖡 nÜ
+45A1 䖡 nv
 45A2 䖢 miao
 45A3 䖣 sao ye zao
 45A4 䖤 wan yuan
@@ -3475,7 +3475,7 @@
 460C 䘌 ni
 460D 䘍 chai
 460F 䘏 xu
-4610 䘐 nÜ
+4610 䘐 nv
 4611 䘑 mai mo
 4613 䘓 kan kao
 4615 䘕 hang
@@ -3601,7 +3601,7 @@
 46B9 䚹 pi
 46BA 䚺 yao
 46BB 䚻 yao
-46BC 䚼 nÜ
+46BC 䚼 nv
 46BD 䚽 hao
 46BE 䚾 nin ren
 46BF 䚿 yin
@@ -3629,7 +3629,7 @@
 46D7 䛗 zhi
 46D8 䛘 nin ren
 46D9 䛙 xu
-46DA 䛚 lÜe
+46DA 䛚 lve
 46DB 䛛 hui qi
 46DC 䛜 xun
 46DD 䛝 nao
@@ -3723,7 +3723,7 @@
 474B 䝋 zong
 474C 䝌 jue jun
 474D 䝍 jun
-474F 䝏 lou lÜ
+474F 䝏 lou lv
 4750 䝐 wei
 4752 䝒 zhu
 4753 䝓 la lie
@@ -3998,7 +3998,7 @@
 4893 䢓 yu
 4894 䢔 ge he jia
 4895 䢕 xu
-4896 䢖 lÜ yu
+4896 䢖 lv yu
 4897 䢗 he qu
 4899 䢙 bai
 489A 䢚 gong hang
@@ -4048,7 +4048,7 @@
 48D6 䣖 ma
 48D8 䣘 tang
 48D9 䣙 pei
-48DA 䣚 lou lÜ
+48DA 䣚 lou lv
 48DC 䣜 cuo
 48DD 䣝 tu
 48DE 䣞 e
@@ -4102,7 +4102,7 @@
 4917 䤗 gan
 4918 䤘 chan qian
 4919 䤙 li
-491A 䤚 li lÜe
+491A 䤚 li lve
 491B 䤛 qiu
 491C 䤜 dun
 491D 䤝 ying
@@ -4110,7 +4110,7 @@
 491F 䤟 chen
 4920 䤠 ji zhi
 4921 䤡 ran
-4923 䤣 lÜe
+4923 䤣 lve
 4925 䤥 gui
 4926 䤦 yue
 4927 䤧 hui
@@ -4167,7 +4167,7 @@
 4964 䥤 bao fu
 4965 䥥 lian
 4967 䥧 huan xuan
-4968 䥨 lÜ
+4968 䥨 lv
 4969 䥩 wei
 496A 䥪 xian
 496B 䥫 tie
@@ -4281,7 +4281,7 @@
 4A04 䨄 yan
 4A05 䨅 liao
 4A06 䨆 bi xu
-4A0B 䨋 nÜe
+4A0B 䨋 nve
 4A0C 䨌 bao bo
 4A0D 䨍 ying
 4A0E 䨎 hong
@@ -4599,7 +4599,7 @@
 4B84 䮄 xuan
 4B87 䮇 yu
 4B88 䮈 chi
-4B89 䮉 lu lÜ
+4B89 䮉 lu lv
 4B8A 䮊 yi
 4B8B 䮋 li lie
 4B8D 䮍 niao xing
@@ -4626,7 +4626,7 @@
 4BA8 䮨 zai
 4BA9 䮩 gu
 4BAA 䮪 cheng
-4BAB 䮫 lou lÜ
+4BAB 䮫 lou lv
 4BAC 䮬 mo
 4BAD 䮭 mi
 4BAE 䮮 mai
@@ -5019,7 +5019,7 @@
 4D87 䶇 zhou
 4D88 䶈 bo
 4D89 䶉 liu
-4D8A 䶊 nÜ
+4D8A 䶊 nv
 4D8C 䶌 pao
 4D8D 䶍 di ti
 4D8E 䶎 sha
@@ -5124,7 +5124,7 @@
 4E43 乃 nai
 4E45 久 jiu
 4E46 乆 jiu
-4E47 乇 zhe nÜe tuo
+4E47 乇 zhe nve tuo
 4E48 么 yao mo me ma
 4E49 义 yi
 4E4B 之 zhi
@@ -5451,7 +5451,7 @@
 4FA0 侠 xia
 4FA1 価 jia
 4FA2 侢 zai
-4FA3 侣 lÜ
+4FA3 侣 lv
 4FA5 侥 jiao
 4FA6 侦 zhen zheng
 4FA7 侧 ce ze
@@ -5469,7 +5469,7 @@
 4FB3 侳 zuo cuo
 4FB4 侴 chou
 4FB5 侵 qin
-4FB6 侶 lÜ
+4FB6 侶 lv
 4FB7 侷 ju
 4FB8 侸 shu
 4FB9 侹 ting
@@ -5663,7 +5663,7 @@
 5078 偸 tou
 5079 偹 bei
 507A 偺 za zan
-507B 偻 lÜ lou
+507B 偻 lv lou
 507C 偼 jie
 507D 偽 wei
 507E 偾 fen
@@ -5733,7 +5733,7 @@
 50BF 傿 yan
 50C0 僀 di
 50C1 僁 xi
-50C2 僂 lÜ lou
+50C2 僂 lv lou
 50C3 僃 bei
 50C4 僄 piao
 50C5 僅 jin
@@ -5827,7 +5827,7 @@
 511F 償 chang
 5120 儠 lie
 5121 儡 lei
-5122 儢 lÜ
+5122 儢 lv
 5123 儣 kuang
 5124 儤 bao
 5125 儥 du
@@ -6134,7 +6134,7 @@
 525D 剝 bo bao
 525E 剞 ji
 525F 剟 duo
-5260 剠 qing lÜe
+5260 剠 qing lve
 5261 剡 yan shan
 5262 剢 zhuo
 5263 剣 jian
@@ -6282,7 +6282,7 @@
 52F1 勱 mai
 52F2 勲 xun
 52F3 勳 xun
-52F4 勴 lÜ
+52F4 勴 lv
 52F5 勵 li
 52F6 勶 che
 52F7 勷 rang xiang
@@ -6564,7 +6564,7 @@
 5412 吒 zha cha
 5413 吓 xia he
 5414 吔 ye
-5415 吕 lÜ
+5415 吕 lv
 5416 吖 a
 5417 吗 ma
 5418 吘 ou
@@ -6609,7 +6609,7 @@
 543F 吿 gao
 5440 呀 ya
 5441 呁 jun
-5442 呂 lÜ
+5442 呂 lv
 5443 呃 e
 5444 呄 ge
 5445 呅 mei
@@ -7311,7 +7311,7 @@
 5716 圖 tu
 5717 圗 tu
 5718 團 tuan
-5719 圙 lÜe
+5719 圙 lve
 571A 圚 hui
 571B 圛 yi
 571C 圜 yuan huan
@@ -7427,7 +7427,7 @@
 578F 垏 lu
 5790 垐 ci
 5791 垑 chi
-5792 垒 lei lÜ
+5792 垒 lei lv
 5793 垓 gai
 5794 垔 yin
 5795 垕 hou
@@ -7737,7 +7737,7 @@
 58D4 壔 dao
 58D5 壕 hao
 58D6 壖 ruan
-58D8 壘 lei lÜ
+58D8 壘 lei lv
 58D9 壙 kuang
 58DA 壚 lu
 58DB 壛 yan
@@ -7884,7 +7884,7 @@
 5970 奰 bi
 5971 奱 lian
 5972 奲 duo
-5973 女 nÜ ru
+5973 女 nv ru
 5974 奴 nu
 5975 奵 ding
 5976 奶 nai
@@ -8517,7 +8517,7 @@
 5BFA 寺 si
 5BFB 寻 xun xin
 5BFC 导 dao
-5BFD 寽 lÜ
+5BFD 寽 lv
 5BFE 対 dui
 5BFF 寿 shou
 5C00 尀 po
@@ -8614,11 +8614,11 @@
 5C5E 属 shu zhu
 5C5F 屟 xie
 5C60 屠 tu
-5C61 屡 lÜ
-5C62 屢 lÜ
+5C61 屡 lv
+5C62 屢 lv
 5C63 屣 xi
 5C64 層 ceng
-5C65 履 lÜ
+5C65 履 lv
 5C66 屦 ju
 5C67 屧 xie
 5C68 屨 ju
@@ -8829,7 +8829,7 @@
 5D3F 崿 e
 5D40 嵀 zhu
 5D41 嵁 kan
-5D42 嵂 lÜ
+5D42 嵂 lv
 5D43 嵃 yan
 5D44 嵄 mei
 5D45 嵅 gan
@@ -8854,7 +8854,7 @@
 5D58 嵘 rong
 5D5A 嵚 qin
 5D5B 嵛 yu
-5D5D 嵝 lou lÜ
+5D5D 嵝 lou lv
 5D5E 嵞 tu
 5D5F 嵟 dui
 5D60 嵠 xi ji qi
@@ -8887,7 +8887,7 @@
 5D7E 嵾 cen
 5D7F 嵿 ding
 5D80 嶀 tu
-5D81 嶁 lou lÜ
+5D81 嶁 lou lv
 5D82 嶂 zhang
 5D83 嶃 zhan
 5D84 嶄 zhan
@@ -9340,7 +9340,7 @@
 5F52 归 gui kui
 5F53 当 dang
 5F54 彔 lu
-5F55 录 lu lÜ
+5F55 录 lu lv
 5F56 彖 tuan
 5F57 彗 hui sui
 5F58 彘 zhi
@@ -9394,7 +9394,7 @@
 5F88 很 hen
 5F89 徉 yang
 5F8A 徊 huai hui
-5F8B 律 lÜ
+5F8B 律 lv
 5F8C 後 hou
 5F8D 徍 wa
 5F8E 徎 cheng
@@ -9500,7 +9500,7 @@
 5FF5 念 nian
 5FF6 忶 hun
 5FF7 忷 xiong
-5FF8 忸 niu nÜ
+5FF8 忸 niu nv
 5FF9 忹 wang
 5FFA 忺 xian
 5FFB 忻 xin
@@ -9607,7 +9607,7 @@
 6064 恤 xu
 6065 恥 chi
 6066 恦 xiang
-6067 恧 nÜ
+6067 恧 nv
 6068 恨 hen
 6069 恩 en
 606A 恪 ke
@@ -9867,7 +9867,7 @@
 616B 慫 song
 616C 慬 jin qin
 616D 慭 yin
-616E 慮 lÜ
+616E 慮 lv
 616F 慯 shang
 6170 慰 wei
 6171 慱 tuan
@@ -10284,7 +10284,7 @@
 6311 挑 tiao tao
 6312 挒 lie
 6313 挓 zha
-6314 挔 lÜ
+6314 挔 lv
 6315 挕 die
 6316 挖 wa
 6317 挗 jue
@@ -10337,7 +10337,7 @@
 6348 捈 tu
 6349 捉 zhuo
 634A 捊 pou
-634B 捋 le lÜ luo
+634B 捋 le lv luo
 634C 捌 ba
 634D 捍 han
 634E 捎 shao
@@ -10353,7 +10353,7 @@
 6358 捘 zun
 6359 捙 yi
 635A 捚 zhai
-635B 捛 lÜ
+635B 捛 lv
 635C 捜 sou
 635D 捝 tuo
 635E 捞 lao
@@ -10421,7 +10421,7 @@
 639D 掝 huo xu
 639E 掞 shan yan
 639F 掟 zheng
-63A0 掠 lÜe
+63A0 掠 lve
 63A1 採 cai
 63A2 探 tan
 63A3 掣 che
@@ -10641,7 +10641,7 @@
 647F 摿 yin
 6480 撀 gou
 6481 撁 qian
-6482 撂 liao lÜe
+6482 撂 liao lve
 6483 撃 ji
 6484 撄 ying
 6485 撅 jue gui
@@ -10761,7 +10761,7 @@
 64FA 擺 bai
 64FB 擻 sou
 64FC 擼 lu
-64FD 擽 lÜe li luo
+64FD 擽 lve li luo
 64FE 擾 rao rou
 64FF 擿 zhi ti
 6500 攀 pan
@@ -10793,7 +10793,7 @@
 651B 攛 cuan
 651C 攜 xie xi
 651D 攝 she nie
-651E 攞 luo lÜ
+651E 攞 luo lv
 651F 攟 jun
 6520 攠 mi ma mo
 6521 攡 li chi
@@ -10957,7 +10957,7 @@
 65C2 旂 qi
 65C3 旃 zhan
 65C4 旄 mao
-65C5 旅 lÜ
+65C5 旅 lv
 65C6 旆 pei
 65C7 旇 pi
 65C8 旈 liu
@@ -11285,7 +11285,7 @@
 670E 朎 ling
 670F 朏 fei pei
 6710 朐 qu
-6712 朒 nÜ
+6712 朒 nv
 6713 朓 tiao
 6714 朔 shuo
 6715 朕 zhen
@@ -11664,7 +11664,7 @@
 689D 條 tiao
 689E 梞 ji
 689F 梟 xiao
-68A0 梠 lÜ
+68A0 梠 lv
 68A1 梡 hun kuan
 68A2 梢 shao xiao
 68A3 梣 cen chen qin
@@ -11880,7 +11880,7 @@
 6985 榅 yun
 6986 榆 yu
 6987 榇 chen
-6988 榈 lÜ
+6988 榈 lv
 6989 榉 ju
 698D 榍 xie
 698E 榎 jia
@@ -12012,7 +12012,7 @@
 6A10 樐 lu
 6A11 樑 liang
 6A12 樒 mi
-6A13 樓 lou lÜ
+6A13 樓 lou lv
 6A14 樔 chao jiao
 6A15 樕 su
 6A16 樖 ke
@@ -12194,11 +12194,11 @@
 6AD3 櫓 lu
 6AD4 櫔 li
 6AD5 櫕 cuan
-6AD6 櫖 lÜ
+6AD6 櫖 lv
 6AD7 櫗 mie
 6AD8 櫘 hui
 6AD9 櫙 ou
-6ADA 櫚 lÜ
+6ADA 櫚 lv
 6ADB 櫛 jie zhi
 6ADC 櫜 gao
 6ADD 櫝 du
@@ -12475,7 +12475,7 @@
 6BFD 毽 jian
 6BFE 毾 ta
 6BFF 毿 san
-6C00 氀 lÜ
+6C00 氀 lv
 6C01 氁 mu
 6C02 氂 mao li
 6C03 氃 tong
@@ -12521,7 +12521,7 @@
 6C2C 氬 ya
 6C2D 氭 dong
 6C2E 氮 dan
-6C2F 氯 lÜ
+6C2F 氯 lv
 6C30 氰 qing
 6C31 氱 yang
 6C32 氲 yun
@@ -13105,7 +13105,7 @@
 6E83 溃 kui
 6E85 溅 jian
 6E86 溆 xu
-6E87 溇 lÜ lou
+6E87 溇 lv lou
 6E88 溈 gui wei
 6E89 溉 gai xie
 6E8C 溌 po
@@ -13196,7 +13196,7 @@
 6EE1 满 man men
 6EE2 滢 ying
 6EE3 滣 chun
-6EE4 滤 lÜ
+6EE4 滤 lv
 6EE5 滥 lan
 6EE6 滦 luan
 6EE8 滨 bin
@@ -13233,7 +13233,7 @@
 6F07 漇 xi
 6F08 漈 ji
 6F09 漉 lu
-6F0A 漊 lÜ lou
+6F0A 漊 lv lou
 6F0B 漋 long
 6F0C 漌 jin
 6F0D 漍 guo
@@ -13467,7 +13467,7 @@
 6FFB 濻 wei dui
 6FFC 濼 luo bo po li
 6FFD 濽 zan cuan qian za
-6FFE 濾 lÜ
+6FFE 濾 lv
 6FFF 濿 li
 7000 瀀 you
 7001 瀁 yang
@@ -13960,7 +13960,7 @@
 7205 爅 mo
 7206 爆 bao bo
 7207 爇 ruo re
-7208 爈 lÜ
+7208 爈 lv
 7209 爉 la lie
 720A 爊 ao
 720B 爋 xun
@@ -14136,7 +14136,7 @@
 72C0 狀 zhuang
 72C1 狁 yun
 72C2 狂 kuang jue
-72C3 狃 niu nÜ
+72C3 狃 niu nv
 72C4 狄 di ti
 72C5 狅 qing
 72C6 狆 zhong
@@ -14327,7 +14327,7 @@
 7384 玄 xuan
 7385 玅 miao
 7386 玆 zi ci xuan
-7387 率 lÜ shuai lÜe
+7387 率 lv shuai lve
 7388 玈 lu
 7389 玉 yu
 738A 玊 su
@@ -14784,9 +14784,9 @@
 7562 畢 bi
 7563 畣 da
 7564 畤 zhi
-7565 略 lÜe
+7565 略 lve
 7566 畦 qi xi
-7567 畧 lÜe
+7567 畧 lve
 7568 畨 pan fan
 756A 番 fan pan bo po pi
 756B 畫 hua
@@ -14840,7 +14840,7 @@
 759C 疜 xia
 759D 疝 shan
 759E 疞 xu
-759F 疟 nÜe yao
+759F 疟 nve yao
 75A0 疠 li
 75A1 疡 yang
 75A2 疢 chen
@@ -14961,7 +14961,7 @@
 7615 瘕 jia xia
 7616 瘖 yin
 7617 瘗 yi
-7618 瘘 lÜ lou
+7618 瘘 lv lou
 7619 瘙 sao
 761A 瘚 jue
 761B 瘛 chi
@@ -14976,7 +14976,7 @@
 7624 瘤 liu
 7625 瘥 chai cuo
 7626 瘦 shou
-7627 瘧 nÜe yao
+7627 瘧 nve yao
 7628 瘨 dian
 7629 瘩 da
 762A 瘪 pie bie
@@ -14996,7 +14996,7 @@
 7638 瘸 que
 7639 瘹 diao
 763A 瘺 lou
-763B 瘻 lÜ lou
+763B 瘻 lv lou
 763C 瘼 mo
 763D 瘽 jin
 763E 瘾 yin
@@ -15556,7 +15556,7 @@
 7875 硵 lu
 7876 硶 chen cen
 7877 硷 jian
-7878 硸 nÜe
+7878 硸 nve
 7879 硹 song
 787A 硺 zhuo
 787B 硻 keng
@@ -15783,7 +15783,7 @@
 7960 祠 ci si
 7961 祡 chai
 7962 祢 mi ni
-7963 祣 lÜ
+7963 祣 lv
 7964 祤 yu xu
 7965 祥 xiang
 7966 祦 wu
@@ -15944,7 +15944,7 @@
 7A03 稃 fu
 7A04 稄 ze
 7A05 稅 shui tuan tui tuo
-7A06 稆 lÜ
+7A06 稆 lv
 7A07 稇 kun
 7A08 稈 gan
 7A09 稉 geng jing
@@ -15974,7 +15974,7 @@
 7A21 稡 zu
 7A22 稢 yu
 7A23 稣 su
-7A24 稤 lÜe
+7A24 稤 lve
 7A26 稦 yi
 7A27 稧 xi
 7A28 稨 bian
@@ -16028,7 +16028,7 @@
 7A5A 穚 jiao
 7A5B 穛 zhuo
 7A5C 穜 tong zhong
-7A5E 穞 lÜ
+7A5E 穞 lv
 7A5F 穟 sui
 7A60 穠 nong
 7A61 穡 se
@@ -16042,7 +16042,7 @@
 7A6A 穪 cheng
 7A6B 穫 huo
 7A6C 穬 gong kuang
-7A6D 穭 lÜ
+7A6D 穭 lv
 7A6E 穮 biao
 7A70 穰 rang reng
 7A71 穱 zhuo
@@ -16360,7 +16360,7 @@
 7BB8 箸 zhu zhuo
 7BB9 箹 yue
 7BBA 箺 chun
-7BBB 箻 lÜ
+7BBB 箻 lv
 7BBC 箼 wu
 7BBD 箽 dong
 7BBE 箾 shuo xiao qiao
@@ -16440,7 +16440,7 @@
 7C0A 簊 ji
 7C0B 簋 gui
 7C0C 簌 su
-7C0D 簍 lou lÜ ju
+7C0D 簍 lou lv ju
 7C0E 簎 zha
 7C0F 簏 lu
 7C10 簐 nian
@@ -16539,7 +16539,7 @@
 7C76 籶 shen
 7C77 籷 zhe
 7C78 籸 shen
-7C79 籹 nÜ
+7C79 籹 nv
 7C7A 籺 xie he
 7C7B 类 lei li
 7C7C 籼 xian
@@ -16708,7 +16708,7 @@
 7D2C 紬 chou
 7D2D 紭 hong
 7D2E 紮 za zha
-7D2F 累 lei lÜ lie
+7D2F 累 lei lv lie
 7D30 細 xi
 7D31 紱 fu
 7D32 紲 xie yi
@@ -16770,7 +16770,7 @@
 7D6B 絫 lei
 7D6C 絬 xie
 7D6D 絭 quan juan
-7D6E 絮 xu nÜ qu chu na
+7D6E 絮 xu nv qu chu na
 7D6F 絯 gai
 7D70 絰 die
 7D71 統 tong
@@ -16785,7 +16785,7 @@
 7D7A 絺 chi
 7D7B 絻 mian wen
 7D7C 絼 zhen zhi
-7D7D 絽 lÜ
+7D7D 絽 lv
 7D7E 絾 cheng
 7D7F 絿 qiu
 7D80 綀 shu
@@ -16818,7 +16818,7 @@
 7D9D 綝 lin chen shen
 7D9E 綞 duo
 7D9F 綟 li
-7DA0 綠 lÜ lu
+7DA0 綠 lv lu
 7DA1 綡 liang
 7DA2 綢 chou tao diao
 7DA3 綣 quan
@@ -16867,7 +16867,7 @@
 7DCE 緎 yu
 7DCF 総 zong
 7DD0 緐 fan pan po
-7DD1 緑 lÜ
+7DD1 緑 lv
 7DD2 緒 xu
 7DD3 緓 ying
 7DD4 緔 zhang
@@ -16964,7 +16964,7 @@
 7E34 縴 qian
 7E35 縵 man
 7E36 縶 zhi
-7E37 縷 lÜ
+7E37 縷 lv
 7E38 縸 mo mu
 7E39 縹 piao
 7E3A 縺 lian
@@ -17160,7 +17160,7 @@
 7EFC 综 zong zeng
 7EFD 绽 zhan
 7EFE 绾 wan
-7EFF 绿 lÜ lu
+7EFF 绿 lv lu
 7F00 缀 zhui chuo
 7F01 缁 zi
 7F02 缂 ke
@@ -17182,7 +17182,7 @@
 7F12 缒 zhui
 7F13 缓 huan
 7F14 缔 di
-7F15 缕 lÜ
+7F15 缕 lv
 7F16 编 bian
 7F17 缗 min
 7F18 缘 yuan
@@ -17577,7 +17577,7 @@
 80AA 肪 fang
 80AB 肫 zhun chun tun zhuo
 80AC 肬 you
-80AD 肭 na nÜ
+80AD 肭 na nv
 80AE 肮 hang gang ang kang
 80AF 肯 ken
 80B0 肰 ran
@@ -17786,7 +17786,7 @@
 817F 腿 tui
 8180 膀 bang pang
 8181 膁 qian lian
-8182 膂 lÜ
+8182 膂 lv
 8183 膃 wa
 8184 膄 sou
 8185 膅 tang
@@ -17800,7 +17800,7 @@
 818D 膍 pi
 818E 膎 xie
 818F 膏 gao
-8190 膐 lÜ
+8190 膐 lv
 8191 膑 bin
 8193 膓 chang
 8194 膔 lu
@@ -17814,10 +17814,10 @@
 819C 膜 mo
 819D 膝 xi
 819E 膞 zhuan chun
-819F 膟 lÜ
+819F 膟 lv
 81A0 膠 jiao
 81A1 膡 ying
-81A2 膢 lÜ liu lou
+81A2 膢 lv liu lou
 81A3 膣 zhi
 81A5 膥 chun
 81A6 膦 lian lin
@@ -17872,7 +17872,7 @@
 81D7 臗 kuan
 81D8 臘 la
 81D9 臙 yan
-81DA 臚 lu lÜ
+81DA 臚 lu lv
 81DB 臛 huo
 81DC 臜 zang za zan
 81DD 臝 luo
@@ -18478,7 +18478,7 @@
 844B 葋 qu
 844C 葌 jian
 844D 葍 fu
-844E 葎 lÜ
+844E 葎 lv
 844F 葏 jing
 8450 葐 pen
 8451 葑 feng
@@ -18679,7 +18679,7 @@
 851B 蔛 hu
 851C 蔜 ao
 851D 蔝 mi
-851E 蔞 lou liu ju lÜ
+851E 蔞 lou liu ju lv
 851F 蔟 cu cou chuo
 8520 蔠 zhong
 8521 蔡 cai sa ca
@@ -18861,7 +18861,7 @@
 85D5 藕 ou
 85D6 藖 xian
 85D7 藗 su
-85D8 藘 lÜ
+85D8 藘 lv
 85D9 藙 yi
 85DA 藚 xu
 85DB 藛 xie
@@ -18874,7 +18874,7 @@
 85E2 藢 zhi
 85E3 藣 bei
 85E4 藤 teng
-85E5 藥 yao yue shuo lÜe
+85E5 藥 yao yue shuo lve
 85E6 藦 mo
 85E7 藧 huan
 85E8 藨 biao pao piao
@@ -18974,8 +18974,8 @@
 864D 虍 hu
 864E 虎 hu
 864F 虏 lu
-8650 虐 nÜe
-8651 虑 lÜ
+8650 虐 nve
+8651 虑 lv
 8652 虒 si zhai yi
 8653 虓 xiao
 8654 虔 qian
@@ -19462,9 +19462,9 @@
 883F 蠿 zha
 8840 血 xie xue
 8841 衁 huang
-8842 衂 niu nÜ
+8842 衂 niu nv
 8843 衃 pei
-8844 衄 nÜ
+8844 衄 nv
 8845 衅 xin
 8846 衆 zhong
 8847 衇 mo mai
@@ -19670,7 +19670,7 @@
 8918 褘 hui
 8919 褙 bei
 891A 褚 chu zhe zhu
-891B 褛 lÜ
+891B 褛 lv
 891E 褞 yun
 891F 褟 da
 8920 褠 gou
@@ -19697,7 +19697,7 @@
 8935 褵 li
 8936 褶 zhe die xi
 8937 褷 shi
-8938 褸 lÜ
+8938 褸 lv
 8939 褹 yi
 893A 褺 die
 893B 褻 xie die
@@ -20164,7 +20164,7 @@
 8B11 謑 xi
 8B12 謒 qiang
 8B13 謓 chen
-8B14 謔 nÜe xue
+8B14 謔 nve xue
 8B15 謕 ti
 8B16 謖 su
 8B17 謗 bang
@@ -20192,7 +20192,7 @@
 8B2E 謮 ze
 8B2F 謯 jie zha zu
 8B30 謰 lian
-8B31 謱 lou lÜ
+8B31 謱 lou lv
 8B32 謲 can
 8B33 謳 ou xu
 8B34 謴 guan
@@ -20416,7 +20416,7 @@
 8C0E 谎 huang
 8C0F 谏 jian
 8C10 谐 xie
-8C11 谑 nÜe xue
+8C11 谑 nve xue
 8C12 谒 ye
 8C13 谓 wei
 8C14 谔 e
@@ -21614,7 +21614,7 @@
 90D5 郕 cheng
 90D6 郖 dou
 90D7 郗 chi xi
-90D8 郘 lÜ
+90D8 郘 lv
 90D9 郙 fu
 90DA 郚 wu
 90DB 郛 fu
@@ -21899,7 +21899,7 @@
 91F6 釶 shi she
 91F7 釷 tu
 91F8 釸 xi
-91F9 釹 nÜ
+91F9 釹 nv
 91FA 釺 qian
 91FC 釼 jian
 91FD 釽 pi
@@ -22093,7 +22093,7 @@
 92BE 銾 gong
 92BF 銿 zhong yong
 92C0 鋀 dou
-92C1 鋁 lÜ
+92C1 鋁 lv
 92C2 鋂 mei
 92C3 鋃 lang
 92C4 鋄 wan
@@ -22121,12 +22121,12 @@
 92DA 鋚 tiao
 92DB 鋛 gong
 92DC 鋜 zhuo
-92DD 鋝 lÜe
+92DD 鋝 lve
 92DE 鋞 xing
 92DF 鋟 qian qin jin
 92E0 鋠 shen
 92E1 鋡 han
-92E2 鋢 lÜe
+92E2 鋢 lve
 92E3 鋣 xie ye
 92E4 鋤 chu ju
 92E5 鋥 zheng zeng
@@ -22204,7 +22204,7 @@
 932F 錯 cuo cu xi
 9330 錰 shu
 9331 錱 zhen
-9332 録 lu lÜ
+9332 録 lu lv
 9333 錳 meng
 9334 錴 lu
 9335 錵 hua
@@ -22371,7 +22371,7 @@
 93E1 鏡 jing
 93E2 鏢 biao
 93E3 鏣 shu
-93E4 鏤 lou lÜ
+93E4 鏤 lou lv
 93E5 鏥 xiu
 93E6 鏦 cong
 93E7 鏧 long
@@ -22491,7 +22491,7 @@
 945F 鑟 du
 9460 鑠 shuo yue li
 9461 鑡 chuo
-9462 鑢 lÜ
+9462 鑢 lv
 9463 鑣 biao
 9464 鑤 bao pao
 9465 鑥 lu
@@ -22540,7 +22540,7 @@
 9492 钒 fan
 9493 钓 diao
 9494 钔 men
-9495 钕 nÜ
+9495 钕 nv
 9496 钖 xi
 9497 钗 chai
 9498 钘 xing jian
@@ -22612,7 +22612,7 @@
 94DA 铚 zhi
 94DB 铛 dang cheng
 94DC 铜 tong
-94DD 铝 lÜ
+94DD 铝 lv
 94DE 铞 diao
 94DF 铟 yin
 94E0 铠 kai
@@ -22657,7 +22657,7 @@
 9507 锇 tie e
 9508 锈 xiu
 9509 锉 cuo
-950A 锊 lÜe
+950A 锊 lve
 950B 锋 feng
 950C 锌 xin
 950D 锍 liu
@@ -22816,7 +22816,7 @@
 95A9 閩 min
 95AB 閫 kun
 95AC 閬 lang du
-95AD 閭 lÜ
+95AD 閭 lv
 95AE 閮 ting
 95AF 閯 sha
 95B0 閰 ju
@@ -22894,7 +22894,7 @@
 95FB 闻 wen
 95FC 闼 ta
 95FD 闽 min
-95FE 闾 lÜ
+95FE 闾 lv
 95FF 闿 kai
 9600 阀 fa
 9601 阁 ge
@@ -23329,7 +23329,7 @@
 97B7 鞷 ge
 97B8 鞸 bi
 97B9 鞹 kuo
-97BB 鞻 lou lÜ
+97BB 鞻 lou lv
 97BC 鞼 gui
 97BD 鞽 qiao
 97BE 鞾 xue
@@ -23841,7 +23841,7 @@
 99BC 馼 wen
 99BD 馽 zhi
 99BE 馾 dan
-99BF 馿 lÜ
+99BF 馿 lv
 99C0 駀 you
 99C1 駁 bo
 99C2 駂 bao
@@ -24001,7 +24001,7 @@
 9A5F 驟 zou zhou
 9A60 驠 yan
 9A61 驡 peng
-9A62 驢 lÜ
+9A62 驢 lv
 9A63 驣 teng
 9A64 驤 xiang
 9A65 驥 ji
@@ -24019,7 +24019,7 @@
 9A71 驱 qu
 9A72 驲 ri
 9A73 驳 bo
-9A74 驴 lÜ
+9A74 驴 lv
 9A75 驵 zang zu
 9A76 驶 shi
 9A77 驷 si
@@ -24268,7 +24268,7 @@
 9B6C 魬 fan ban
 9B6D 魭 yuan wan
 9B6E 魮 bi pi
-9B6F 魯 lu lÜ
+9B6F 魯 lu lv
 9B70 魰 wen
 9B71 魱 hu
 9B72 魲 lu
@@ -25015,7 +25015,7 @@
 9E7C 鹼 jian
 9E7D 鹽 yan
 9E7E 鹾 cuo
-9E7F 鹿 lu lÜ
+9E7F 鹿 lu lv
 9E80 麀 you
 9E81 麁 cu
 9E82 麂 ji
