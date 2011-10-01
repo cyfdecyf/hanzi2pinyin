@@ -3,7 +3,7 @@
 # Runs with ruby 1.9
 
 File.open("./kMandarin.txt") do |f|
-  File.open('./unihan-codepoint2py.txt', 'w') do |out|
+  File.open('./unihan-codepoint2pinyin.txt', 'w') do |out|
     f.each_line do |line|
       cp2py = line.chomp.split()
       cp = cp2py[0]
@@ -15,7 +15,7 @@ File.open("./kMandarin.txt") do |f|
       py.uniq!
 
       hz = [cp.to_i(16)].pack('U')
-      out.puts("#{cp} #{hz} #{py.join(' ')}")
+      out.puts("#{hz} #{cp} #{py.join(' ')}")
     end
   end
 end
