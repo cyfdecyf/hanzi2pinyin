@@ -21,7 +21,7 @@ class UniProcess
     ['ē', 'e'], ['é', 'e'], ['ě', 'e'], ['è', 'e'],
     ['ī', 'i'], ['í', 'i'], ['ǐ', 'i'], ['ì', 'i'],
     ['ū', 'u'], ['ú', 'u'], ['ǔ', 'u'], ['ù', 'u'],
-    ['ü', 'v'], ['ǘ', 'v'], ['ǚ', 'v'], ['ǜ', 'v'],
+    ['ü', 'v'], ['ǘ', 'v'], ['ǚ', 'v'], ['ǜ', 'v'], ['Ü', 'v'],
     ['ń', 'n'], ['ň', 'n'], ['ǹ', 'n'],
     ['ḿ', 'm'], ['m̄', 'm'], ['m̀', 'm'],
   ]
@@ -56,12 +56,12 @@ class UniProcess
   def extract_XHC1983(py)
     # 10028.020:gǔn --> gun
     py = py.sub(/^[^:]*:/, '')
-    remove_tone(remove_tonechar py)
+    remove_tone(remove_tonechar(py))
   end
 
   def extract_Mandarin(py)
     # sang4 --> sang
-    remove_tone py
+    remove_tonechar(remove_tone(py))
   end
 
   def process_pinyin(py_arr, extract)

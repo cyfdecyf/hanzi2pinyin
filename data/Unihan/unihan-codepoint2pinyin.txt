@@ -173,7 +173,7 @@
 㓼 34FC chi
 㓽 34FD chong
 㓾 34FE xi chi
-㔀 3500 lÜe qing
+㔀 3500 lve qing
 㔁 3501 deng
 㔂 3502 lin
 㔃 3503 jue xue
@@ -205,7 +205,7 @@
 㔤 3524 xin
 㔥 3525 bai pi
 㔦 3526 yang
-㔧 3527 lÜ xue
+㔧 3527 lv xue
 㔨 3528 bei
 㔩 3529 e
 㔪 352A lu
@@ -970,7 +970,7 @@
 㢯 38AF diao min
 㢰 38B0 bi
 㢲 38B2 xun
-㢳 38B3 lu lÜ
+㢳 38B3 lu lv
 㢵 38B5 xie she
 㢶 38B6 bi
 㢸 38B8 bi
@@ -1316,7 +1316,7 @@
 㨹 3A39 hui xue
 㨺 3A3A mian men
 㨻 3A3B can shan zan chan
-㨼 3A3C lÜe
+㨼 3A3C lve
 㨽 3A3D pi
 㨾 3A3E yang
 㨿 3A3F ju
@@ -1844,7 +1844,7 @@
 㲲 3CB2 die
 㲳 3CB3 die zhi
 㲴 3CB4 zhong
-㲶 3CB6 lÜ
+㲶 3CB6 lv
 㲷 3CB7 dan
 㲸 3CB8 xi
 㲹 3CB9 gui qiu
@@ -3833,9 +3833,9 @@
 䖅 4585 ling
 䖆 4586 niang
 䖇 4587 yu
-䖈 4588 nÜe
+䖈 4588 nve
 䖊 458A yi
-䖋 458B nÜe
+䖋 458B nve
 䖌 458C yi
 䖍 458D qian
 䖎 458E xia
@@ -3961,7 +3961,7 @@
 䘍 460D chai
 䘎 460E wan
 䘏 460F xu
-䘐 4610 nÜ
+䘐 4610 nv
 䘑 4611 mai mo
 䘒 4612 zui
 䘓 4613 kan
@@ -4671,7 +4671,7 @@
 䤟 491F chen
 䤠 4920 zhi
 䤡 4921 ran
-䤣 4923 lÜe
+䤣 4923 lve
 䤤 4924 kai
 䤥 4925 gui wei
 䤦 4926 yue
@@ -4872,7 +4872,7 @@
 䨆 4A06 bi xu
 䨈 4A08 bin
 䨊 4A0A yuan
-䨋 4A0B nÜe
+䨋 4A0B nve
 䨌 4A0C bao bo
 䨍 4A0D ying
 䨎 4A0E hong
@@ -5228,7 +5228,7 @@
 䮄 4B84 xuan
 䮇 4B87 yu
 䮈 4B88 chi
-䮉 4B89 lu lÜ
+䮉 4B89 lu lv
 䮊 4B8A yi
 䮋 4B8B li lie
 䮍 4B8D niao xing
@@ -6159,7 +6159,7 @@
 侳 4FB3 zuo
 侴 4FB4 chou
 侵 4FB5 qin
-侶 4FB6 lÜ
+侶 4FB6 lv
 侷 4FB7 ju
 侸 4FB8 shu dou
 侹 4FB9 ting
@@ -6975,7 +6975,7 @@
 勱 52F1 mai
 勲 52F2 xun
 勳 52F3 xun
-勴 52F4 lÜ
+勴 52F4 lv
 勵 52F5 li
 勶 52F6 che
 勷 52F7 rang
@@ -7302,7 +7302,7 @@
 吿 543F gao
 呀 5440 ya
 呁 5441 jun
-呂 5442 lÜ
+呂 5442 lv
 呃 5443 e
 呄 5444 ge
 呅 5445 mei wen
@@ -10997,7 +10997,7 @@
 挑 6311 tiao
 挒 6312 lie
 挓 6313 zha
-挔 6314 lÜ
+挔 6314 lv
 挕 6315 die she
 挖 6316 wa
 挗 6317 jue
@@ -11066,7 +11066,7 @@
 捘 6358 zun
 捙 6359 yi
 捚 635A zhai
-捛 635B lÜ
+捛 635B lv
 捜 635C sou
 捝 635D tuo shui yan
 捞 635E lao
@@ -16709,7 +16709,7 @@
 稡 7A21 zui zu su
 稢 7A22 yu
 稣 7A23 su
-稤 7A24 lÜe
+稤 7A24 lve
 稦 7A26 yi
 稧 7A27 xi qie
 稨 7A28 bian
@@ -16763,7 +16763,7 @@
 穚 7A5A jiao
 穛 7A5B zhuo bo
 穜 7A5C zhong
-穞 7A5E lÜ
+穞 7A5E lv
 穟 7A5F sui
 穠 7A60 nong
 穡 7A61 se
@@ -17098,7 +17098,7 @@
 箸 7BB8 zhu
 箹 7BB9 yue yao chuo
 箺 7BBA chun
-箻 7BBB lÜ
+箻 7BBB lv
 箼 7BBC wu
 箽 7BBD dong
 箾 7BBE shuo xiao qiao
@@ -18541,7 +18541,7 @@
 膍 818D pi
 膎 818E xie
 膏 818F gao
-膐 8190 lÜ
+膐 8190 lv
 膑 8191 bin
 膒 8192 ou
 膓 8193 chang
@@ -20205,7 +20205,7 @@
 蠿 883F zhuo
 血 8840 xue xie
 衁 8841 huang
-衂 8842 niu nÜ
+衂 8842 niu nv
 衃 8843 pei
 衄 8844 nv
 衅 8845 xin
@@ -22876,7 +22876,7 @@
 鋟 92DF qin qian jin
 鋠 92E0 shen
 鋡 92E1 han
-鋢 92E2 lÜe
+鋢 92E2 lve
 鋣 92E3 ye
 鋤 92E4 chu
 鋥 92E5 zeng
@@ -24594,7 +24594,7 @@
 馼 99BC wen
 馽 99BD zhi
 馾 99BE dan
-馿 99BF lÜ
+馿 99BF lv
 駀 99C0 you
 駁 99C1 bo
 駂 99C2 bao
