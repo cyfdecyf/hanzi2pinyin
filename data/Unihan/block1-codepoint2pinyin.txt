@@ -1,6 +1,6 @@
 4E00 yi
 4E01 ding
-4E02 kao qiao yu
+4E02 kao
 4E03 qi
 4E04 shang
 4E05 xia
@@ -9,7 +9,7 @@
 4E09 san
 4E0A shang
 4E0B xia
-4E0C ji qi
+4E0C ji
 4E0D bu
 4E0E yu
 4E0F mian
@@ -48,7 +48,7 @@
 4E30 feng
 4E31 guan
 4E32 chuan
-4E33 chan chuan
+4E33 chan
 4E34 lin
 4E35 zhuo
 4E36 zhu
@@ -56,12 +56,12 @@
 4E39 dan
 4E3A wei
 4E3B zhu
-4E3C jing dan
+4E3C jing
 4E3D li
 4E3E ju
-4E3F pie yi
+4E3F pie
 4E40 fu
-4E41 yi ji
+4E41 yi
 4E42 yi
 4E43 nai
 4E45 jiu
@@ -74,18 +74,18 @@
 4E4D zha
 4E4E hu
 4E4F fa
-4E50 le yue
-4E51 yin pan zhong
+4E50 le
+4E51 yin
 4E52 ping
 4E53 pang
 4E54 qiao
 4E55 hu
 4E56 guai
-4E57 cheng sheng
+4E57 cheng
 4E58 cheng
 4E59 yi
 4E5A yin
-4E5C mie nie
+4E5C mie
 4E5D jiu
 4E5E qi
 4E5F ye
@@ -107,16 +107,16 @@
 4E76 fu
 4E77 sha
 4E78 na
-4E79 gan qian
-4E7E gan qian
-4E7F zhi luan
+4E79 gan
+4E7E gan
+4E7F zhi
 4E80 gui
 4E81 gan
 4E82 luan
 4E83 lin
 4E84 yi
 4E85 jue
-4E86 le liao
+4E86 le
 4E88 yu
 4E89 zheng
 4E8A shi
@@ -138,9 +138,9 @@
 4E9A ya
 4E9B xie
 4E9C ya
-4E9D qi zhai
+4E9D qi
 4E9E ya
-4E9F ji qi
+4E9F ji
 4EA0 tou
 4EA1 wang
 4EA2 kang
@@ -165,7 +165,7 @@
 4EB6 dan
 4EB7 lian
 4EB8 duo
-4EB9 men wei
+4EB9 men
 4EBA ren
 4EBB ren
 4EBC ji
@@ -202,30 +202,30 @@
 4EDD tong
 4EDE ren
 4EDF qian
-4EE0 gan han
-4EE1 ge yi
+4EE0 gan
+4EE1 ge
 4EE2 bo
 4EE3 dai
 4EE4 ling
 4EE5 yi
 4EE6 chao
-4EE7 chang zhang
+4EE7 chang
 4EE8 sa
 4EEA yi
 4EEB mu
 4EEC men
 4EED ren
-4EEE jia fan
-4EEF chao miao
+4EEE jia
+4EEF chao
 4EF0 yang
-4EF1 qian jing
+4EF1 qian
 4EF2 zhong
 4EF3 pi
 4EF4 wo
 4EF5 wu
 4EF6 jian
 4EF7 jia
-4EF8 yao fo
+4EF8 yao
 4EF9 feng
 4EFA cang
 4EFB ren
@@ -251,28 +251,28 @@
 4F0F fu
 4F10 fa
 4F11 xiu
-4F12 jin yin
+4F12 jin
 4F13 pi
-4F14 dan shen
+4F14 dan
 4F15 fu
 4F16 tang
 4F17 zhong
 4F18 you
 4F19 huo
-4F1A hui kuai
+4F1A hui
 4F1B yu
 4F1C cui
-4F1D chuan yun
+4F1D chuan
 4F1E san
 4F1F wei
-4F20 chuan zhuan
+4F20 chuan
 4F21 che
 4F22 ya
 4F23 xian
 4F24 shang
 4F25 chang
 4F26 lun
-4F27 cang chen
+4F27 cang
 4F28 xun
 4F29 xin
 4F2A wei
@@ -289,25 +289,25 @@
 4F36 ling
 4F37 zhou
 4F38 shen
-4F39 qu zu
+4F39 qu
 4F3A ci
 4F3B beng
-4F3C shi si
-4F3D ga jia qie
+4F3C shi
+4F3D ga
 4F3E pi
 4F3F yi
 4F40 si
-4F41 yi ai si chi
+4F41 yi
 4F42 zheng
 4F43 dian
-4F44 han gan
+4F44 han
 4F45 mai
 4F46 dan
 4F47 zhu
 4F48 bu
 4F49 qu
 4F4A bi
-4F4B zhao shao
+4F4B zhao
 4F4C ci
 4F4D wei
 4F4E di
@@ -336,20 +336,20 @@
 4F65 qian
 4F67 ka
 4F69 pei
-4F6A hui huai
+4F6A hui
 4F6B he
 4F6C lao
 4F6D xiang
-4F6E ge e
+4F6E ge
 4F6F yang
 4F70 bai
 4F71 fa
 4F72 ming
 4F73 jia
-4F74 er nai
+4F74 er
 4F75 bing
 4F76 ji
-4F77 hen heng
+4F77 hen
 4F78 huo
 4F79 gui
 4F7A quan
@@ -363,7 +363,7 @@
 4F82 tuo
 4F83 kan
 4F84 zhi
-4F85 gai hai
+4F85 gai
 4F86 lai
 4F87 yi
 4F88 chi
@@ -372,7 +372,7 @@
 4F8B li
 4F8C yin
 4F8D shi
-4F8E mi mei
+4F8E mi
 4F8F zhu
 4F90 xu
 4F91 you
@@ -381,7 +381,7 @@
 4F94 mou
 4F95 er
 4F96 lun
-4F97 dong tong
+4F97 dong
 4F98 cha
 4F99 chi
 4F9A xun
@@ -389,12 +389,12 @@
 4F9C zhou
 4F9D yi
 4F9E ru
-4F9F cun jian
+4F9F cun
 4FA0 xia
 4FA1 si
 4FA2 zai
 4FA3 lv
-4FA5 jiao yao
+4FA5 jiao
 4FA6 zhen
 4FA7 ce
 4FA8 qiao
@@ -406,28 +406,28 @@
 4FAE wu
 4FAF hou
 4FB0 jiong
-4FB1 cheng ting
-4FB2 zhen chen
+4FB1 cheng
+4FB2 zhen
 4FB3 zuo
 4FB4 chou
 4FB5 qin
-4FB6 lÜ
+4FB6 lv
 4FB7 ju
-4FB8 shu dou
+4FB8 shu
 4FB9 ting
 4FBA shen
-4FBB tui tuo
+4FBB tui
 4FBC bo
 4FBD nan
 4FBE xiao
-4FBF bian pian
+4FBF bian
 4FC0 tui
 4FC1 yu
 4FC2 xi
 4FC3 cu
 4FC4 e
 4FC5 qiu
-4FC6 xu shu
+4FC6 xu
 4FC7 guang
 4FC8 ku
 4FC9 wu
@@ -440,25 +440,25 @@
 4FD0 li
 4FD1 yong
 4FD2 hun
-4FD3 jing ying
-4FD4 qian xian
+4FD3 jing
+4FD4 qian
 4FD5 san
 4FD6 pei
 4FD7 su
 4FD8 fu
 4FD9 xi
 4FDA li
-4FDB fu mian
+4FDB fu
 4FDC ping
 4FDD bao
-4FDE shu yu
-4FDF qi si
+4FDE shu
+4FDF qi
 4FE0 xia
 4FE1 xin
 4FE2 xiu
 4FE3 yu
 4FE4 di
-4FE5 che ju
+4FE5 che
 4FE6 chou
 4FE8 yan
 4FE9 lia
@@ -473,7 +473,7 @@
 4FF3 pai
 4FF4 jian
 4FF5 biao
-4FF6 chu ti
+4FF6 chu
 4FF7 fei
 4FF8 feng
 4FF9 ya
@@ -482,7 +482,7 @@
 4FFC yu
 4FFD xin
 4FFE bi
-4FFF hu chi
+4FFF hu
 5000 chang
 5001 zhi
 5002 bing
@@ -504,16 +504,16 @@
 5012 dao
 5013 tan
 5014 jue
-5015 chui zhui
+5015 chui
 5016 xing
-5017 peng ping
+5017 peng
 5018 tang
 5019 hou
 501A yi
 501B qi
 501C ti
 501D gan
-501E jing liang
+501E jing
 501F jie
 5020 sui
 5021 chang
@@ -531,7 +531,7 @@
 502D wo
 502E luo
 502F song
-5030 leng ling
+5030 leng
 5031 hun
 5032 dong
 5033 zi
@@ -550,11 +550,11 @@
 5041 cheng
 5042 jian
 5043 yan
-5044 ruan ru
-5045 zhong chong tong
+5044 ruan
+5045 zhong
 5046 chun
 5047 jia
-5048 ji jie
+5048 ji
 5049 wei
 504A yu
 504B bing
@@ -564,7 +564,7 @@
 504F pian
 5050 yan
 5051 feng
-5052 tang dang
+5052 tang
 5053 wo
 5054 e
 5055 xie
@@ -576,11 +576,11 @@
 505B cha
 505C ting
 505D bei
-505E xie ye zha
+505E xie
 505F huang
 5060 yao
 5061 zhan
-5062 chou qiao
+5062 chou
 5063 yan
 5064 you
 5065 jian
@@ -596,7 +596,7 @@
 506F yi
 5070 xie
 5071 xun
-5072 cai si
+5072 cai
 5073 duan
 5074 ce
 5075 zhen
@@ -604,15 +604,15 @@
 5077 tou
 5078 tou
 5079 bei
-507A za zan
-507B lou lv
+507A za
+507B lou
 507C jie
 507D wei
 507E fen
 507F chang
-5080 gui kui
+5080 gui
 5081 sou
-5082 zhi si
+5082 zhi
 5083 su
 5084 xia
 5085 fu
@@ -621,7 +621,7 @@
 5088 li
 5089 nu
 508A yun
-508B jiang gou
+508B jiang
 508C ma
 508D bang
 508E dian
@@ -630,16 +630,16 @@
 5091 jie
 5092 xi
 5093 shan
-5094 qian jian
+5094 qian
 5095 jue
-5096 cang chen
+5096 cang
 5097 chu
 5098 san
 5099 bei
 509A xiao
-509B yong rong
+509B yong
 509C yao
-509D tan ta
+509D tan
 509E suo
 509F yang
 50A0 fa
@@ -651,19 +651,19 @@
 50A7 bin
 50A8 chu
 50A9 nuo
-50AA can san ca sen
+50AA can
 50AB lei
 50AC cui
 50AD yong
-50AE zao cao
+50AE zao
 50AF zong
-50B0 beng peng
-50B1 song shuang
+50B0 beng
+50B1 song
 50B2 ao
-50B3 chuan zhuan
+50B3 chuan
 50B4 yu
 50B5 zhai
-50B6 zu qi
+50B6 zu
 50B7 shang
 50B8 chuang
 50B9 jing
@@ -672,10 +672,10 @@
 50BC han
 50BD zhang
 50BE qing
-50BF yan yin
+50BF yan
 50C0 di
-50C1 xie su
-50C2 lou lv
+50C1 xie
+50C2 lou
 50C3 bei
 50C4 piao
 50C5 jin
@@ -684,16 +684,16 @@
 50C8 man
 50C9 qian
 50CA xian
-50CB tan lan
+50CB tan
 50CC ying
 50CD dong
-50CE zhuan zun
+50CE zhuan
 50CF xiang
 50D0 shan
 50D1 qiao
 50D2 jiong
 50D3 tui
-50D4 zun cuan
+50D4 zun
 50D5 pu
 50D6 xi
 50D7 lao
@@ -701,25 +701,25 @@
 50D9 guang
 50DA liao
 50DB qi
-50DC cheng deng teng
+50DC cheng
 50DD chan
 50DE wei
 50DF ji
 50E0 bo
 50E1 hui
 50E2 chuan
-50E3 tie jian
-50E4 dan chan shan da
-50E5 jiao yao
+50E3 tie
+50E4 dan
+50E5 jiao
 50E6 jiu
 50E7 seng
 50E8 fen
 50E9 xian
-50EA ju yu
+50EA ju
 50EB e
 50EC jiao
 50ED jian
-50EE tong zhuang
+50EE tong
 50EF lin
 50F0 bo
 50F1 gu
@@ -739,7 +739,7 @@
 5100 yi
 5101 jun
 5102 nong
-5103 chan shan tan dan zhan
+5103 chan
 5104 yi
 5105 dang
 5106 jing
@@ -765,14 +765,14 @@
 511B wu
 511C ning
 511D qiong
-511E ni er nai
+511E ni
 511F chang
-5120 lie la
+5120 lie
 5121 lei
 5122 lv
 5123 kuang
 5124 bao
-5125 yu di du
+5125 yu
 5126 biao
 5127 zan
 5128 zhi
@@ -789,7 +789,7 @@
 5133 chan
 5134 rang
 5135 shu
-5136 hui xie
+5136 hui
 5137 li
 5138 luo
 5139 zan
@@ -798,7 +798,7 @@
 513C yan
 513D lei
 513E nang
-513F r er
+513F r
 5140 wu
 5141 yun
 5142 zan
@@ -817,8 +817,8 @@
 514F chang
 5150 er
 5151 dui
-5152 r er
-5153 jin zan
+5152 r
+5153 jin
 5154 tu
 5155 si
 5156 yan
@@ -832,14 +832,14 @@
 515F shen
 5160 dou
 5162 jing
-5163 li ke
+5163 li
 5164 huang
 5165 ru
 5166 wang
 5167 nei
 5168 quan
 5169 liang
-516A yu shu zhu
+516A yu
 516B ba
 516C gong
 516D liu
@@ -853,7 +853,7 @@
 5176 qi
 5177 ju
 5178 dian
-5179 ci zi
+5179 ci
 517B yang
 517C jian
 517D shou
@@ -875,7 +875,7 @@
 518D zai
 518E gua
 518F jiong
-5190 mao mo
+5190 mao
 5191 zhou
 5192 mao
 5193 gou
@@ -883,7 +883,7 @@
 5195 mian
 5196 mi
 5197 rong
-5198 yin you
+5198 yin
 5199 xie
 519A kan
 519B jun
@@ -906,7 +906,7 @@
 51AC dong
 51AD tai
 51AE gang
-51AF feng ping
+51AF feng
 51B0 bing
 51B1 hu
 51B2 chong
@@ -972,7 +972,7 @@
 51F2 gan
 51F3 deng
 51F4 ping
-51F5 qian kan
+51F5 qian
 51F6 xiong
 51F7 kuai
 51F8 tu
@@ -1039,13 +1039,13 @@
 5235 er
 5236 zhi
 5237 shua
-5238 quan xuan
-5239 sha cha
+5238 quan
+5239 sha
 523A ci
 523B ke
 523C jie
 523D gui
-523E ci qi
+523E ci
 523F gui
 5240 kai
 5241 duo
@@ -1057,11 +1057,11 @@
 5247 ze
 5248 yuan
 5249 cuo
-524A xue xiao
-524B ke kei
+524A xue
+524B ke
 524C la
 524D qian
-524E sha cha
+524E sha
 524F chuang
 5250 gua
 5251 jian
@@ -1080,8 +1080,8 @@
 525E ji
 525F duo
 5260 qing
-5261 shan yan
-5262 du zhuo
+5261 shan
+5262 du
 5263 jian
 5264 ji
 5265 bo
@@ -1090,21 +1090,21 @@
 5268 huo
 5269 sheng
 526A jian
-526B duo du
-526C duan tuan zhi
+526B duo
+526C duan
 526D wu
 526E gua
 526F fu
 5270 sheng
 5271 jian
 5272 ge
-5273 da zha
+5273 da
 5274 kai
 5275 chuang
 5276 chuan
 5277 chan
-5278 tuan zhuan
-5279 lu jiu
+5278 tuan
+5279 lu
 527A li
 527B peng
 527C shan
@@ -1114,7 +1114,7 @@
 5280 gua
 5281 qiao
 5282 jue
-5283 hua huai
+5283 hua
 5284 zha
 5285 zhuo
 5286 lian
@@ -1122,7 +1122,7 @@
 5288 pi
 5289 liu
 528A gui
-528B jiao chao
+528B jiao
 528C gui
 528D jian
 528E jian
@@ -1149,7 +1149,7 @@
 52A3 lie
 52A4 jin
 52A5 keng
-52A6 xie lie
+52A6 xie
 52A7 zhi
 52A8 dong
 52A9 zhu
@@ -1203,7 +1203,7 @@
 52D9 wu
 52DA yi
 52DB xun
-52DC weng yang
+52DC weng
 52DD sheng
 52DE lao
 52DF mu
@@ -1213,21 +1213,21 @@
 52E3 ji
 52E4 qin
 52E5 jiang
-52E6 chao jiao
+52E6 chao
 52E7 quan
 52E8 xiang
 52E9 yi
 52EA jue
 52EB fan
 52EC juan
-52ED tong dong
+52ED tong
 52EE ju
 52EF dan
 52F0 xie
 52F1 mai
 52F2 xun
 52F3 xun
-52F4 lÜ
+52F4 lv
 52F5 li
 52F6 che
 52F7 rang
@@ -1276,7 +1276,7 @@
 5325 bian
 5326 gui
 5327 qie
-5328 zang cang
+5328 zang
 5329 kuang
 532A fei
 532B hu
@@ -1285,7 +1285,7 @@
 532E kui
 532F hui
 5330 dan
-5331 gui kui
+5331 gui
 5332 lian
 5333 lian
 5334 suan
@@ -1318,14 +1318,14 @@
 534F xie
 5350 wan
 5351 bei
-5352 cu zu
+5352 cu
 5353 zhuo
 5354 xie
 5355 dan
 5356 mai
 5357 nan
 5358 dan
-5359 ji chi
+5359 ji
 535A bo
 535B shuai
 535C bo
@@ -1341,7 +1341,7 @@
 5366 gua
 5367 wo
 5368 xie
-5369 jie bu
+5369 jie
 536A jie
 536B wei
 536C ang
@@ -1366,19 +1366,19 @@
 537F qing
 5380 xi
 5382 chang
-5383 wei yan
+5383 wei
 5384 e
 5385 ting
 5386 li
-5387 zhe zhai
-5388 han an
+5387 zhe
+5388 han
 5389 li
 538A ya
 538B ya
 538C yan
 538D she
-538E di zhi
-538F zha zhai
+538E di
+538F zha
 5390 pang
 5392 he
 5393 ya
@@ -1411,26 +1411,26 @@
 53AE si
 53AF li
 53B0 chang
-53B1 lan qian
+53B1 lan
 53B2 li
 53B3 yan
 53B4 yan
 53B5 yuan
 53B6 si
-53B7 gong hong
-53B8 lin min
-53B9 rou qiu
+53B7 gong
+53B8 lin
+53B9 rou
 53BA qu
 53BB qu
 53BD lei
 53BE du
 53BF xian
-53C0 zhuan hui
+53C0 zhuan
 53C1 san
-53C2 can shen
-53C3 can shen
-53C4 can cen shen san
-53C5 can cen
+53C2 can
+53C3 can
+53C4 can
+53C5 can
 53C6 ai
 53C7 dai
 53C8 you
@@ -1444,14 +1444,14 @@
 53D0 ba
 53D1 fa
 53D2 ruo
-53D3 shi li
+53D3 shi
 53D4 shu
-53D5 zhuo yi li jue
+53D5 zhuo
 53D6 qu
 53D7 shou
 53D8 bian
 53D9 xu
-53DA jia xia
+53DA jia
 53DB pan
 53DC sou
 53DD gao
@@ -1465,7 +1465,7 @@
 53E5 ju
 53E6 ling
 53E7 gua
-53E8 dao tao
+53E8 dao
 53E9 kou
 53EA zhi
 53EB jiao
@@ -1489,17 +1489,17 @@
 53FD ji
 53FF hong
 5400 mie
-5401 xu yu
+5401 xu
 5402 mang
 5403 chi
 5404 ge
-5405 xuan song
+5405 xuan
 5406 yao
-5407 zi ji
+5407 zi
 5408 he
 5409 ji
 540A diao
-540B cun ying
+540B cun
 540C tong
 540D ming
 540E hou
@@ -1510,7 +1510,7 @@
 5413 xia
 5414 ye
 5415 lv
-5416 ya a
+5416 ya
 5417 ma
 5418 ou
 5419 huo
@@ -1521,10 +1521,10 @@
 541E tun
 541F yin
 5420 fei
-5421 bi pi
+5421 bi
 5422 qin
 5423 qin
-5424 jie ge xie
+5424 jie
 5425 bu
 5426 fou
 5427 ba
@@ -1537,16 +1537,16 @@
 542E shun
 542F qi
 5430 hong
-5431 zhi zi
+5431 zhi
 5432 yin
 5433 wu
 5434 wu
 5435 chao
-5436 ne na
-5437 xue chuo jue
+5436 ne
+5437 xue
 5438 xi
 5439 chui
-543A dou ru
+543A dou
 543B wen
 543C hou
 543D hong
@@ -1554,10 +1554,10 @@
 543F gao
 5440 ya
 5441 jun
-5442 lÜ
+5442 lv
 5443 e
 5444 ge
-5445 mei wen
+5445 mei
 5446 dai
 5447 qi
 5448 cheng
@@ -1566,13 +1566,13 @@
 544B fu
 544C jiao
 544D hong
-544E chi ying
+544E chi
 544F sheng
-5450 ne na
+5450 ne
 5451 tun
 5452 m
 5453 yi
-5454 dai tai
+5454 dai
 5455 ou
 5456 li
 5457 bei
@@ -1584,8 +1584,8 @@
 545E shi
 545F juan
 5460 pen
-5461 wen min
-5462 ne ni
+5461 wen
+5462 ne
 5463 m
 5464 ling
 5465 ran
@@ -1594,40 +1594,40 @@
 5468 zhou
 5469 shi
 546A zhou
-546B tie che
-546C xi chi
+546B tie
+546C xi
 546D yi
-546E qi zhi
+546E qi
 546F ping
 5470 zi
-5471 gu gua
-5472 ci zi
+5471 gu
+5472 ci
 5473 wei
-5474 xu hou gou gu
-5475 a he
-5476 nao nu
-5477 ga xia
+5474 xu
+5475 a
+5476 nao
+5477 ga
 5478 pei
-5479 yi chi
-547A xiao hao
+5479 yi
+547A xiao
 547B shen
 547C hu
 547D ming
-547E da ya ta dan
-547F qu ka
+547E da
+547F qu
 5480 ju
-5481 han xian gan
+5481 han
 5482 za
 5483 tuo
 5484 duo
 5485 pou
 5486 pao
-5487 bie bi
+5487 bie
 5488 fu
 5489 yang
-548A he huo
+548A he
 548B za
-548C he huo
+548C he
 548D hai
 548E jiu
 548F yong
@@ -1651,7 +1651,7 @@
 54A2 e
 54A3 guang
 54A4 zha
-54A5 xi die zhi
+54A5 xi
 54A6 yi
 54A7 lie
 54A8 zi
@@ -1661,21 +1661,21 @@
 54AC yao
 54AD ji
 54AE zhou
-54AF ge ka lo luo
-54B0 shu xun
+54AF ge
+54B0 shu
 54B1 zan
 54B2 xiao
-54B3 hai ke
+54B3 hai
 54B4 hui
 54B5 kua
-54B6 huai shi guo gua hua
+54B6 huai
 54B7 tao
 54B8 xian
-54B9 e an n
+54B9 e
 54BA xuan
 54BB xiu
 54BC guo
-54BD yan ye
+54BD yan
 54BE lao
 54BF yi
 54C0 ai
@@ -1689,7 +1689,7 @@
 54C8 ha
 54C9 zai
 54CA you
-54CB die di
+54CB die
 54CC pai
 54CD xiang
 54CE ai
@@ -1699,7 +1699,7 @@
 54D2 da
 54D3 xiao
 54D4 bi
-54D5 hui yue
+54D5 hui
 54D7 hua
 54D9 kuai
 54DA duo
@@ -1713,7 +1713,7 @@
 54E3 pou
 54E4 mang
 54E5 ge
-54E6 o e
+54E6 o
 54E7 chi
 54E8 shao
 54E9 li
@@ -1727,17 +1727,17 @@
 54F1 bo
 54F2 zhe
 54F3 zha
-54F4 liang lang
+54F4 liang
 54F5 ba
 54F6 mie
-54F7 lie lv
+54F7 lie
 54F8 sui
 54F9 fu
 54FA bu
 54FB han
 54FC heng
 54FD geng
-54FE shuo yue
+54FE shuo
 54FF ge
 5500 you
 5501 yan
@@ -1749,9 +1749,9 @@
 5507 chun
 5508 yi
 5509 ai
-550A jia qian
+550A jia
 550B tu
-550C xian yan dan
+550C xian
 550D wan
 550E li
 550F xi
@@ -1759,7 +1759,7 @@
 5511 zuo
 5512 qiu
 5513 che
-5514 n ng wu
+5514 n
 5515 zao
 5516 ya
 5517 dou
@@ -1767,30 +1767,30 @@
 5519 di
 551A qin
 551B ma
-551D gong hong
+551D gong
 551E dou
 5520 lao
-5521 liang ying
+5521 liang
 5522 suo
 5523 zao
 5524 huan
 5526 sha
 5527 ji
-5528 zuo zu
-5529 wo wei
+5528 zuo
+5529 wo
 552A feng
-552B jin yin
+552B jin
 552C hu
 552D qi
 552E shou
 552F wei
 5530 shua
 5531 chang
-5532 er wa
+5532 er
 5533 li
 5534 qiang
-5535 an ng n
-5536 ze jie
+5535 an
+5536 ze
 5537 yo
 5538 nian
 5539 yu
@@ -1801,46 +1801,46 @@
 553E tuo
 553F hu
 5540 ai
-5541 zhao zhou
+5541 zhao
 5542 nou
 5543 ken
 5544 zhuo
-5545 zhuo zhao
+5545 zhuo
 5546 shang
-5547 di shi zhai
+5547 di
 5548 heng
 5549 lin
 554A a
-554B cai xiao
-554C xiang qiang
-554D tun zhun xiang tui dui
+554B cai
+554C xiang
+554D tun
 554E wu
 554F wen
 5550 cui
-5551 sha za jie die ti
+5551 sha
 5552 gu
 5553 qi
 5554 qi
 5555 tao
 5556 dan
 5557 dan
-5558 ye wa
+5558 ye
 5559 zi
-555A bi tu
+555A bi
 555B cui
-555C chuai chuo
+555C chuai
 555D he
 555E ya
 555F qi
 5560 zhe
 5561 fei
-5562 liang ying
+5562 liang
 5563 xian
 5564 pi
 5565 sha
 5566 la
 5567 ze
-5568 ying qing
+5568 ying
 5569 gua
 556A pa
 556B zhe
@@ -1851,8 +1851,8 @@
 5570 luo
 5571 yan
 5572 di
-5573 quan jue
-5574 chan tan
+5573 quan
+5574 chan
 5575 bo
 5576 ding
 5577 lang
@@ -1874,14 +1874,14 @@
 5588 jie
 5589 hou
 558A han
-558B die zha
+558B die
 558C zhou
 558D chai
 558E wai
-558F nuo re
+558F nuo
 5590 yu
 5591 yin
-5592 za zan
+5592 za
 5593 yao
 5594 o
 5595 mian
@@ -1890,18 +1890,18 @@
 5598 chuan
 5599 hui
 559A huan
-559B huan yuan xuan he
+559B huan
 559C xi
 559D he
 559E ji
 559F kui
-55A0 zhong chong
+55A0 zhong
 55A1 wei
-55A2 sha che
+55A2 sha
 55A3 xu
 55A4 huang
-55A5 duo zha
-55A6 nie yi
+55A5 duo
+55A6 nie
 55A7 xuan
 55A8 liang
 55A9 yu
@@ -1910,11 +1910,11 @@
 55AC qiao
 55AD yan
 55AE dan
-55AF pen ben
-55B0 can sun qi
+55AF pen
+55B0 can
 55B1 li
 55B2 yo
-55B3 cha zha
+55B3 cha
 55B4 wei
 55B5 miao
 55B6 ying
@@ -1925,31 +1925,31 @@
 55BC jie
 55BD lou
 55BE ku
-55BF zao qiao
+55BF zao
 55C0 hu
 55C1 ti
 55C2 yao
-55C3 he xiao hu
-55C4 a sha
+55C3 he
+55C4 a
 55C5 xiu
 55C6 qiang
 55C7 se
 55C8 yong
 55C9 su
-55CA hong gong
+55CA hong
 55CB xie
-55CC ai yi
+55CC ai
 55CD suo
 55CE ma
 55CF cha
 55D0 hai
 55D1 ke
-55D2 da ta
+55D2 da
 55D3 sang
 55D4 chen
 55D5 ru
 55D6 sou
-55D7 wa gu
+55D7 wa
 55D8 ji
 55D9 pang
 55DA wu
@@ -1957,7 +1957,7 @@
 55DC shi
 55DD ge
 55DE zi
-55DF jie jue
+55DF jie
 55E0 luo
 55E1 weng
 55E2 wa
@@ -1971,7 +1971,7 @@
 55EB nie
 55EC he
 55EE sai
-55EF n ng
+55EF n
 55F0 ge
 55F1 na
 55F2 dia
@@ -1981,7 +1981,7 @@
 55F7 ao
 55F8 ao
 55F9 lian
-55FA zui sui
+55FA zui
 55FB zhe
 55FC mo
 55FD sou
@@ -1991,10 +1991,10 @@
 5601 qi
 5602 jiao
 5603 chong
-5604 jiao dao
+5604 jiao
 5605 kai
 5606 tan
-5607 shan can shen
+5607 shan
 5608 cao
 5609 jia
 560A ai
@@ -2002,8 +2002,8 @@
 560C piao
 560D lou
 560E ga
-560F gu jia
-5610 xiao jiao lao bao miu
+560F gu
+5610 xiao
 5611 hu
 5612 hui
 5613 guo
@@ -2013,7 +2013,7 @@
 5617 chang
 5618 xu
 5619 po
-561A de dei
+561A de
 561B ma
 561C ma
 561D hu
@@ -2026,11 +2026,11 @@
 5624 ying
 5626 jiao
 5627 mi
-5628 xiao chi
+5628 xiao
 5629 hua
 562A mai
 562B ran
-562C chuai zuo
+562C chuai
 562D peng
 562E lao
 562F xiao
@@ -2046,23 +2046,23 @@
 5639 liao
 563A qiao
 563B xi
-563C chu xu shou
-563D chan tan
-563E dan tan
+563C chu
+563D chan
+563E dan
 563F hei
 5640 xun
 5641 e
 5642 zun
-5643 fan bo
+5643 fan
 5644 chi
 5645 hui
 5646 zan
 5647 chuang
-5648 cu za he
+5648 cu
 5649 dan
 564A yu
-564B tun kuo
-564C ceng cheng
+564B tun
+564C ceng
 564D jiao
 564E ye
 564F xi
@@ -2083,12 +2083,12 @@
 565E yan
 565F ying
 5660 da
-5661 zhan dan
+5661 zhan
 5662 o
-5663 zhou zhuo zhu du
+5663 zhou
 5664 jin
 5665 nong
-5666 hui yue
+5666 hui
 5667 xie
 5668 qi
 5669 e
@@ -2099,7 +2099,7 @@
 566E yuan
 566F ai
 5670 yong
-5671 jue xue
+5671 jue
 5672 kuai
 5673 yu
 5674 pen
@@ -2115,37 +2115,37 @@
 567F zui
 5680 ning
 5681 di
-5682 lan han
+5682 lan
 5683 ta
-5684 huo o
+5684 huo
 5685 ru
 5686 hao
 5687 xia
 5688 ye
 5689 duo
-568A pi xi xiu
-568B chou zhou
+568A pi
+568B chou
 568C ji
 568D jin
 568E hao
 568F ti
 5690 chang
-5693 ca cha
-5694 ti zhi
+5693 ca
+5694 ti
 5695 lu
 5696 hui
-5697 bo pao bao
+5697 bo
 5698 you
 5699 nie
 569A yin
-569B hu yo
+569B hu
 569C me
 569D hong
 569E zhe
 569F li
 56A0 liu
 56A2 nang
-56A3 ao xiao
+56A3 ao
 56A4 mo
 56A5 yan
 56A6 li
@@ -2176,38 +2176,38 @@
 56BF huo
 56C0 zhuan
 56C1 nie
-56C2 xiao ao
-56C3 ca zha za
-56C4 li lei
+56C2 xiao
+56C3 ca
+56C4 li
 56C5 chan
 56C6 chai
 56C7 li
 56C8 yi
 56C9 luo
 56CA nang
-56CB za zan can
+56CB za
 56CC su
 56CD xi
 56CF jian
-56D0 za nie yan e
+56D0 za
 56D1 zhu
 56D2 lan
 56D3 nie
 56D4 nang
-56D7 wei guo
+56D7 wei
 56D8 hui
 56D9 yin
 56DA qiu
 56DB si
 56DC nin
-56DD jian nan
+56DD jian
 56DE hui
 56DF xin
 56E0 yin
 56E1 nan
 56E2 tuan
 56E3 tuan
-56E4 dun tun
+56E4 dun
 56E5 kang
 56E6 yuan
 56E7 jiong
@@ -2243,11 +2243,11 @@
 5705 han
 5706 yuan
 5707 lun
-5708 quan juan
+5708 quan
 5709 yu
 570A qing
 570B guo
-570C chuan chui
+570C chuan
 570D wei
 570E yuan
 570F quan
@@ -2263,7 +2263,7 @@
 5719 lve
 571A hui
 571B yi
-571C huan yuan
+571C huan
 571D luan
 571E luan
 571F tu
@@ -2275,15 +2275,15 @@
 5725 lu
 5727 ya
 5728 zai
-5729 wei xu
+5729 wei
 572A ge
-572B yu zhun
+572B yu
 572C wu
 572D gui
 572E pi
 572F yi
-5730 de di
-5731 qian su
+5730 de
+5731 qian
 5732 qian
 5733 zhen
 5734 zhuo
@@ -2291,7 +2291,7 @@
 5736 qia
 5739 kuang
 573A chang
-573B qi yin
+573B qi
 573C nie
 573D mo
 573E ji
@@ -2302,12 +2302,12 @@
 5743 xun
 5744 yi
 5745 qin
-5746 mei fen
+5746 mei
 5747 jun
-5748 rong keng
-5749 tun dun
+5748 rong
+5749 tun
 574A fang
-574B ben fen
+574B ben
 574C ben
 574D tan
 574E kan
@@ -2315,8 +2315,8 @@
 5750 zuo
 5751 keng
 5752 bi
-5753 jing xing
-5754 di lan
+5753 jing
+5754 di
 5755 jing
 5756 ji
 5757 kuai
@@ -2333,7 +2333,7 @@
 5762 ban
 5763 tang
 5764 kun
-5765 qu ju
+5765 qu
 5766 tan
 5767 zhi
 5768 tuo
@@ -2351,11 +2351,11 @@
 5774 lu
 5775 qiu
 5776 mu
-5777 jiong ke
+5777 jiong
 5778 gou
 5779 xue
 577A ba
-577B chi di
+577B chi
 577C che
 577D ling
 577E zhu
@@ -2370,7 +2370,7 @@
 5787 ao
 5789 pao
 578B xing
-578C dong tong
+578C dong
 578D ji
 578E he
 578F lv
@@ -2413,33 +2413,33 @@
 57B7 xian
 57B8 yuan
 57B9 bang
-57BA fu fou pei pou
-57BB ba bei
+57BA fu
+57BB ba
 57BC yi
 57BD yin
-57BE han an
+57BE han
 57BF xu
-57C0 chui zhui
+57C0 chui
 57C1 qin
 57C2 geng
 57C3 ai
-57C4 beng feng
-57C5 fang di
+57C4 beng
+57C5 fang
 57C6 que
 57C7 yong
 57C8 jun
-57C9 jia xia
+57C9 jia
 57CA di
-57CB mai man
+57CB mai
 57CC lang
 57CD juan
 57CE cheng
 57CF shan
-57D0 jin qin
+57D0 jin
 57D1 zhe
 57D2 lie
 57D3 lie
-57D4 bu pu
+57D4 bu
 57D5 cheng
 57D7 bu
 57D8 shi
@@ -2452,27 +2452,27 @@
 57DF yu
 57E0 bu
 57E1 ya
-57E2 quan juan
-57E3 sui su
+57E2 quan
+57E3 sui
 57E4 pi
-57E5 qing zheng
+57E5 qing
 57E6 wan
 57E7 ju
 57E8 lun
-57E9 zheng cheng
+57E9 zheng
 57EA kong
-57EB chong shang
+57EB chong
 57EC dong
 57ED dai
 57EE tan
 57EF an
 57F0 cai
-57F1 chu tou
-57F2 beng bang
+57F1 chu
+57F2 beng
 57F3 kan
 57F4 zhi
 57F5 duo
-57F6 yi shi
+57F6 yi
 57F7 zhi
 57F8 yi
 57F9 pei
@@ -2481,7 +2481,7 @@
 57FC qi
 57FD sao
 57FE ju
-57FF ni ban
+57FF ni
 5800 ku
 5801 ke
 5802 tang
@@ -2500,7 +2500,7 @@
 5810 ya
 5811 qian
 5813 an
-5815 duo hui
+5815 duo
 5816 nao
 5817 tu
 5818 cheng
@@ -2516,10 +2516,10 @@
 5822 bao
 5823 yu
 5824 di
-5825 mao mou wu
+5825 mao
 5826 jie
 5827 ruan
-5828 ye ai e
+5828 ye
 5829 geng
 582A kan
 582B zong
@@ -2529,12 +2529,12 @@
 582F yao
 5830 yan
 5831 bao
-5832 ci ji
+5832 ci
 5833 mei
 5834 chang
 5835 du
 5836 tuo
-5837 yin pou
+5837 yin
 5838 feng
 5839 zhong
 583A jie
@@ -2543,7 +2543,7 @@
 583D gang
 583E chun
 583F jian
-5842 xiang jiang
+5842 xiang
 5843 huang
 5844 leng
 5845 duan
@@ -2571,7 +2571,7 @@
 585B li
 585C zhong
 585D bang
-585E sai se
+585E sai
 585F zang
 5860 dui
 5861 tian
@@ -2583,7 +2583,7 @@
 5867 ai
 5868 gong
 5869 yan
-586A kan xian
+586A kan
 586B tian
 586C yuan
 586D wen
@@ -2597,10 +2597,10 @@
 5876 lu
 5877 lu
 5878 ou
-5879 qian jian
+5879 qian
 587A mei
 587B mo
-587C zhuan tuan
+587C zhuan
 587D shuang
 587E shu
 587F lou
@@ -2610,14 +2610,14 @@
 5883 jing
 5884 ce
 5885 shu
-5886 zhi di
+5886 zhi
 5887 zhang
 5888 kan
 5889 yong
 588A dian
 588B chen
-588C zhi zhuo
-588D xi ji
+588C zhi
+588D xi
 588E guo
 588F qiang
 5890 jin
@@ -2637,23 +2637,23 @@
 589F xu
 58A0 shan
 58A1 shan
-58A2 ba fei
+58A2 ba
 58A3 pu
-58A4 kuai tui
-58A5 dong tuan
+58A4 kuai
+58A5 dong
 58A6 fan
-58A7 que qiao
+58A7 que
 58A8 mo
 58A9 dun
 58AA dun
-58AB zun cun
+58AB zun
 58AC di
 58AD sheng
 58AE duo
 58AF duo
 58B0 tan
 58B1 deng
-58B2 mu wu
+58B2 mu
 58B3 fen
 58B4 huang
 58B5 tan
@@ -2662,16 +2662,16 @@
 58BA ao
 58BB qiang
 58BC ji
-58BD qiao ao
+58BD qiao
 58BE ken
-58BF yi tu
-58C0 pi bi bei
+58BF yi
+58C0 pi
 58C1 bi
 58C2 dian
 58C3 jiang
 58C4 ye
 58C5 yong
-58C6 xue jue bo
+58C6 xue
 58C7 tan
 58C8 lan
 58C9 ju
@@ -2680,7 +2680,7 @@
 58CC rang
 58CD qian
 58CE xun
-58CF xian lan
+58CF xian
 58D0 xi
 58D1 he
 58D2 ai
@@ -2713,7 +2713,7 @@
 58F0 sheng
 58F1 yi
 58F2 mai
-58F3 ke qiao
+58F3 ke
 58F4 zhu
 58F5 zhuang
 58F6 hu
@@ -2725,14 +2725,14 @@
 58FC kun
 58FD shou
 58FE mang
-58FF zun cun
+58FF zun
 5900 shou
-5901 yi yin
-5902 zhi zhong
-5903 gu ying
+5901 yi
+5902 zhi
+5903 gu
 5904 chu
 5905 jiang
-5906 feng pang
+5906 feng
 5907 bei
 5909 bian
 590A sui
@@ -2747,8 +2747,8 @@
 5914 kui
 5915 xi
 5916 wai
-5917 yuan wan
-5918 mao wan
+5917 yuan
+5918 mao
 5919 su
 591A duo
 591B duo
@@ -2762,7 +2762,7 @@
 5924 yin
 5925 huo
 5926 chen
-5927 da dai
+5927 da
 5928 ze
 5929 tian
 592A tai
@@ -2770,13 +2770,13 @@
 592C guai
 592D yao
 592E yang
-592F ben hang
+592F ben
 5930 gao
 5931 shi
-5932 tao ben
+5932 tao
 5933 tai
 5934 tou
-5935 yan tao
+5935 yan
 5936 bi
 5937 yi
 5938 kua
@@ -2789,42 +2789,42 @@
 5940 en
 5941 lian
 5942 huan
-5943 di ti
+5943 di
 5944 yan
 5945 pao
 5946 juan
 5947 qi
 5948 nai
 5949 feng
-594A xie lie xi pi
+594A xie
 594B fen
 594C dian
 594E kui
 594F zou
 5950 huan
-5951 qi xie
+5951 qi
 5952 kai
 5953 zha
 5954 ben
 5955 yi
 5956 jiang
 5957 tao
-5958 zang zhuang
+5958 zang
 5959 ben
 595A xi
 595B huang
 595C fei
 595D diao
 595E xun
-595F beng keng
+595F beng
 5960 dian
 5961 ao
 5962 she
 5963 weng
-5964 ha tai
+5964 ha
 5965 ao
 5966 wu
-5967 ao yu
+5967 ao
 5968 jiang
 5969 lian
 596A duo
@@ -2838,7 +2838,7 @@
 5972 duo
 5973 nü
 5974 nu
-5975 ding tian
+5975 ding
 5976 nai
 5977 qian
 5978 jian
@@ -2860,50 +2860,50 @@
 5988 ma
 5989 dan
 598A ren
-598B fu you
+598B fu
 598C jing
 598D yan
-598E hai jie
+598E hai
 598F wen
 5990 zhong
 5991 pa
 5992 du
 5993 ji
-5994 keng hang
+5994 keng
 5995 zhong
 5996 yao
 5997 jin
 5998 yun
 5999 miao
-599A fou pei pi
-599C yue jue
+599A fou
+599C yue
 599D zhuang
 599E niu
 599F yan
-59A0 na nan
+59A0 na
 59A1 xin
 59A2 fen
 59A3 bi
 59A4 yu
 59A5 tuo
 59A6 feng
-59A7 wan yuan
+59A7 wan
 59A8 fang
 59A9 wu
 59AA yu
 59AB gui
 59AC du
-59AD ba bo
+59AD ba
 59AE ni
 59AF zhou
 59B0 zhuo
 59B1 zhao
 59B2 da
-59B3 nai ni
+59B3 nai
 59B4 yuan
 59B5 tou
-59B6 xian xuan xu
-59B7 zhi yi
+59B6 xian
+59B7 zhi
 59B8 e
 59B9 mei
 59BA mo
@@ -2933,7 +2933,7 @@
 59D2 si
 59D3 xing
 59D4 wei
-59D5 zi ci
+59D5 zi
 59D6 ju
 59D7 shan
 59D8 pin
@@ -2945,11 +2945,11 @@
 59DE ji
 59DF gai
 59E0 xiang
-59E1 hua huo
+59E1 hua
 59E2 juan
 59E3 jiao
 59E4 gou
-59E5 lao mu
+59E5 lao
 59E6 jian
 59E7 jian
 59E8 yi
@@ -2960,19 +2960,19 @@
 59ED xian
 59EE heng
 59EF guang
-59F0 jun xun xuan xin
+59F0 jun
 59F1 kua
 59F2 yan
 59F3 ming
 59F4 lie
 59F5 pei
-59F6 e ya
+59F6 e
 59F7 you
 59F8 yan
 59F9 cha
-59FA shen xian
+59FA shen
 59FB yin
-59FC shi ti ji
+59FC shi
 59FD gui
 59FE quan
 59FF zi
@@ -2986,10 +2986,10 @@
 5A07 jiao
 5A08 luan
 5A09 ping
-5A0A xian dan
+5A0A xian
 5A0B shao
 5A0C li
-5A0D cheng sheng
+5A0D cheng
 5A0E xie
 5A0F mang
 5A10 fu
@@ -2997,16 +2997,16 @@
 5A12 mei
 5A13 wei
 5A14 ke
-5A15 chuo cu lai
+5A15 chuo
 5A16 chuo
-5A17 ting tian
+5A17 ting
 5A18 niang
 5A19 xing
 5A1A nan
 5A1B yu
-5A1C na nuo
-5A1D pou bi
-5A1E nei sui
+5A1C na
+5A1D pou
+5A1E nei
 5A1F juan
 5A20 shen
 5A21 zhi
@@ -3017,11 +3017,11 @@
 5A26 pin
 5A27 tui
 5A28 xian
-5A29 mian wan
-5A2A wu yu
+5A29 mian
+5A2A wu
 5A2B yan
 5A2C wu
-5A2D ai xi
+5A2D ai
 5A2E yan
 5A2F yu
 5A30 si
@@ -3030,20 +3030,20 @@
 5A34 xian
 5A35 ju
 5A36 qu
-5A37 zhui shui
+5A37 zhui
 5A38 qi
 5A39 xian
 5A3A zhuo
 5A3B dong
 5A3C chang
 5A3D lu
-5A3E ai e
+5A3E ai
 5A3F e
 5A40 e
 5A41 lou
 5A42 mian
 5A43 cong
-5A44 pou pei bu
+5A44 pou
 5A45 ju
 5A46 po
 5A47 cai
@@ -3054,34 +3054,34 @@
 5A4C shu
 5A4D qi
 5A4E hui
-5A4F fan fu
+5A4F fan
 5A50 wo
-5A51 rui wo nei
+5A51 rui
 5A52 tan
 5A53 fei
 5A55 jie
 5A56 tian
 5A57 ni
-5A58 quan juan
+5A58 quan
 5A59 jing
 5A5A hun
 5A5B jing
-5A5C qian jin
+5A5C qian
 5A5D dian
 5A5E xing
 5A5F hu
-5A60 wan guan
+5A60 wan
 5A61 lai
 5A62 bi
 5A63 yin
-5A64 chou zhou
-5A65 nao chuo
+5A64 chou
+5A65 nao
 5A66 fu
 5A67 jing
 5A68 lun
-5A69 an nve
+5A69 an
 5A6A lan
-5A6B kun hun
+5A6B kun
 5A6C yin
 5A6D ya
 5A6E ju
@@ -3093,21 +3093,21 @@
 5A75 chan
 5A76 shen
 5A77 ting
-5A78 dang yang
+5A78 dang
 5A79 yao
 5A7A wu
 5A7B nan
-5A7C chuo ruo
+5A7C chuo
 5A7D jia
 5A7E tou
 5A7F xu
 5A80 yu
 5A81 wei
-5A82 di ti
+5A82 di
 5A83 rou
 5A84 mei
 5A85 dan
-5A86 ruan nen nun
+5A86 ruan
 5A87 qin
 5A88 hui
 5A89 wo
@@ -3117,7 +3117,7 @@
 5A8D fu
 5A8E jie
 5A8F duan
-5A90 yi xi
+5A90 yi
 5A91 zhong
 5A92 mei
 5A93 huang
@@ -3131,9 +3131,9 @@
 5A9B yuan
 5A9C zheng
 5A9D qiu
-5A9E shi ti zhi dai
+5A9E shi
 5A9F xie
-5AA0 tuo duo nuo
+5AA0 tuo
 5AA1 lian
 5AA2 mao
 5AA3 ran
@@ -3146,9 +3146,9 @@
 5AAA ao
 5AAC bao
 5AAD xu
-5AAE tou yu
+5AAE tou
 5AAF gui
-5AB0 chu zou
+5AB0 chu
 5AB1 yao
 5AB2 pi
 5AB3 xi
@@ -3164,21 +3164,21 @@
 5ABD ma
 5ABE gou
 5ABF kui
-5AC0 qin shen
+5AC0 qin
 5AC1 jia
 5AC2 sao
 5AC3 zhen
 5AC4 yuan
-5AC5 jie suo
+5AC5 jie
 5AC6 rong
-5AC7 ming meng
-5AC8 ying xing
+5AC7 ming
+5AC8 ying
 5AC9 ji
 5ACA su
 5ACB niao
 5ACC xian
 5ACD tao
-5ACE pang bang
+5ACE pang
 5ACF lang
 5AD0 nao
 5AD1 bao
@@ -3198,13 +3198,13 @@
 5ADF ni
 5AE0 li
 5AE1 di
-5AE2 gui zui
+5AE2 gui
 5AE3 yan
 5AE4 jin
-5AE5 zhuan tuan
+5AE5 zhuan
 5AE6 chang
-5AE7 ze ce
-5AE8 han nan
+5AE7 ze
+5AE8 han
 5AE9 nen
 5AEA lao
 5AEB mo
@@ -3212,12 +3212,12 @@
 5AED hu
 5AEE hu
 5AEF ao
-5AF0 nen nun
+5AF0 nen
 5AF1 qiang
 5AF3 pie
 5AF4 gu
 5AF5 wu
-5AF6 qiao jiao
+5AF6 qiao
 5AF7 tuo
 5AF8 zhan
 5AF9 mao
@@ -3243,7 +3243,7 @@
 5B0D mei
 5B0E fan
 5B0F fan
-5B10 xian yan jin
+5B10 xian
 5B11 yi
 5B12 hui
 5B13 jiao
@@ -3264,14 +3264,14 @@
 5B22 niang
 5B23 ning
 5B24 ma
-5B25 tiao diao
+5B25 tiao
 5B26 chou
 5B27 jin
 5B28 ci
 5B29 yu
 5B2A pin
 5B2B rong
-5B2C ru nou
+5B2C ru
 5B2D nai
 5B2E yan
 5B2F tai
@@ -3295,16 +3295,16 @@
 5B42 jiao
 5B43 niang
 5B44 lan
-5B45 qian xian
+5B45 qian
 5B46 ying
 5B47 shuang
-5B48 hui xie
-5B49 quan huan
+5B48 hui
+5B49 quan
 5B4A mi
 5B4B li
 5B4C luan
 5B4D yan
-5B4E zhu shu chuo
+5B4E zhu
 5B4F lan
 5B50 zi
 5B51 jie
@@ -3317,7 +3317,7 @@
 5B58 cun
 5B59 sun
 5B5A fu
-5B5B bei bo
+5B5B bei
 5B5C zi
 5B5D xiao
 5B5E xin
@@ -3329,7 +3329,7 @@
 5B64 gu
 5B65 nu
 5B66 xue
-5B68 zhuan ni
+5B68 zhuan
 5B69 hai
 5B6A luan
 5B6B sun
@@ -3338,10 +3338,10 @@
 5B6E cong
 5B6F qian
 5B70 shu
-5B71 can chan
+5B71 can
 5B72 ya
 5B73 zi
-5B74 ni yi
+5B74 ni
 5B75 fu
 5B76 zi
 5B77 li
@@ -3363,7 +3363,7 @@
 5B87 yu
 5B88 shou
 5B89 an
-5B8A tu jia
+5B8A tu
 5B8B song
 5B8C wan
 5B8D rou
@@ -3403,7 +3403,7 @@
 5BAF xiao
 5BB0 zai
 5BB1 zha
-5BB2 bao shi
+5BB2 bao
 5BB3 hai
 5BB4 yan
 5BB5 xiao
@@ -3416,7 +3416,7 @@
 5BBC kou
 5BBD kuan
 5BBE bin
-5BBF su xiu
+5BBF su
 5BC0 cai
 5BC1 zan
 5BC2 ji
@@ -3449,7 +3449,7 @@
 5BDD qin
 5BDE mo
 5BDF cha
-5BE0 ju lv lou
+5BE0 ju
 5BE1 gua
 5BE2 qin
 5BE3 hu
@@ -3476,28 +3476,28 @@
 5BF8 cun
 5BF9 dui
 5BFA si
-5BFB xun xin
+5BFB xun
 5BFC dao
-5BFD lv lve
+5BFD lv
 5BFE dui
 5BFF shou
 5C00 po
 5C01 feng
 5C02 zhuan
-5C03 fu bu po
+5C03 fu
 5C04 she
-5C05 ke kei
+5C05 ke
 5C06 jiang
 5C07 jiang
 5C08 zhuan
-5C09 wei yu
+5C09 wei
 5C0A zun
-5C0B xun xin
-5C0C shu zhu
+5C0B xun
+5C0C shu
 5C0D dui
 5C0E dao
 5C0F xiao
-5C10 jie ji
+5C10 jie
 5C11 shao
 5C12 er
 5C13 er
@@ -3506,7 +3506,7 @@
 5C16 jian
 5C17 shu
 5C18 chen
-5C19 shang chang
+5C19 shang
 5C1A shang
 5C1C ga
 5C1D chang
@@ -3519,7 +3519,7 @@
 5C25 liao
 5C26 liao
 5C27 yao
-5C28 mang meng
+5C28 mang
 5C29 wang
 5C2A wang
 5C2B wang
@@ -3569,7 +3569,7 @@
 5C58 man
 5C59 e
 5C5A lou
-5C5B ping bing
+5C5B ping
 5C5C ti
 5C5D fei
 5C5E shu
@@ -3588,19 +3588,19 @@
 5C6B jue
 5C6C shu
 5C6D xi
-5C6E che cao
-5C6F tun zhun
-5C70 ni po ji
+5C6E che
+5C6F tun
+5C70 ni
 5C71 shan
 5C73 xian
 5C74 li
-5C75 e yan
-5C78 long hong
+5C75 e
+5C78 long
 5C79 yi
 5C7A qi
 5C7B ren
 5C7C wu
-5C7D han an
+5C7D han
 5C7E shen
 5C7F yu
 5C80 chu
@@ -3613,10 +3613,10 @@
 5C88 ya
 5C89 wu
 5C8A jie
-5C8B e ji
+5C8B e
 5C8C ji
 5C8D qian
-5C8E fen cha
+5C8E fen
 5C8F wan
 5C90 qi
 5C91 cen
@@ -3642,7 +3642,7 @@
 5CA5 po
 5CA6 li
 5CA7 tiao
-5CA8 qu zu ju
+5CA8 qu
 5CA9 yan
 5CAA fu
 5CAB xiu
@@ -3674,7 +3674,7 @@
 5CC7 ba
 5CC8 luo
 5CC9 e
-5CCA fu nie
+5CCA fu
 5CCB xun
 5CCC die
 5CCD lu
@@ -3682,31 +3682,31 @@
 5CCF er
 5CD0 gai
 5CD1 quan
-5CD2 dong tong
+5CD2 dong
 5CD3 yi
 5CD4 mu
 5CD5 shi
 5CD6 an
 5CD7 wei
 5CD8 huan
-5CD9 shi zhi
+5CD9 shi
 5CDA mi
 5CDB li
 5CDC ji
-5CDD tong dong
+5CDD tong
 5CDE wei
 5CDF you
 5CE1 xia
 5CE2 li
 5CE3 yao
-5CE4 jiao qiao
+5CE4 jiao
 5CE5 zheng
 5CE6 luan
 5CE7 jiao
 5CE8 e
 5CE9 e
 5CEA yu
-5CEB xie ye
+5CEB xie
 5CEC bu
 5CED qiao
 5CEE qun
@@ -3726,7 +3726,7 @@
 5CFC hao
 5CFD xia
 5CFE yin
-5CFF yu wu
+5CFF yu
 5D00 lang
 5D01 kan
 5D02 lao
@@ -3764,13 +3764,13 @@
 5D22 zheng
 5D23 wei
 5D24 xiao
-5D25 pi bi
+5D25 pi
 5D26 yan
 5D27 song
 5D28 jie
 5D29 beng
 5D2A zu
-5D2B ku jue
+5D2B ku
 5D2C dong
 5D2D zhan
 5D2E gu
@@ -3778,20 +3778,20 @@
 5D31 ze
 5D32 huang
 5D33 yu
-5D34 wai wei
-5D35 yang dang
+5D34 wai
+5D35 yang
 5D36 feng
 5D37 qiu
 5D38 yang
 5D39 ti
 5D3A yi
 5D3B zhi
-5D3C shi die
+5D3C shi
 5D3D zai
 5D3E yao
 5D3F e
 5D40 zhu
-5D41 kan zhan
+5D41 kan
 5D42 lv
 5D43 yan
 5D44 mei
@@ -3803,11 +3803,11 @@
 5D4A sheng
 5D4B mei
 5D4C qian
-5D4D wu mao
+5D4D wu
 5D4E yu
 5D4F zong
 5D50 lan
-5D51 ke jie
+5D51 ke
 5D52 yan
 5D53 yan
 5D54 wei
@@ -3820,17 +3820,17 @@
 5D5D lou
 5D5E tu
 5D5F dui
-5D60 xi ji qi
+5D60 xi
 5D61 weng
 5D62 cang
-5D63 dang tang
-5D64 rong ying
+5D63 dang
+5D64 rong
 5D65 jie
-5D66 kai ai
+5D66 kai
 5D67 liu
 5D68 wu
 5D69 song
-5D6A qiao kao
+5D6A qiao
 5D6B zi
 5D6C wei
 5D6D beng
@@ -3839,16 +3839,16 @@
 5D70 qian
 5D71 yong
 5D72 nie
-5D73 cuo ci
+5D73 cuo
 5D74 ji
 5D77 song
 5D78 zong
 5D79 jiang
-5D7A liao jiao
+5D7A liao
 5D7B kang
 5D7C chan
 5D7D die
-5D7E cen can
+5D7E cen
 5D7F ding
 5D80 tu
 5D81 lou
@@ -3859,13 +3859,13 @@
 5D86 cao
 5D87 qu
 5D88 qiang
-5D89 cui zui
+5D89 cui
 5D8A zui
 5D8B dao
 5D8C dao
 5D8D xi
 5D8E yu
-5D8F pei pi
+5D8F pei
 5D90 long
 5D91 xiang
 5D92 ceng
@@ -3878,17 +3878,17 @@
 5D99 lin
 5D9A liao
 5D9B liao
-5D9C jin qin
+5D9C jin
 5D9D deng
 5D9E duo
 5D9F zun
-5DA0 jiao qiao
-5DA1 gui jue
+5DA0 jiao
+5DA1 gui
 5DA2 yao
 5DA3 jiao
 5DA4 yao
 5DA5 jue
-5DA6 zhan shan
+5DA6 zhan
 5DA7 yi
 5DA8 xue
 5DA9 nao
@@ -3913,12 +3913,12 @@
 5DBD yue
 5DBE yin
 5DC0 jie
-5DC1 li lie
-5DC2 gui xi juan
+5DC1 li
+5DC2 gui
 5DC3 long
 5DC4 long
 5DC5 dian
-5DC6 rong hong ying
+5DC6 rong
 5DC7 xi
 5DC8 ju
 5DC9 chan
@@ -3936,10 +3936,10 @@
 5DD6 yan
 5DD7 yan
 5DD8 yan
-5DD9 kui nao
+5DD9 kui
 5DDA yan
-5DDB chuan shun
-5DDC kuai huan
+5DDB chuan
+5DDC kuai
 5DDD chuan
 5DDE zhou
 5DDF huang
@@ -3954,7 +3954,7 @@
 5DE8 ju
 5DE9 gong
 5DEB wu
-5DEE cha chai
+5DEE cha
 5DEF qiu
 5DF0 qiu
 5DF1 ji
@@ -3970,7 +3970,7 @@
 5DFB juan
 5DFD xun
 5DFE jin
-5DFF fu po
+5DFF fu
 5E00 za
 5E01 bi
 5E02 shi
@@ -3990,11 +3990,11 @@
 5E10 zhang
 5E11 tang
 5E12 dai
-5E13 mo wa
+5E13 mo
 5E14 pei
 5E15 pa
 5E16 tie
-5E17 bo fu
+5E17 bo
 5E18 lian
 5E19 zhi
 5E1A zhou
@@ -4020,16 +4020,16 @@
 5E2E bang
 5E2F dai
 5E30 gui
-5E31 chou dao
+5E31 chou
 5E32 ping
 5E33 zhang
-5E34 san jian
+5E34 san
 5E35 wan
 5E36 dai
 5E37 wei
 5E38 chang
-5E39 sha qie
-5E3A qi ji
+5E39 sha
+5E3A qi
 5E3B ze
 5E3C guo
 5E3D mao
@@ -4041,7 +4041,7 @@
 5E43 wei
 5E44 wo
 5E45 fu
-5E46 yi kai
+5E46 yi
 5E47 bang
 5E48 ping
 5E4A gong
@@ -4053,12 +4053,12 @@
 5E50 teng
 5E51 hui
 5E52 zhong
-5E53 shan shen qiao
+5E53 shan
 5E54 man
 5E55 mu
 5E56 biao
 5E57 guo
-5E58 ze ce
+5E58 ze
 5E59 mu
 5E5A bang
 5E5B zhang
@@ -4068,7 +4068,7 @@
 5E5F zhi
 5E60 hu
 5E61 fan
-5E62 chuang zhuang
+5E62 chuang
 5E63 bi
 5E66 mi
 5E67 qiao
@@ -4076,7 +4076,7 @@
 5E69 fen
 5E6A meng
 5E6B bang
-5E6C chou dao
+5E6C chou
 5E6D mie
 5E6E chu
 5E6F jie
@@ -4085,7 +4085,7 @@
 5E72 gan
 5E73 ping
 5E74 nian
-5E75 jian qian
+5E75 jian
 5E76 bing
 5E77 bing
 5E78 xing
@@ -4105,11 +4105,11 @@
 5E86 qing
 5E87 bi
 5E88 qin
-5E89 dun tun
+5E89 dun
 5E8A chuang
 5E8B gui
 5E8C ya
-5E8D bai xin ting
+5E8D bai
 5E8E jie
 5E8F xu
 5E90 lu
@@ -4139,7 +4139,7 @@
 5EA9 tu
 5EAA gui
 5EAB ku
-5EAC mang meng
+5EAC mang
 5EAD ting
 5EAE you
 5EAF bu
@@ -4154,7 +4154,7 @@
 5EB8 yong
 5EB9 tuo
 5EBA song
-5EBB shu zhu zhe
+5EBB shu
 5EBC qing
 5EBD yu
 5EBE yu
@@ -4165,7 +4165,7 @@
 5EC3 fei
 5EC4 jiu
 5EC5 e
-5EC6 gui wei
+5EC6 gui
 5EC7 liu
 5EC8 sha
 5EC9 lian
@@ -4176,7 +4176,7 @@
 5ECE qing
 5ECF jiu
 5ED0 jiu
-5ED1 jin qin
+5ED1 jin
 5ED2 ao
 5ED3 kuo
 5ED4 lou
@@ -4189,7 +4189,7 @@
 5EDB chan
 5EDC tu
 5EDD si
-5EDE xin qian
+5EDE xin
 5EDF miao
 5EE0 chang
 5EE1 wu
@@ -4197,7 +4197,7 @@
 5EE3 guang
 5EE5 kuai
 5EE6 bi
-5EE7 qiang se
+5EE7 qiang
 5EE8 xie
 5EE9 lin
 5EEA lin
@@ -4214,7 +4214,7 @@
 5EF6 yan
 5EF7 ting
 5EF8 di
-5EF9 pai po
+5EF9 pai
 5EFA jian
 5EFB hui
 5EFC nai
@@ -4230,7 +4230,7 @@
 5F06 ju
 5F07 yan
 5F08 yi
-5F09 zang zhuang
+5F09 zang
 5F0A bi
 5F0B yi
 5F0C yi
@@ -4254,7 +4254,7 @@
 5F1E shen
 5F1F di
 5F20 zhang
-5F21 jue zhang
+5F21 jue
 5F22 tao
 5F23 fu
 5F24 di
@@ -4271,14 +4271,14 @@
 5F2F wan
 5F30 shao
 5F31 ruo
-5F32 xuan yuan
+5F32 xuan
 5F33 jing
 5F34 diao
 5F35 zhang
 5F36 jiang
 5F37 qiang
 5F38 peng
-5F39 dan tan
+5F39 dan
 5F3A qiang
 5F3B bi
 5F3C bi
@@ -4286,14 +4286,14 @@
 5F3E dan
 5F3F jian
 5F40 gou
-5F42 fa bo
+5F42 fa
 5F43 bi
 5F44 kou
 5F46 bie
 5F47 xiao
-5F48 dan tan
+5F48 dan
 5F49 guo
-5F4A jiang qiang
+5F4A jiang
 5F4B hong
 5F4C mi
 5F4D guo
@@ -4316,7 +4316,7 @@
 5F5E yi
 5F5F yue
 5F60 yue
-5F61 shan xian
+5F61 shan
 5F62 xing
 5F63 wen
 5F64 tong
@@ -4330,15 +4330,15 @@
 5F6C bin
 5F6D peng
 5F6E yong
-5F6F piao miao
+5F6F piao
 5F70 zhang
 5F71 ying
 5F72 chi
 5F73 chi
-5F74 zhuo bo
-5F75 tuo yi
+5F74 zhuo
+5F75 tuo
 5F76 ji
-5F77 fang pang
+5F77 fang
 5F78 zhong
 5F79 yi
 5F7A wang
@@ -4360,8 +4360,8 @@
 5F8A huai
 5F8B lü
 5F8C hou
-5F8D wang wa
-5F8E cheng zheng
+5F8D wang
+5F8E cheng
 5F8F zhi
 5F90 xu
 5F91 jing
@@ -4369,7 +4369,7 @@
 5F93 cong
 5F95 lai
 5F96 cong
-5F97 de dei
+5F97 de
 5F98 pai
 5F99 xi
 5F9B ji
@@ -4382,8 +4382,8 @@
 5FA2 xie
 5FA3 jie
 5FA4 jian
-5FA5 shi ti
-5FA6 jia xia
+5FA5 shi
+5FA6 jia
 5FA7 bian
 5FA8 huang
 5FA9 fu
@@ -4394,14 +4394,14 @@
 5FAE wei
 5FAF xi
 5FB0 zheng
-5FB1 piao biao
-5FB2 ti chi
-5FB3 de duo
+5FB1 piao
+5FB2 ti
+5FB3 de
 5FB4 zheng
-5FB5 zheng zhi
+5FB5 zheng
 5FB6 bie
 5FB7 de
-5FB8 chong zhong
+5FB8 chong
 5FB9 che
 5FBA jiao
 5FBB hui
@@ -4409,16 +4409,16 @@
 5FBD hui
 5FBE mei
 5FBF long
-5FC0 xiang rang
+5FC0 xiang
 5FC1 bao
-5FC2 qu ju
+5FC2 qu
 5FC3 xin
 5FC5 bi
 5FC6 yi
 5FC7 le
 5FC8 ren
 5FC9 dao
-5FCA ding ting
+5FCA ding
 5FCB gai
 5FCC ji
 5FCD ren
@@ -4426,15 +4426,15 @@
 5FCF chan
 5FD0 tan
 5FD1 te
-5FD2 te tei tui
+5FD2 te
 5FD3 gan
-5FD4 qi yi
-5FD5 shi tai
+5FD4 qi
+5FD5 shi
 5FD6 cun
 5FD7 zhi
 5FD8 wang
 5FD9 mang
-5FDA xi lie
+5FDA xi
 5FDB fan
 5FDC ying
 5FDD tian
@@ -4450,22 +4450,22 @@
 5FE7 you
 5FE8 wan
 5FE9 cong
-5FEA song zhong
+5FEA song
 5FEB kuai
-5FEC yu shu
+5FEC yu
 5FED bian
 5FEE zhi
-5FEF qi shi
+5FEF qi
 5FF0 cui
 5FF1 chen
 5FF2 tai
 5FF3 tun
-5FF4 qian qin
+5FF4 qian
 5FF5 nian
 5FF6 hun
 5FF7 xiong
 5FF8 niu
-5FF9 kuang wang
+5FF9 kuang
 5FFA xian
 5FFB xin
 5FFC kang
@@ -4483,30 +4483,30 @@
 6008 yi
 6009 bao
 600A chao
-600B min men
+600B min
 600C pei
 600D zuo
 600E zen
 600F yang
-6010 ju kou
+6010 ju
 6011 ban
 6012 nu
-6013 nao niu
+6013 nao
 6014 zheng
 6015 pa
 6016 bu
-6017 tie zhan
-6018 hu gu
-6019 hu tie
-601A ju qu cu zu
+6017 tie
+6018 hu
+6019 hu
+601A ju
 601B da
 601C lian
 601D si
-601E chou you
+601E chou
 601F di
 6020 dai
 6021 yi
-6022 tu die tui
+6022 tu
 6023 you
 6024 fu
 6025 ji
@@ -4518,15 +4518,15 @@
 602B fu
 602C xi
 602D bi
-602E you yao
+602E you
 602F qie
 6030 xuan
 6031 cong
 6032 bing
 6033 huang
-6034 xu xue
+6034 xu
 6035 chu
-6036 bi pi
+6036 bi
 6037 shu
 6038 xi
 6039 tan
@@ -4534,7 +4534,7 @@
 603C dui
 603F yi
 6040 shi
-6041 nen nin
+6041 nen
 6042 xun
 6043 shi
 6044 xi
@@ -4545,17 +4545,17 @@
 6049 zhi
 604A xie
 604B lian
-604C tiao yao
+604C tiao
 604D huang
 604E die
 604F hao
 6050 kong
-6051 gui wei
+6051 gui
 6052 heng
 6053 xi
-6054 jiao xiao
+6054 jiao
 6055 shu
-6057 hu kua
+6057 hu
 6058 qiu
 6059 yang
 605A hui
@@ -4575,10 +4575,10 @@
 6068 hen
 6069 en
 606A ke
-606B dong tong
+606B dong
 606C tian
 606D gong
-606E quan zhuan
+606E quan
 606F xi
 6070 qia
 6071 yue
@@ -4586,7 +4586,7 @@
 6073 ken
 6074 de
 6075 hui
-6076 e wu
+6076 e
 6078 tong
 6079 yan
 607A kai
@@ -4596,20 +4596,20 @@
 607E mang
 607F yong
 6080 yong
-6081 yuan juan
+6081 yuan
 6082 pi
 6083 kun
 6084 qiao
 6085 yue
-6086 yu shu
-6087 tu yu
-6088 jie ke
+6086 yu
+6087 tu
+6088 jie
 6089 xi
 608A zhe
 608B lin
 608C ti
 608D han
-608E hao jiao
+608E hao
 608F qie
 6090 ti
 6091 bu
@@ -4618,13 +4618,13 @@
 6094 hui
 6095 xi
 6096 bei
-6097 man men
+6097 man
 6098 yi
 6099 heng
 609A song
 609B quan
 609C cheng
-609D kui li
+609D kui
 609E wu
 609F wu
 60A0 you
@@ -4650,7 +4650,7 @@
 60B4 cui
 60B5 chang
 60B6 men
-60B7 san tan
+60B7 san
 60B8 ji
 60B9 guan
 60BA guan
@@ -4671,15 +4671,15 @@
 60C9 zhan
 60CA jing
 60CB wan
-60CC yuan wan yu
+60CC yuan
 60CD jin
 60CE ji
-60CF lan lin
-60D0 yu xu
+60CF lan
+60D0 yu
 60D1 huo
 60D2 he
 60D3 quan
-60D4 tan dan
+60D4 tan
 60D5 ti
 60D6 ti
 60D7 nie
@@ -4688,12 +4688,12 @@
 60DA hu
 60DB hun
 60DC xi
-60DD chang tang
+60DD chang
 60DE xin
 60DF wei
 60E0 hui
-60E1 e wu
-60E2 suo rui
+60E1 e
+60E2 suo
 60E3 zong
 60E4 jian
 60E5 yong
@@ -4712,7 +4712,7 @@
 60F2 yun
 60F3 xiang
 60F4 zhui
-60F5 die tie
+60F5 die
 60F6 huang
 60F7 chun
 60F8 qiong
@@ -4722,7 +4722,7 @@
 60FC bian
 60FD min
 60FE zong
-60FF ti shi
+60FF ti
 6100 qiao
 6101 chou
 6102 bei
@@ -4742,12 +4742,12 @@
 6110 mian
 6111 yong
 6112 kai
-6113 dang shang tang yang
+6113 dang
 6114 yin
 6115 e
-6116 chen dan xin
+6116 chen
 6117 mao
-6118 qia ke
+6118 qia
 6119 ke
 611A yu
 611B ai
@@ -4757,13 +4757,13 @@
 611F gan
 6120 yun
 6121 zong
-6122 sai si
+6122 sai
 6123 leng
 6124 fen
 6126 kui
 6127 kui
 6128 que
-6129 gong hong
+6129 gong
 612A yun
 612B su
 612C su
@@ -4786,24 +4786,24 @@
 613D bo
 613E kai
 613F yuan
-6140 xi xie
+6140 xi
 6141 hun
 6142 yong
 6143 yang
 6144 li
-6145 sao cao
+6145 sao
 6146 tao
 6147 yin
 6148 ci
-6149 xu chu
-614A qian qie
+6149 xu
+614A qian
 614B tai
 614C huang
 614D yun
 614E shen
 614F ming
 6151 she
-6152 cong cao
+6152 cong
 6153 piao
 6154 mu
 6155 mu
@@ -4829,7 +4829,7 @@
 6169 lian
 616A ou
 616B song
-616C qin jin
+616C qin
 616D yin
 616E lü
 616F shang
@@ -4841,21 +4841,21 @@
 6175 yong
 6176 qing
 6177 kang
-6178 di chi
-6179 zhi zhe
-617A lou lv
+6178 di
+6179 zhi
+617A lou
 617B juan
 617C qi
 617D qi
 617E yu
 617F ping
 6180 liao
-6181 cong song
+6181 cong
 6182 you
 6183 chong
 6184 zhi
 6185 tong
-6186 cheng zheng
+6186 cheng
 6187 qi
 6188 qu
 6189 peng
@@ -4870,7 +4870,7 @@
 6192 kui
 6193 hui
 6194 qiao
-6195 cheng zheng deng
+6195 cheng
 6196 yin
 6197 yin
 6198 xi
@@ -4879,11 +4879,11 @@
 619B tan
 619C duo
 619D dui
-619E dui dun tun
+619E dui
 619F su
 61A0 jue
 61A1 ce
-61A2 xiao jiao
+61A2 xiao
 61A3 fan
 61A4 fen
 61A5 lao
@@ -4912,7 +4912,7 @@
 61BC jing
 61BD song
 61BE han
-61BF jiao ji
+61BF jiao
 61C0 wei
 61C1 xuan
 61C2 dong
@@ -4942,12 +4942,12 @@
 61DA yin
 61DB dai
 61DC meng
-61DD ai ni
+61DD ai
 61DE meng
 61DF dui
-61E0 qi ji
+61E0 qi
 61E1 mo
-61E2 lan xian
+61E2 lan
 61E3 men
 61E4 chou
 61E5 zhi
@@ -4978,17 +4978,17 @@
 61FF yi
 6200 lian
 6201 nan
-6202 mi mo
+6202 mi
 6203 tang
 6204 jue
-6205 gang zhuang
-6206 gang zhuang
-6207 zhuang gang
+6205 gang
+6206 gang
+6207 zhuang
 6208 ge
 6209 yue
 620A wu
 620B jian
-620C qu xu
+620C qu
 620D shu
 620E rong
 620F xi
@@ -5005,7 +5005,7 @@
 621A qi
 621B jia
 621C die
-621D zei ze
+621D zei
 621E jia
 621F ji
 6220 zhi
@@ -5021,11 +5021,11 @@
 622A jie
 622B yu
 622C jian
-622D yan you
+622D yan
 622E lu
-622F hu xi
+622F hu
 6230 zhan
-6231 xi hu hui
+6231 xi
 6232 xi
 6233 chuo
 6234 dai
@@ -5034,7 +5034,7 @@
 6237 hu
 6238 hu
 6239 e
-623A shi yi
+623A shi
 623B ti
 623C mao
 623D hu
@@ -5044,7 +5044,7 @@
 6241 bian
 6242 dian
 6243 jiong
-6244 shang jiong
+6244 shang
 6245 yi
 6246 yi
 6247 shan
@@ -5055,7 +5055,7 @@
 624D cai
 624E zha
 624F qiu
-6250 le li cai
+6250 le
 6251 pu
 6252 ba
 6253 da
@@ -5064,15 +5064,15 @@
 6257 zai
 6258 tuo
 6259 zhang
-625A diao di yue li
+625A diao
 625B kang
-625C yu wu
-625D ku wu
-625E gan han
+625C yu
+625D ku
+625E gan
 625F shen
 6260 cha
-6261 tuo yi chi
-6262 gu qi jie ge
+6261 tuo
+6262 gu
 6263 kou
 6264 wu
 6265 den
@@ -5087,38 +5087,38 @@
 626E ban
 626F che
 6270 rao
-6271 xi cha qi
-6272 qian qin
+6271 xi
+6272 qian
 6273 ban
 6274 jia
 6275 yu
 6276 fu
 6277 ao
-6278 xi zhe
+6278 xi
 6279 pi
 627A zhi
-627B zhi sun kan
+627B zhi
 627C e
 627D den
 627E zhao
 627F cheng
 6280 ji
 6281 yan
-6282 kuang wang
+6282 kuang
 6283 bian
 6284 chao
 6285 ju
 6286 wen
-6287 hu gu jue
+6287 hu
 6288 yue
 6289 jue
 628A ba
 628B qin
-628C dan shen
+628C dan
 628D zheng
 628E yun
 628F wan
-6290 ne ni na rui
+6290 ne
 6291 yi
 6292 shu
 6293 zhua
@@ -5126,12 +5126,12 @@
 6295 tou
 6296 dou
 6297 kang
-6298 zhe she
-6299 pou fu
+6298 zhe
+6299 pou
 629A fu
 629B pao
 629C ba
-629D ao niu
+629D ao
 629E ze
 629F tuan
 62A0 kou
@@ -5140,25 +5140,25 @@
 62A4 hu
 62A5 bao
 62A6 bing
-62A7 zhi zhai
+62A7 zhi
 62A8 peng
 62A9 tan
-62AA bu pu ba
+62AA bu
 62AB pi
 62AC tai
-62AD yao tao
+62AD yao
 62AE zhen
 62AF zha
 62B0 yang
 62B1 bao
-62B2 he qia
+62B2 he
 62B3 ni
 62B4 ye
 62B5 di
 62B6 chi
-62B7 pi pei
+62B7 pi
 62B8 jia
-62B9 mo ma
+62B9 mo
 62BA mei
 62BB chen
 62BC ya
@@ -5166,7 +5166,7 @@
 62BE qu
 62BF min
 62C0 chu
-62C1 jia ya
+62C1 jia
 62C2 fu
 62C3 zha
 62C4 zhu
@@ -5184,14 +5184,14 @@
 62D0 guai
 62D1 qian
 62D2 ju
-62D3 ta tuo
+62D3 ta
 62D4 ba
 62D5 tuo
 62D6 tuo
-62D7 ao niu
+62D7 ao
 62D8 ju
 62D9 zhuo
-62DA pan pin
+62DA pan
 62DB zhao
 62DC bai
 62DD bai
@@ -5218,22 +5218,22 @@
 62F2 gong
 62F3 quan
 62F4 shuan
-62F5 cun zun
-62F6 za zan
+62F5 cun
+62F6 za
 62F7 kao
-62F8 yi chi hai
+62F8 yi
 62F9 xie
-62FA ce se chuo
+62FA ce
 62FB hui
 62FC pin
-62FD ye zhuai
+62FD ye
 62FE shi
 62FF na
 6300 bai
 6301 chi
 6302 gua
-6303 zhi die
-6304 kuo guang
+6303 zhi
+6304 kuo
 6305 duo
 6306 duo
 6307 zhi
@@ -5241,7 +5241,7 @@
 6309 an
 630A nong
 630B zhen
-630C ge he
+630C ge
 630D jiao
 630E kua
 630F dong
@@ -5249,15 +5249,15 @@
 6311 tiao
 6312 lie
 6313 zha
-6314 lÜ
-6315 die she
+6314 lv
+6315 die
 6316 wa
 6317 jue
 6319 ju
 631A zhi
 631B luan
 631C ya
-631D wo zhua
+631D wo
 631E ta
 631F xie
 6320 nao
@@ -5276,69 +5276,69 @@
 632E ti
 632F zhen
 6330 cheng
-6331 sa sha suo
-6332 sa sha suo
-6333 keng qian
+6331 sa
+6332 sa
+6333 keng
 6334 mei
-6335 long nong
+6335 long
 6336 ju
-6337 peng beng bang
+6337 peng
 6338 jian
 6339 yi
 633A ting
-633B shan yan
-633C rua ruo
+633B shan
+633C rua
 633D wan
 633E xie
-633F cha zha
+633F cha
 6340 feng
-6341 jiao ku
+6341 jiao
 6342 wu
 6343 jun
 6344 jiu
 6345 tong
 6346 kun
-6347 huo chi
-6348 tu shu cha
+6347 huo
+6348 tu
 6349 zhuo
-634A pou fu
-634B lv luo
+634A pou
+634B lv
 634C ba
 634D han
 634E shao
 634F nie
 6350 juan
 6351 ze
-6352 shu sou song
-6353 ye yu
-6354 jue zhuo
+6352 shu
+6353 ye
+6354 jue
 6355 bu
-6356 wan gua
-6357 bu pu zhi
+6356 wan
+6357 bu
 6358 zun
 6359 yi
 635A zhai
-635B lÜ
+635B lv
 635C sou
-635D tuo shui yan
+635D tuo
 635E lao
 635F sun
 6360 bang
 6361 jian
 6362 huan
 6363 dao
-6365 wan yu
+6365 wan
 6366 qin
 6367 peng
 6368 she
 6369 lie
 636A min
 636B men
-636C fu bu
+636C fu
 636D bai
 636E ju
 636F dao
-6370 wo luo
+6370 wo
 6371 ai
 6372 juan
 6373 yue
@@ -5350,9 +5350,9 @@
 6379 ben
 637A na
 637B nian
-637C ruo wo wei re
+637C ruo
 637D zuo
-637E wo xia
+637E wo
 637F xi
 6380 xian
 6381 cheng
@@ -5374,7 +5374,7 @@
 6391 qi
 6392 pai
 6393 shu
-6394 qian wan
+6394 qian
 6395 ling
 6396 ye
 6397 ya
@@ -5382,10 +5382,10 @@
 6399 zheng
 639A liang
 639B gua
-639C yi ni nai nie
-639D huo xu
+639C yi
+639D huo
 639E shan
-639F zheng ding
+639F zheng
 63A0 e
 63A1 cai
 63A2 tan
@@ -5404,20 +5404,20 @@
 63AF ken
 63B0 bai
 63B1 pa
-63B2 jie qi
+63B2 jie
 63B3 lu
-63B4 guai guo
+63B4 guai
 63B7 zhi
-63B8 dan shan
-63BA can chan shan
+63B8 dan
+63BA can
 63BB sao
 63BC guan
 63BD peng
 63BE yuan
 63BF nuo
 63C0 jian
-63C1 zheng keng
-63C2 jiu you
+63C1 zheng
+63C2 jiu
 63C3 jian
 63C4 yu
 63C5 yan
@@ -5425,7 +5425,7 @@
 63C7 nan
 63C8 hong
 63C9 rou
-63CA pi che
+63CA pi
 63CB wei
 63CC sai
 63CD zou
@@ -5435,24 +5435,24 @@
 63D1 nie
 63D2 cha
 63D3 shi
-63D4 zong song
+63D4 zong
 63D5 zhen
 63D6 yi
 63D7 xun
-63D8 yong huang
+63D8 yong
 63D9 bian
 63DA yang
 63DB huan
 63DC yan
-63DD zan zuan
+63DD zan
 63DE an
-63DF xu ju
+63DF xu
 63E0 ya
 63E1 wo
 63E2 ke
 63E3 chuai
 63E4 ji
-63E5 ti di
+63E5 ti
 63E6 la
 63E7 la
 63E8 chen
@@ -5463,12 +5463,12 @@
 63ED jie
 63EE hui
 63EF gen
-63F0 chong dong
-63F1 xiao shuo xian
-63F2 die she
+63F0 chong
+63F1 xiao
+63F2 die
 63F3 xie
 63F4 yuan
-63F5 qian jian
+63F5 qian
 63F6 ye
 63F7 cha
 63F8 zha
@@ -5495,16 +5495,16 @@
 640E sun
 640F bo
 6410 chu
-6411 rong nang
-6412 bang peng
+6411 rong
+6412 bang
 6413 cuo
 6414 sao
 6415 ke
 6416 yao
 6417 dao
 6418 zhi
-6419 nu nuo nou
-641A la xie xian
+6419 nu
+641A la
 641B jian
 641C sou
 641D qiu
@@ -5521,19 +5521,19 @@
 6428 ta
 6429 zha
 642A tang
-642B pan ban po
+642B pan
 642C ban
 642D da
 642E li
 642F tao
 6430 hu
-6431 zhi nai
+6431 zhi
 6432 wa
 6433 hua
 6434 qian
 6435 wen
 6436 qiang
-6437 tian shen
+6437 tian
 6438 zhen
 6439 e
 643A xie
@@ -5544,8 +5544,8 @@
 643F ge
 6440 wu
 6441 en
-6442 she nie
-6443 kang gang
+6442 she
+6443 kang
 6444 she
 6445 shu
 6446 bai
@@ -5553,19 +5553,19 @@
 6448 bin
 6449 sou
 644A tan
-644B sa sha
-644C chan sun
+644B sa
+644C chan
 644D suo
-644E jiu liu liao jiao nao
+644E jiu
 644F chong
 6450 chuang
-6451 guai guo
+6451 guai
 6452 bing
-6453 feng peng
+6453 feng
 6454 shuai
-6455 di tu zhi
-6456 qi cha
-6457 sou song
+6455 di
+6456 qi
+6457 sou
 6458 zhai
 6459 lian
 645A cheng
@@ -5575,34 +5575,34 @@
 645E luo
 645F lou
 6460 zong
-6461 gai xi
-6462 hu chu
+6461 gai
+6462 hu
 6463 zha
 6464 chuang
 6465 tang
 6466 hua
 6467 cui
-6468 nai zhi
+6468 nai
 6469 mo
-646A jiang qiang
+646A jiang
 646B gui
 646C ying
 646D zhi
-646E ao qiao
+646E ao
 646F zhi
-6470 nie che
+6470 nie
 6471 man
-6472 chan can
+6472 chan
 6473 kou
 6474 chu
-6475 she su mi
+6475 she
 6476 tuan
-6477 jiao chao
+6477 jiao
 6478 mo
 6479 mo
 647A zhe
-647B can chan shan
-647C keng qian
+647B can
+647C keng
 647D biao
 647E jiang
 647F yin
@@ -5617,9 +5617,9 @@
 6488 lao
 6489 dun
 648A xian
-648B ruan rui run ruo sui
+648B ruan
 648C gui
-648D zan zen qian
+648D zan
 648E yi
 648F xian
 6490 cheng
@@ -5634,14 +5634,14 @@
 6499 zun
 649A nian
 649B lin
-649C zheng cheng
+649C zheng
 649D hui
 649E zhuang
 649F jiao
 64A0 ji
 64A1 cao
 64A2 dan
-64A3 dan shan
+64A3 dan
 64A4 che
 64A5 bo
 64A6 che
@@ -5652,10 +5652,10 @@
 64AB fu
 64AC qiao
 64AD bo
-64AE cuo zuo
+64AE cuo
 64AF zhuo
 64B0 zhuan
-64B1 wei tuo
+64B1 wei
 64B2 pu
 64B3 qin
 64B4 dun
@@ -5668,7 +5668,7 @@
 64BB ta
 64BC han
 64BD qiao
-64BE wo zhua
+64BE wo
 64BF jian
 64C0 gan
 64C1 yong
@@ -5678,23 +5678,23 @@
 64C5 shan
 64C6 zhuo
 64C7 ze
-64C8 pu bu
+64C8 pu
 64C9 chuo
 64CA ji
 64CB dang
 64CC se
 64CD cao
 64CE qing
-64CF qing jing
+64CF qing
 64D0 huan
-64D1 jie xie cha sha
+64D1 jie
 64D2 qin
 64D3 kuai
 64D4 dan
 64D5 xie
 64D6 ka
 64D7 pi
-64D8 bai bo
+64D8 bai
 64D9 ao
 64DA ju
 64DB ye
@@ -5713,47 +5713,47 @@
 64EA ye
 64EB ye
 64EC ni
-64ED wo huo hu
+64ED wo
 64EE ji
 64EF bin
 64F0 ning
 64F1 ge
 64F2 zhi
-64F3 zhi jie
+64F3 zhi
 64F4 kuo
-64F5 mo mi ma
+64F5 mo
 64F6 jian
 64F7 xie
-64F8 lie la
+64F8 lie
 64F9 tan
 64FA bai
 64FB sou
 64FC lu
-64FD lve li yue
+64FD lve
 64FE rao
-64FF ti zhi
+64FF ti
 6500 pan
 6501 yang
 6502 lei
-6503 ca sa
+6503 ca
 6504 shu
 6505 zan
 6506 nian
 6507 xian
-6508 jun pei
+6508 jun
 6509 huo
 650A li
-650B la lai
+650B la
 650C huan
 650D ying
-650E lu luo
+650E lu
 650F long
 6510 qian
 6511 qian
 6512 zan
 6513 qian
 6514 lan
-6515 xian jian
+6515 xian
 6516 ying
 6517 mei
 6518 rang
@@ -5763,20 +5763,20 @@
 651D she
 651E luo
 651F jun
-6520 mi mo
-6521 li chi
+6520 mi
+6521 li
 6522 zan
 6523 luan
 6524 tan
 6525 zuan
-6526 li shai
+6526 li
 6527 dian
 6528 wa
 6529 dang
 652A jiao
 652B jue
 652C lan
-652D li luo
+652D li
 652E nang
 652F zhi
 6530 gui
@@ -5791,7 +5791,7 @@
 6539 gai
 653A yi
 653B gong
-653C gan han
+653C gan
 653D ban
 653E fang
 653F zheng
@@ -5799,14 +5799,14 @@
 6541 dian
 6542 kou
 6543 min
-6544 wu mou
+6544 wu
 6545 gu
 6546 he
 6547 ce
 6548 xiao
 6549 mi
-654A chu shou
-654B ge guo
+654A chu
+654B ge
 654C di
 654D xu
 654E jiao
@@ -5832,19 +5832,19 @@
 6562 gan
 6563 san
 6564 ke
-6565 yan jiao
-6566 dui dun
-6567 ji qi
+6565 yan
+6566 dui
+6567 ji
 6568 tou
-6569 xiao xue
+6569 xiao
 656A duo
 656B jiao
 656C jing
 656D yang
-656E xia gui
-656F min hun
+656E xia
+656F min
 6570 shu
-6571 ai zhu
+6571 ai
 6572 qiao
 6573 ai
 6574 zheng
@@ -5858,13 +5858,13 @@
 657C yi
 657D jiao
 657F jiao
-6580 zhuo zhu
-6581 yi du tu
+6580 zhuo
+6581 yi
 6582 lian
 6583 bi
-6584 li tai
-6585 xiao xue
-6586 xiao jiao
+6584 li
+6585 xiao
+6586 xiao
 6587 wen
 6588 xue
 6589 qi
@@ -5895,7 +5895,7 @@
 65A3 dou
 65A4 jin
 65A5 chi
-65A6 yin zhi
+65A6 yin
 65A7 fu
 65A8 qiang
 65A9 zhan
@@ -5903,21 +5903,21 @@
 65AB zhuo
 65AC zhan
 65AD duan
-65AE cuo zhuo
+65AE cuo
 65AF si
 65B0 xin
 65B1 zhuo
 65B2 zhuo
-65B3 qin jin
+65B3 qin
 65B4 lin
 65B5 zhuo
 65B6 chu
 65B7 duan
 65B8 zhu
 65B9 fang
-65BA chan jie
+65BA chan
 65BB hang
-65BC wu yu
+65BC wu
 65BD shi
 65BE pei
 65BF you
@@ -5927,7 +5927,7 @@
 65C4 mao
 65C5 lü
 65C6 pei
-65C7 pi bi
+65C7 pi
 65C8 liu
 65C9 fu
 65CA fang
@@ -5954,7 +5954,7 @@
 65E0 wu
 65E1 ji
 65E2 ji
-65E3 ji xi
+65E3 ji
 65E4 huo
 65E5 ri
 65E6 dan
@@ -5969,7 +5969,7 @@
 65EF la
 65F0 gan
 65F1 han
-65F2 tai ying
+65F2 tai
 65F3 di
 65F4 xu
 65F5 chan
@@ -5980,7 +5980,7 @@
 65FA wang
 65FB min
 65FC min
-65FD tun zhun
+65FD tun
 65FE chun
 65FF wu
 6600 yun
@@ -5994,7 +5994,7 @@
 6608 hu
 6609 fang
 660A hao
-660B gui jiong
+660B gui
 660C chang
 660D xuan
 660E ming
@@ -6017,7 +6017,7 @@
 661F xing
 6620 ying
 6621 xuan
-6622 po pei
+6622 po
 6623 zhen
 6624 ling
 6625 chun
@@ -6027,18 +6027,18 @@
 6629 mo
 662A bian
 662B xu
-662C hun min
+662C hun
 662D zhao
 662E zong
 662F shi
 6630 shi
 6631 yu
 6632 fei
-6633 die yi
+6633 die
 6634 mao
 6635 ni
 6636 chang
-6637 wen yun
+6637 wen
 6638 dong
 6639 ai
 663A bing
@@ -6054,7 +6054,7 @@
 6644 huang
 6645 xuan
 6646 kui
-6647 xu kua
+6647 xu
 6648 jiao
 6649 jin
 664A zhi
@@ -6078,7 +6078,7 @@
 665C kun
 665D zhou
 665E xi
-665F cheng sheng
+665F cheng
 6660 sheng
 6661 bu
 6662 zhe
@@ -6100,13 +6100,13 @@
 6672 ni
 6673 xi
 6674 qing
-6675 qi du
+6675 qi
 6676 jing
 6677 gui
 6678 zheng
 6679 yi
 667A zhi
-667B an yan
+667B an
 667C wan
 667D lin
 667E liang
@@ -6125,7 +6125,7 @@
 668C kui
 668D ye
 668E ying
-668F shu du
+668F shu
 6690 wei
 6691 shu
 6692 qing
@@ -6142,14 +6142,14 @@
 669D ming
 669E jiao
 669F kai
-66A0 gao hao
+66A0 gao
 66A1 weng
 66A2 chang
 66A3 qi
 66A4 hao
 66A5 yan
 66A6 li
-66A7 ai nuan
+66A7 ai
 66A8 ji
 66A9 ji
 66AA men
@@ -6193,7 +6193,7 @@
 66D0 xing
 66D1 shen
 66D2 jiao
-66D3 bao bo
+66D3 bao
 66D4 jing
 66D5 yan
 66D6 ai
@@ -6237,9 +6237,9 @@
 66FE ceng
 66FF ti
 6700 zui
-6701 can qian jian
+6701 can
 6702 xu
-6703 hui kuai
+6703 hui
 6704 yin
 6705 qie
 6706 fen
@@ -6248,29 +6248,29 @@
 6709 you
 670A ruan
 670B peng
-670C fen ban
+670C fen
 670D fu
 670E ling
 670F fei
-6710 qu xu chun
+6710 qu
 6712 nv
-6713 tiao you
+6713 tiao
 6714 shuo
 6715 zhen
 6716 lang
 6717 lang
-6718 zui juan
+6718 zui
 6719 ming
-671A huang mang wang meng
+671A huang
 671B wang
 671C tun
-671D chao zhao
+671D chao
 671E ji
 671F qi
 6720 ying
 6721 zong
 6722 wang
-6723 tong chuang
+6723 tong
 6724 lang
 6726 meng
 6727 long
@@ -6288,20 +6288,20 @@
 6734 pu
 6735 duo
 6736 duo
-6737 dao mu tiao
+6737 dao
 6738 li
-6739 gui qiu
+6739 gui
 673A ji
 673B jiu
 673C bi
 673D xiu
-673E cheng zheng ting
+673E cheng
 673F ci
 6740 sha
 6742 za
 6743 quan
 6744 qian
-6745 yu wu
+6745 yu
 6746 gan
 6747 wu
 6748 cha
@@ -6314,15 +6314,15 @@
 674F xing
 6750 cai
 6751 cun
-6752 ren er
-6753 biao shao
-6754 tuo zhe
-6755 di duo
+6752 ren
+6753 biao
+6754 tuo
+6755 di
 6756 zhang
 6757 mang
 6758 chi
 6759 yi
-675A gai ge
+675A gai
 675B gong
 675C du
 675D li
@@ -6335,10 +6335,10 @@
 6768 yang
 6769 ma
 676A miao
-676B si zhi xi
+676B si
 676C yuan
 676D hang
-676E fei bei
+676E fei
 676F bei
 6770 jie
 6771 dong
@@ -6348,23 +6348,23 @@
 6775 chu
 6776 chun
 6777 pa
-6778 shu dui
+6778 shu
 6779 hua
 677A xin
-677B chou niu
+677B chou
 677C zhu
 677D chou
 677E song
 677F ban
 6780 song
 6781 ji
-6782 wo yue
+6782 wo
 6783 jin
 6784 gou
 6785 ji
 6786 mao
 6787 pi
-6788 bi pi
+6788 bi
 6789 wang
 678A ang
 678B fang
@@ -6386,7 +6386,7 @@
 679B zhao
 679C guo
 679D zhi
-679E cong zong
+679E cong
 679F yun
 67A1 dou
 67A2 shu
@@ -6398,7 +6398,7 @@
 67AB feng
 67AC nan
 67AD xiao
-67AE xian zhen
+67AE xian
 67AF ku
 67B0 ping
 67B1 tai
@@ -6408,8 +6408,8 @@
 67B5 xiao
 67B6 jia
 67B7 jia
-67B8 gou ju
-67B9 bao fu
+67B8 gou
+67B9 bao
 67BA mo
 67BB yi
 67BC ye
@@ -6417,11 +6417,11 @@
 67BE shi
 67BF nie
 67C0 bi
-67C1 duo tuo
-67C2 yi duo li
+67C1 duo
+67C2 yi
 67C3 ling
 67C4 bing
-67C5 ni chi
+67C5 ni
 67C6 la
 67C7 he
 67C8 ban
@@ -6429,7 +6429,7 @@
 67CA zhong
 67CB dai
 67CC ci
-67CD yang ying
+67CD yang
 67CE fu
 67CF bai
 67D0 mou
@@ -6446,33 +6446,33 @@
 67DB shen
 67DC gui
 67DD tuo
-67DE zha zuo
+67DE zha
 67DF nan
 67E0 ning
 67E1 yong
 67E2 di
-67E3 zhi die
-67E4 zha zu
+67E3 zhi
+67E4 zha
 67E5 cha
 67E6 dan
 67E7 gu
-67E8 bu pu
+67E8 bu
 67E9 jiu
 67EA ao
 67EB fu
 67EC jian
-67ED ba fu bo bie pei
+67ED ba
 67EE duo
 67EF ke
 67F0 nai
 67F1 zhu
-67F2 bi bie
+67F2 bi
 67F3 liu
 67F4 chai
-67F5 shan zha
+67F5 shan
 67F6 si
 67F7 chu
-67F8 pei bei
+67F8 pei
 67F9 shi
 67FA guai
 67FB zha
@@ -6484,14 +6484,14 @@
 6801 liu
 6802 mei
 6804 rong
-6805 shan zha
+6805 shan
 6807 biao
 6808 zhan
 6809 zhi
 680A long
 680B dong
 680C lu
-680E li yue
+680E li
 680F lan
 6810 yong
 6811 shu
@@ -6499,16 +6499,16 @@
 6813 shuan
 6814 qi
 6815 zhen
-6816 qi xi
+6816 qi
 6817 li
 6818 yi
 6819 xiang
 681A zhen
 681B li
-681C se ci
-681D gua kuo
+681C se
+681D gua
 681E kan
-681F ben bing
+681F ben
 6820 ren
 6821 xiao
 6822 bai
@@ -6520,11 +6520,11 @@
 6828 ci
 6829 xu
 682A zhu
-682B jian zun
+682B jian
 682C zui
 682D er
 682E er
-682F you yu
+682F you
 6830 fa
 6831 gong
 6832 kao
@@ -6535,7 +6535,7 @@
 6837 yang
 6838 he
 6839 gen
-683A yi zhi
+683A yi
 683B shi
 683C ge
 683D zai
@@ -6552,7 +6552,7 @@
 6848 an
 6849 an
 684A juan
-684B yi ti
+684B yi
 684C zhuo
 684D ku
 684E zhi
@@ -6565,8 +6565,8 @@
 6855 jiu
 6856 xue
 6857 duo
-6858 zhui chui dui
-6859 yu mou
+6858 zhui
+6859 yu
 685A zan
 685C ying
 685F zhan
@@ -6577,13 +6577,13 @@
 6864 qi
 6865 qiao
 6866 hua
-6867 gui hui
+6867 gui
 6868 jiang
 6869 zhuang
-686A xun xin
+686A xun
 686B suo
 686C sha
-686D zhen chen
+686D zhen
 686E bei
 686F ting
 6870 kuo
@@ -6602,7 +6602,7 @@
 687D wen
 687E jun
 687F gan
-6880 su yin
+6880 su
 6881 liang
 6882 qiu
 6883 ting
@@ -6613,10 +6613,10 @@
 6888 peng
 6889 zhuang
 688A di
-688B xuan juan xie
-688C tu cha
+688B xuan
+688C tu
 688D zao
-688E ao you
+688E ao
 688F gu
 6890 bi
 6891 di
@@ -6626,7 +6626,7 @@
 6895 ren
 6896 bei
 6897 geng
-6898 jian xian
+6898 jian
 6899 huan
 689A wan
 689B nuo
@@ -6635,7 +6635,7 @@
 689E ji
 689F xiao
 68A0 lv
-68A1 hun kuan
+68A1 hun
 68A2 shao
 68A3 cen
 68A4 fen
@@ -6651,7 +6651,7 @@
 68AE ju
 68AF ti
 68B0 xie
-68B1 kun hun
+68B1 kun
 68B2 zhuo
 68B3 shu
 68B4 chan
@@ -6659,7 +6659,7 @@
 68B6 wei
 68B7 jing
 68B8 li
-68B9 bin bing
+68B9 bin
 68BC tao
 68BD zhi
 68BE lai
@@ -6671,7 +6671,7 @@
 68C4 qi
 68C5 bing
 68C6 lun
-68C7 cong song
+68C7 cong
 68C8 qian
 68C9 mian
 68CA qi
@@ -6679,17 +6679,17 @@
 68CC cai
 68CD gun
 68CE chan
-68CF de zhe
+68CF de
 68D0 fei
 68D1 pai
 68D2 bang
-68D3 bang bei
+68D3 bang
 68D4 hun
 68D5 zong
 68D6 cheng
 68D7 zao
 68D8 ji
-68D9 li lie
+68D9 li
 68DA peng
 68DB yu
 68DC yu
@@ -6711,15 +6711,15 @@
 68EC quan
 68ED yi
 68EE sen
-68EF ren shen
+68EF ren
 68F0 chui
-68F1 leng ling
+68F1 leng
 68F2 qi
 68F3 zhuo
-68F4 fu su
+68F4 fu
 68F5 ke
 68F6 lai
-68F7 zou sou
+68F7 zou
 68F8 zou
 68F9 zhao
 68FA guan
@@ -6727,25 +6727,25 @@
 68FC fen
 68FD shen
 68FE qing
-68FF ni nie
+68FF ni
 6900 wan
 6901 guo
 6902 lu
 6903 hao
-6904 jie qie
+6904 jie
 6905 yi
-6906 chou zhou diao
+6906 chou
 6907 ju
 6908 ju
-6909 cheng sheng
-690A zuo cui
+6909 cheng
+690A zuo
 690B liang
-690C qiang kong
+690C qiang
 690D zhi
-690E chui zhui
+690E chui
 690F ya
 6910 ju
-6911 bei pi
+6911 bei
 6912 jiao
 6913 zhuo
 6914 zi
@@ -6761,34 +6761,34 @@
 6924 luo
 6925 zhi
 692A peng
-692B zhan shan
+692B zhan
 692D tuo
-692E sen shen
-692F duo chuan
+692E sen
+692F duo
 6930 ye
 6931 fu
-6932 wei hui
+6932 wei
 6933 wei
 6934 duan
 6935 jia
 6936 zong
-6937 jian han
+6937 jian
 6938 yi
-6939 shen zhen
+6939 shen
 693A xi
-693B yan ya
+693B yan
 693C yan
 693D chuan
 693E jian
 693F chun
 6940 yu
 6941 he
-6942 cha zha
+6942 cha
 6943 wo
 6944 pian
 6945 bi
 6946 yao
-6947 huo guo kua
+6947 huo
 6948 xu
 6949 ruo
 694A yang
@@ -6800,15 +6800,15 @@
 6950 jie
 6951 kui
 6952 si
-6953 feng fan
+6953 feng
 6954 xie
 6955 tuo
-6956 zhi ji
+6956 zhi
 6957 jian
 6958 mu
 6959 mao
 695A chu
-695B hu ku
+695B hu
 695C hu
 695D lian
 695E leng
@@ -6817,26 +6817,26 @@
 6961 yu
 6962 you
 6963 mei
-6964 song cong
+6964 song
 6965 xuan
 6966 xuan
 6967 yang
 6968 zhen
 6969 pian
-696A ye die
+696A ye
 696B ji
 696C jie
 696D ye
 696E chu
-696F dun shun
+696F dun
 6970 yu
-6971 zou cou
+6971 zou
 6972 wei
 6973 mei
-6974 ti di shi
+6974 ti
 6975 ji
 6976 jie
-6977 jie kai
+6977 jie
 6978 qiu
 6979 ying
 697A rou
@@ -6855,20 +6855,20 @@
 698D xie
 698E jia
 698F yi
-6990 zhan chan nian zhen
+6990 zhan
 6991 fu
 6992 nuo
 6993 mi
 6994 lang
 6995 rong
 6996 gu
-6997 jian jin
+6997 jian
 6998 ju
 6999 ta
 699A yao
 699B zhen
 699C bang
-699D sha xie
+699D sha
 699E yuan
 699F zi
 69A0 ming
@@ -6910,7 +6910,7 @@
 69C4 tao
 69C5 ge
 69C6 xun
-69C7 dian zhen
+69C7 dian
 69C8 nou
 69C9 ji
 69CA shuo
@@ -6918,10 +6918,10 @@
 69CC chui
 69CD qiang
 69CE cha
-69CF qian xian lian
+69CF qian
 69D0 huai
 69D1 mei
-69D2 xu chu
+69D2 xu
 69D3 gang
 69D4 gao
 69D5 zhuo
@@ -6931,10 +6931,10 @@
 69DA jia
 69DB kan
 69DC zui
-69DF bin bing
+69DF bin
 69E0 zhu
-69E2 xi die
-69E3 ji gui
+69E2 xi
+69E3 ji
 69E4 lian
 69E5 hui
 69E6 yong
@@ -6942,13 +6942,13 @@
 69E8 guo
 69E9 gai
 69EA gai
-69EB tuan shuan quan
+69EB tuan
 69EC hua
 69ED qi
-69EE sen shen
-69EF cui zui
+69EE sen
+69EF cui
 69F0 peng
-69F1 you chao
+69F1 you
 69F2 hu
 69F3 jiang
 69F4 hu
@@ -6965,11 +6965,11 @@
 69FF jin
 6A00 di
 6A01 zhuang
-6A02 le yue
+6A02 le
 6A03 lang
 6A04 chen
-6A05 cong zong
-6A06 li chi
+6A05 cong
+6A06 li
 6A07 xiu
 6A08 qing
 6A09 shuang
@@ -6983,21 +6983,21 @@
 6A11 liang
 6A12 mi
 6A13 lou
-6A14 chao jiao
+6A14 chao
 6A15 su
 6A16 ke
 6A17 chu
 6A18 tang
 6A19 biao
-6A1A lu du
+6A1A lu
 6A1B jiu
 6A1C zhe
 6A1D zha
 6A1E shu
 6A1F zhang
-6A20 man lang
-6A21 mo mu
-6A22 niao mu
+6A20 man
+6A21 mo
+6A22 niao
 6A23 yang
 6A24 tiao
 6A25 peng
@@ -7007,12 +7007,12 @@
 6A29 quan
 6A2A heng
 6A2B jian
-6A2C cong song
+6A2C cong
 6A2F qiang
 6A31 ying
-6A32 er zhi
+6A32 er
 6A33 xun
-6A34 zhi yi
+6A34 zhi
 6A35 qiao
 6A36 zui
 6A37 cong
@@ -7027,7 +7027,7 @@
 6A40 xi
 6A41 chun
 6A42 dian
-6A43 fa fei
+6A43 fa
 6A44 gan
 6A45 mo
 6A46 wu
@@ -7039,21 +7039,21 @@
 6A4C xian
 6A4D run
 6A4E fan
-6A4F zhan jian
+6A4F zhan
 6A50 tuo
 6A51 lao
 6A52 yun
 6A53 shun
-6A54 dun tui
+6A54 dun
 6A55 cheng
-6A56 tang cheng
+6A56 tang
 6A57 meng
 6A58 ju
-6A59 chen cheng
-6A5A su xiao qiu
+6A59 chen
+6A5A su
 6A5B jue
 6A5C jue
-6A5D dian tan xin
+6A5D dian
 6A5E hui
 6A5F ji
 6A60 nuo
@@ -7063,12 +7063,12 @@
 6A64 rui
 6A65 zhu
 6A66 tong
-6A67 zeng ceng
-6A68 fen fei
+6A67 zeng
+6A68 fen
 6A69 qiong
-6A6A ran yan
+6A6A ran
 6A6B heng
-6A6C qian qin
+6A6C qian
 6A6D gu
 6A6E liu
 6A6F lao
@@ -7079,7 +7079,7 @@
 6A79 lu
 6A7C yuan
 6A7D ta
-6A7E shu qiao sao
+6A7E shu
 6A7F jiang
 6A80 tan
 6A81 lin
@@ -7087,7 +7087,7 @@
 6A83 yin
 6A84 xi
 6A85 sui
-6A86 shan sha
+6A86 shan
 6A87 zui
 6A88 xuan
 6A89 cheng
@@ -7105,16 +7105,16 @@
 6A95 ji
 6A96 sui
 6A97 bo
-6A98 ping bo
+6A98 ping
 6A99 cheng
 6A9A chu
 6A9B zhua
-6A9C gui hui
+6A9C gui
 6A9D ji
-6A9E jie xie
+6A9E jie
 6A9F jia
 6AA0 qing
-6AA1 zhai shi tu
+6AA1 zhai
 6AA2 jian
 6AA3 qiang
 6AA4 dao
@@ -7129,19 +7129,19 @@
 6AAE tao
 6AAF tai
 6AB0 mian
-6AB1 qi ji
+6AB1 qi
 6AB2 tuan
-6AB3 bin bing
-6AB4 huo hua
+6AB3 bin
+6AB4 huo
 6AB5 ji
 6AB6 qian
-6AB7 ni mi
+6AB7 ni
 6AB8 ning
 6AB9 yi
 6ABA gao
 6ABB kan
 6ABC yin
-6ABD nou ruan ru
+6ABD nou
 6ABE qing
 6ABF yan
 6AC0 qi
@@ -7157,7 +7157,7 @@
 6ACB mian
 6ACC you
 6ACD zhi
-6ACE huang guang guo gu
+6ACE huang
 6ACF qian
 6AD0 lei
 6AD1 lei
@@ -7165,8 +7165,8 @@
 6AD3 lu
 6AD4 li
 6AD5 cuan
-6AD6 lv chu
-6AD7 mie mei
+6AD6 lv
+6AD7 mie
 6AD8 hui
 6AD9 ou
 6ADA lu
@@ -7174,9 +7174,9 @@
 6ADC gao
 6ADD du
 6ADE yuan
-6ADF li yue
+6ADF li
 6AE0 fei
-6AE1 zhuo zhu
+6AE1 zhuo
 6AE2 sou
 6AE3 lian
 6AE5 chu
@@ -7186,32 +7186,32 @@
 6AEA li
 6AEB zhu
 6AEC chen
-6AED jie ji
+6AED jie
 6AEE e
 6AEF su
-6AF0 huai gui
+6AF0 huai
 6AF1 nie
 6AF2 yu
 6AF3 long
 6AF4 lai
 6AF6 xian
 6AF8 ju
-6AF9 xiao qiu xiu
+6AF9 xiao
 6AFA ling
 6AFB ying
 6AFC jian
 6AFD yin
 6AFE you
 6AFF ying
-6B00 xiang rang
+6B00 xiang
 6B01 nong
 6B02 bo
-6B03 chan zhan
+6B03 chan
 6B04 lan
 6B05 ju
 6B06 shuang
 6B07 she
-6B08 wei zui
+6B08 wei
 6B09 cong
 6B0A quan
 6B0B qu
@@ -7220,7 +7220,7 @@
 6B10 li
 6B11 cuan
 6B12 luan
-6B13 dang tang
+6B13 dang
 6B14 jue
 6B16 lan
 6B17 lan
@@ -7236,35 +7236,35 @@
 6B22 huan
 6B23 xin
 6B24 yu
-6B25 yi huan yu
-6B26 qian han xian
+6B25 yi
+6B26 qian
 6B27 ou
 6B28 xu
 6B29 chao
-6B2A chu xi qu
+6B2A chu
 6B2B qi
 6B2C kai
-6B2D yi yin
+6B2D yi
 6B2E jue
-6B2F xi kai
+6B2F xi
 6B30 xu
 6B31 he
 6B32 yu
 6B33 kui
 6B34 lang
 6B35 kuan
-6B36 shuo sou
+6B36 shuo
 6B37 xi
-6B38 ai ei
-6B39 yi qi
+6B38 ai
+6B39 yi
 6B3A qi
-6B3B chua xu
-6B3C chi chuai
+6B3B chua
+6B3C chi
 6B3D qin
 6B3E kuan
 6B3F kan
 6B40 kuan
-6B41 kan ke qian
+6B41 kan
 6B42 chuan
 6B43 sha
 6B44 gua
@@ -7276,20 +7276,20 @@
 6B4A xiao
 6B4B ye
 6B4C ge
-6B4D wu yang
+6B4D wu
 6B4E tan
-6B4F jin qun
+6B4F jin
 6B50 ou
 6B51 hu
-6B52 ti xiao
+6B52 ti
 6B53 huan
 6B54 xu
-6B55 pen fen
-6B56 xi yi
+6B55 pen
+6B56 xi
 6B57 xiao
-6B58 chua xu
-6B59 she xi
-6B5B han lian
+6B58 chua
+6B59 she
+6B5B han
 6B5C chu
 6B5D yi
 6B5E e
@@ -7307,10 +7307,10 @@
 6B6A wai
 6B6B ju
 6B6C qian
-6B6D chi zhi
+6B6D chi
 6B6E se
 6B6F chi
-6B70 se sha
+6B70 se
 6B71 zhong
 6B72 sui
 6B73 sui
@@ -7324,7 +7324,7 @@
 6B7B si
 6B7C jian
 6B7D zhe
-6B7E mo wen
+6B7E mo
 6B7F mo
 6B80 yao
 6B81 mo
@@ -7343,15 +7343,15 @@
 6B8E qia
 6B8F qiu
 6B90 su
-6B91 qing jing
+6B91 qing
 6B92 yun
 6B93 lian
 6B94 yi
-6B95 fou ye bo
+6B95 fou
 6B96 zhi
-6B97 ye yan
+6B97 ye
 6B98 can
-6B99 hun men
+6B99 hun
 6B9A dan
 6B9B ji
 6B9C die
@@ -7380,12 +7380,12 @@
 6BB4 ou
 6BB5 duan
 6BB6 zhu
-6BB7 yan yin
-6BB8 qing keng sheng
+6BB7 yan
+6BB8 qing
 6BB9 yi
 6BBA sha
 6BBB qiao
-6BBC ke qiao
+6BBC ke
 6BBD xiao
 6BBE xun
 6BBF dian
@@ -7421,7 +7421,7 @@
 6BE0 jia
 6BE1 zhan
 6BE2 sai
-6BE3 mu mao
+6BE3 mu
 6BE4 tuo
 6BE5 xun
 6BE6 er
@@ -7431,7 +7431,7 @@
 6BEA mu
 6BEB hao
 6BEC qiu
-6BED dou nuo
+6BED dou
 6BEF tan
 6BF0 pei
 6BF1 ju
@@ -7444,11 +7444,11 @@
 6BF9 shu
 6BFA yu
 6BFB tuo
-6BFC he ke da
+6BFC he
 6BFD jian
 6BFE ta
 6BFF san
-6C00 lv shu yu dou
+6C00 lv
 6C01 mu
 6C02 mao
 6C03 tong
@@ -7476,7 +7476,7 @@
 6C19 xian
 6C1A chuan
 6C1B fen
-6C1C yang ri
+6C1C yang
 6C1D nei
 6C1F fu
 6C20 shen
@@ -7500,19 +7500,19 @@
 6C32 yun
 6C33 yun
 6C34 shui
-6C36 zheng cheng
+6C36 zheng
 6C37 bing
 6C38 yong
 6C39 dang
 6C3B le
-6C3C ni mei
+6C3C ni
 6C3D tun
 6C3E fan
-6C3F gui jiu
+6C3F gui
 6C40 ting
 6C41 zhi
 6C42 qiu
-6C43 bin pa
+6C43 bin
 6C44 ze
 6C45 mian
 6C46 cuan
@@ -7520,7 +7520,7 @@
 6C48 diao
 6C49 han
 6C4A cha
-6C4B zhuo yue que shuo
+6C4B zhuo
 6C4C chuan
 6C4D wan
 6C4E fan
@@ -7528,10 +7528,10 @@
 6C50 xi
 6C51 tuo
 6C52 mang
-6C53 qiu you
+6C53 qiu
 6C54 qi
 6C55 shan
-6C56 pin chi
+6C56 pin
 6C57 han
 6C58 qian
 6C59 wu
@@ -7544,7 +7544,7 @@
 6C60 chi
 6C61 wu
 6C64 tang
-6C65 zhi ji
+6C65 zhi
 6C66 zhi
 6C67 qian
 6C68 mi
@@ -7556,18 +7556,18 @@
 6C6E jun
 6C6F hong
 6C70 tai
-6C71 quan fu
+6C71 quan
 6C72 ji
 6C73 bian
 6C74 bian
-6C75 gan han cen
+6C75 gan
 6C76 wen
 6C77 zhong
-6C78 fang pang
+6C78 fang
 6C79 xiong
 6C7A jue
-6C7B hu huang
-6C7C niu you
+6C7B hu
+6C7C niu
 6C7D qi
 6C7E fen
 6C7F xu
@@ -7578,33 +7578,33 @@
 6C84 yun
 6C85 yuan
 6C86 hang
-6C87 yan wei
-6C88 chen shen
+6C87 yan
+6C88 chen
 6C89 chen
 6C8A dan
 6C8B you
-6C8C dun zhuan
+6C8C dun
 6C8D hu
 6C8E huo
 6C8F qi
 6C90 mu
-6C91 nv niu
-6C92 mei mo
-6C93 da ta
+6C91 nv
+6C92 mei
+6C93 da
 6C94 mian
-6C95 mi wu fu
+6C95 mi
 6C96 chong
-6C97 pang tian
+6C97 pang
 6C98 bi
 6C99 sha
 6C9A zhi
 6C9B pei
 6C9C pan
-6C9D zhui zi
+6C9D zhui
 6C9E za
 6C9F gou
 6CA0 liu
-6CA1 mei mo
+6CA1 mei
 6CA2 ze
 6CA3 feng
 6CA4 ou
@@ -7619,13 +7619,13 @@
 6CAD shu
 6CAE ju
 6CAF zan
-6CB0 tuo duo
+6CB0 tuo
 6CB1 tuo
-6CB2 tuo duo
+6CB2 tuo
 6CB3 he
 6CB4 li
 6CB5 mi
-6CB6 yi chi shi
+6CB6 yi
 6CB7 fa
 6CB8 fei
 6CB9 you
@@ -7645,14 +7645,14 @@
 6CC7 jia
 6CC8 zhong
 6CC9 quan
-6CCA po bo
+6CCA po
 6CCB hui
 6CCC mi
 6CCD ben
 6CCE ze
-6CCF zhu ku
+6CCF zhu
 6CD0 le
-6CD1 you ao
+6CD1 you
 6CD2 gu
 6CD3 hong
 6CD4 gan
@@ -7660,7 +7660,7 @@
 6CD6 mao
 6CD7 si
 6CD8 hu
-6CD9 ping peng
+6CD9 ping
 6CDA ci
 6CDB fan
 6CDC zhi
@@ -7674,12 +7674,12 @@
 6CE4 si
 6CE5 ni
 6CE6 ju
-6CE7 sa xue
+6CE7 sa
 6CE8 zhu
 6CE9 sheng
 6CEA lei
 6CEB xuan
-6CEC jue xue
+6CEC jue
 6CED fu
 6CEE pan
 6CEF min
@@ -7690,15 +7690,15 @@
 6CF4 guan
 6CF5 beng
 6CF6 xue
-6CF7 long shuang
+6CF7 long
 6CF8 lu
-6CFA luo po
+6CFA luo
 6CFB xie
 6CFC po
 6CFD ze
 6CFE jing
 6CFF yin
-6D00 pan zhou
+6D00 pan
 6D01 jie
 6D02 yi
 6D03 hui
@@ -7708,7 +7708,7 @@
 6D07 yin
 6D08 wei
 6D09 hou
-6D0A jian cun
+6D0A jian
 6D0B yang
 6D0C lie
 6D0D si
@@ -7717,7 +7717,7 @@
 6D10 xing
 6D11 fu
 6D12 sa
-6D13 se qi zi
+6D13 se
 6D14 zhi
 6D15 yin
 6D16 wu
@@ -7726,7 +7726,7 @@
 6D19 zhu
 6D1A jiang
 6D1B luo
-6D1D an yan e
+6D1D an
 6D1E dong
 6D1F ti
 6D20 mou
@@ -7741,10 +7741,10 @@
 6D29 xie
 6D2A hong
 6D2B xu
-6D2C su shuo
+6D2C su
 6D2D kuang
 6D2E tao
-6D2F qie jie
+6D2F qie
 6D30 ju
 6D31 er
 6D32 zhou
@@ -7773,12 +7773,12 @@
 6D49 shi
 6D4A zhuo
 6D4B ce
-6D4D hui kuai
+6D4D hui
 6D4E ji
 6D4F liu
 6D50 chan
 6D51 hun
-6D52 hu xu
+6D52 hu
 6D53 nong
 6D54 xun
 6D55 jin
@@ -7786,12 +7786,12 @@
 6D57 qiu
 6D58 wei
 6D59 zhe
-6D5A jun xun
+6D5A jun
 6D5B han
 6D5C bang
 6D5D mang
 6D5E zhuo
-6D5F you di
+6D5F you
 6D60 xi
 6D61 bo
 6D62 dou
@@ -7799,18 +7799,18 @@
 6D64 hong
 6D65 yi
 6D66 pu
-6D67 ying cheng zheng
+6D67 ying
 6D68 lan
 6D69 hao
 6D6A lang
 6D6B han
-6D6C hai li
+6D6C hai
 6D6D geng
 6D6E fu
 6D6F wu
 6D70 lian
 6D71 chun
-6D72 feng hong
+6D72 feng
 6D73 yi
 6D74 yu
 6D75 tong
@@ -7821,10 +7821,10 @@
 6D7A chong
 6D7B jiong
 6D7C mei
-6D7D sui nei
+6D7D sui
 6D7E cheng
 6D7F pei
-6D80 xian jian
+6D80 xian
 6D81 shen
 6D82 tu
 6D83 kun
@@ -7842,7 +7842,7 @@
 6D8F ting
 6D90 e
 6D91 su
-6D92 tun yun
+6D92 tun
 6D93 juan
 6D94 cen
 6D95 ti
@@ -7868,14 +7868,14 @@
 6DAA fu
 6DAB guan
 6DAC xing
-6DAD shou tao
+6DAD shou
 6DAE shuan
 6DAF ya
 6DB0 chuo
 6DB1 zhang
 6DB2 ye
-6DB3 kong nang
-6DB4 wo yuan
+6DB3 kong
+6DB4 wo
 6DB5 han
 6DB6 tuo
 6DB7 dong
@@ -7888,19 +7888,19 @@
 6DBE ta
 6DBF zhuo
 6DC0 dian
-6DC1 qie ji
+6DC1 qie
 6DC2 de
 6DC3 juan
 6DC4 zi
 6DC5 xi
 6DC6 xiao
 6DC7 qi
-6DC8 gu hu
-6DC9 guo guan
+6DC8 gu
+6DC9 guo
 6DCA yan
 6DCB lin
 6DCC tang
-6DCD zhou diao
+6DCD zhou
 6DCE peng
 6DCF hao
 6DD0 chang
@@ -7915,13 +7915,13 @@
 6DD9 cong
 6DDA lei
 6DDB zhe
-6DDC ping peng
+6DDC ping
 6DDD fei
 6DDE song
 6DDF tian
 6DE0 pi
 6DE1 dan
-6DE2 yu xu
+6DE2 yu
 6DE3 ni
 6DE4 yu
 6DE5 lu
@@ -7935,9 +7935,9 @@
 6DED qu
 6DEE huai
 6DEF yu
-6DF0 nian shen na
+6DF0 nian
 6DF1 shen
-6DF2 biao hu
+6DF2 biao
 6DF3 chun
 6DF4 hu
 6DF5 yuan
@@ -7953,41 +7953,41 @@
 6DFF mi
 6E00 ben
 6E01 yuan
-6E02 wen min
-6E03 ruo re
+6E02 wen
+6E03 ruo
 6E04 fei
 6E05 qing
 6E06 yuan
 6E07 ke
 6E08 ji
-6E09 she die
+6E09 she
 6E0A yuan
 6E0C lu
 6E0D zi
 6E0E du
 6E10 jian
-6E11 mian sheng
+6E11 mian
 6E12 pi
 6E14 yu
 6E15 yuan
 6E16 shen
 6E17 shen
 6E18 rou
-6E19 huan hui
+6E19 huan
 6E1A zhu
 6E1B jian
 6E1C nuan
 6E1D yu
-6E1E qiu wu
+6E1E qiu
 6E1F ting
 6E20 qu
 6E21 du
-6E22 fan feng
+6E22 fan
 6E23 zha
 6E24 bo
 6E25 wo
 6E26 wo
-6E27 di ti
+6E27 di
 6E28 wei
 6E29 wen
 6E2A ru
@@ -7997,7 +7997,7 @@
 6E2E he
 6E2F gang
 6E30 yan
-6E31 hong gong
+6E31 hong
 6E32 xuan
 6E33 mi
 6E34 ke
@@ -8005,7 +8005,7 @@
 6E36 ying
 6E37 yan
 6E38 you
-6E39 hong qing
+6E39 hong
 6E3A miao
 6E3B sheng
 6E3C mei
@@ -8017,7 +8017,7 @@
 6E42 e
 6E43 pai
 6E44 mei
-6E45 lian lan
+6E45 lian
 6E46 qi
 6E47 qi
 6E48 mei
@@ -8027,7 +8027,7 @@
 6E4C can
 6E4D tuan
 6E4E mian
-6E4F hui min
+6E4F hui
 6E50 mo
 6E51 xu
 6E52 ji
@@ -8042,7 +8042,7 @@
 6E5B zhan
 6E5C shi
 6E5D jie
-6E5E cheng zhen
+6E5E cheng
 6E5F huang
 6E60 tan
 6E61 yu
@@ -8053,12 +8053,12 @@
 6E66 sheng
 6E67 yong
 6E68 ju
-6E69 dong tong
-6E6A tuan nuan
-6E6B jiao qiu
+6E69 dong
+6E6A tuan
+6E6B jiao
 6E6C jiao
 6E6D qiu
-6E6E yan yin
+6E6E yan
 6E6F tang
 6E70 long
 6E71 huo
@@ -8067,11 +8067,11 @@
 6E74 ban
 6E75 you
 6E76 quan
-6E77 zhuang hun
+6E77 zhuang
 6E78 liang
 6E79 chan
 6E7A yan
-6E7B chun zhun
+6E7B chun
 6E7C nie
 6E7D zi
 6E7E wan
@@ -8087,12 +8087,12 @@
 6E8B ying
 6E8C po
 6E8D jin
-6E8E yan gui
+6E8E yan
 6E8F tang
 6E90 yuan
 6E91 suo
 6E92 yuan
-6E93 lian xian nian lin
+6E93 lian
 6E94 yao
 6E95 meng
 6E96 zhun
@@ -8122,7 +8122,7 @@
 6EAE shi
 6EAF su
 6EB0 ai
-6EB1 qin zhen
+6EB1 qin
 6EB2 sou
 6EB3 yun
 6EB4 xiu
@@ -8130,14 +8130,14 @@
 6EB6 rong
 6EB7 hun
 6EB8 su
-6EB9 suo se
-6EBA ni niao
+6EB9 suo
+6EBA ni
 6EBB ta
 6EBC shi
 6EBD ru
 6EBE ai
 6EBF pan
-6EC0 chu xu
+6EC0 chu
 6EC1 chu
 6EC2 pang
 6EC3 weng
@@ -8147,11 +8147,11 @@
 6EC7 dian
 6EC8 hao
 6EC9 huang
-6ECA xi xie qi
+6ECA xi
 6ECB zi
 6ECC di
 6ECD zhi
-6ECE xing ying
+6ECE xing
 6ECF fu
 6ED0 jie
 6ED1 hua
@@ -8164,9 +8164,9 @@
 6ED8 jiao
 6ED9 hui
 6EDA gun
-6EDB yin yan yao
-6EDC gao ze hao
-6EDD long shuang
+6EDB yin
+6EDC gao
+6EDD long
 6EDE zhi
 6EDF yan
 6EE0 she
@@ -8192,7 +8192,7 @@
 6EF5 mi
 6EF6 ao
 6EF7 lu
-6EF8 hu xu
+6EF8 hu
 6EF9 hu
 6EFA you
 6EFB chan
@@ -8214,7 +8214,7 @@
 6F0B long
 6F0C jin
 6F0D guo
-6F0E cong song
+6F0E cong
 6F0F lou
 6F10 zhi
 6F11 gai
@@ -8233,32 +8233,32 @@
 6F1E mi
 6F1F tang
 6F20 mo
-6F21 shang tang
+6F21 shang
 6F22 han
-6F23 lian lan
+6F23 lian
 6F24 lan
 6F25 wa
 6F26 chi
 6F27 gan
-6F28 feng peng beng
+6F28 feng
 6F29 xuan
 6F2A yi
 6F2B man
-6F2C zi se qi
+6F2C zi
 6F2D mang
 6F2E kang
-6F2F luo ta
+6F2F luo
 6F30 peng
 6F31 shu
 6F32 zhang
 6F33 zhang
-6F34 zhuang chuang chong
+6F34 zhuang
 6F35 xu
 6F36 huan
 6F37 huo
 6F38 jian
 6F39 yan
-6F3A shuang chuang
+6F3A shuang
 6F3B liao
 6F3C cui
 6F3D ti
@@ -8268,19 +8268,19 @@
 6F41 ying
 6F42 hong
 6F43 xun
-6F44 shu sou
-6F45 guan huan
+6F44 shu
+6F45 guan
 6F46 ying
 6F47 xiao
 6F4A xu
 6F4B lian
 6F4C zhi
 6F4D wei
-6F4E pi pie piao
+6F4E pi
 6F4F yu
-6F50 jiao qiao
+6F50 jiao
 6F51 po
-6F52 dang xiang yang
+6F52 dang
 6F53 hui
 6F54 jie
 6F55 wu
@@ -8288,10 +8288,10 @@
 6F57 ji
 6F58 pan
 6F59 wei
-6F5A su xiao sou
+6F5A su
 6F5B qian
 6F5C qian
-6F5D xi ya
+6F5D xi
 6F5E lu
 6F5F xi
 6F60 xun
@@ -8300,20 +8300,20 @@
 6F63 min
 6F64 run
 6F65 su
-6F66 lao liao
+6F66 lao
 6F67 zhen
-6F68 cong zong
+6F68 cong
 6F69 yi
-6F6A zhe zhi
+6F6A zhe
 6F6B wan
-6F6C shan tan
+6F6C shan
 6F6D tan
 6F6E chao
 6F6F xun
 6F70 kui
 6F71 ye
 6F72 shao
-6F73 tu zha
+6F73 tu
 6F74 zhu
 6F75 sa
 6F76 hei
@@ -8330,7 +8330,7 @@
 6F81 se
 6F82 cheng
 6F83 jiong
-6F84 cheng deng
+6F84 cheng
 6F85 hua
 6F86 jiao
 6F87 lao
@@ -8355,7 +8355,7 @@
 6F9C lan
 6F9E yu
 6F9F lin
-6FA0 mian sheng
+6FA0 mian
 6FA1 zao
 6FA2 dang
 6FA3 huan
@@ -8364,12 +8364,12 @@
 6FA6 yu
 6FA7 li
 6FA8 shi
-6FA9 xue xiao
+6FA9 xue
 6FAA ling
 6FAB wan
-6FAC zi ci
+6FAC zi
 6FAD yong
-6FAE hui kuai
+6FAE hui
 6FAF can
 6FB0 lian
 6FB1 dian
@@ -8380,7 +8380,7 @@
 6FB6 chan
 6FB7 man
 6FB8 dan
-6FB9 dan tan
+6FB9 dan
 6FBA yi
 6FBB sui
 6FBC pi
@@ -8391,17 +8391,17 @@
 6FC1 zhuo
 6FC2 lian
 6FC3 nong
-6FC4 guo wo
+6FC4 guo
 6FC5 jin
-6FC6 fen pen
+6FC6 fen
 6FC7 se
-6FC8 ji sha
+6FC8 ji
 6FC9 sui
-6FCA hui wei huo
+6FCA hui
 6FCB chu
 6FCC ta
 6FCD song
-6FCE ding ting
+6FCE ding
 6FD0 zhu
 6FD1 lai
 6FD2 bin
@@ -8420,18 +8420,18 @@
 6FDF ji
 6FE0 hao
 6FE1 ru
-6FE2 cui zui
+6FE2 cui
 6FE3 wo
 6FE4 tao
 6FE5 yin
 6FE6 yin
 6FE7 dui
 6FE8 ci
-6FE9 huo hu
+6FE9 huo
 6FEA jing
 6FEB lan
-6FEC jun xun
-6FED ai kai ke
+6FEC jun
+6FED ai
 6FEE pu
 6FEF zhuo
 6FF0 wei
@@ -8442,9 +8442,9 @@
 6FF6 kuo
 6FF7 fei
 6FFA jian
-6FFB wei dui
+6FFB wei
 6FFC luo
-6FFD zan cuan qian za
+6FFD zan
 6FFE lv
 6FFF li
 7000 you
@@ -8461,7 +8461,7 @@
 700B shen
 700C biao
 700D chan
-700E mo mie
+700E mo
 700F liu
 7010 jian
 7011 pu
@@ -8481,12 +8481,12 @@
 701F xiao
 7020 ying
 7021 sui
-7022 wei dui
+7022 wei
 7023 xie
-7024 huai wai
+7024 huai
 7025 xue
 7026 zhu
-7027 long shuang
+7027 long
 7028 lai
 7029 dui
 702A fan
@@ -8496,7 +8496,7 @@
 7030 mi
 7031 ji
 7032 lian
-7033 jian zun
+7033 jian
 7034 ying
 7035 fen
 7036 lin
@@ -8511,7 +8511,7 @@
 703F fan
 7040 shuang
 7041 yuan
-7042 zhuo ze jiao
+7042 zhuo
 7043 feng
 7044 she
 7045 lei
@@ -8544,14 +8544,14 @@
 7062 nang
 7063 wan
 7064 luan
-7065 xun quan
+7065 xun
 7066 xian
 7067 yan
 7068 gan
 7069 yan
 706A yu
 706B huo
-706C biao huo
+706C biao
 706D mie
 706E guang
 706F deng
@@ -8563,7 +8563,7 @@
 7076 zao
 7077 zhuan
 7078 jiu
-7079 zha yu
+7079 zha
 707A xie
 707B chi
 707C zhuo
@@ -8573,9 +8573,9 @@
 7080 yang
 7081 qi
 7082 zhong
-7083 fen ben
+7083 fen
 7084 niu
-7085 gui jiong
+7085 gui
 7086 wen
 7087 po
 7088 yi
@@ -8585,12 +8585,12 @@
 708C kai
 708D pan
 708E yan
-708F kai yan
-7090 pang feng
+708F kai
+7090 pang
 7091 mu
 7092 chao
 7093 liao
-7094 gui que
+7094 gui
 7095 kang
 7096 dun
 7097 guang
@@ -8610,13 +8610,13 @@
 70A7 xie
 70A8 duo
 70A9 ling
-70AA zhuo chu
+70AA zhuo
 70AB xuan
 70AC ju
 70AD tan
 70AE pao
 70AF jiong
-70B0 pao fou
+70B0 pao
 70B1 tai
 70B2 tai
 70B3 bing
@@ -8635,14 +8635,14 @@
 70C1 shuo
 70C2 lan
 70C3 ting
-70C4 jiao yao
+70C4 jiao
 70C5 xu
 70C6 heng
 70C7 quan
 70C8 lie
 70C9 huan
 70CA yang
-70CB xiu xiao
+70CB xiu
 70CC xiu
 70CD xian
 70CE yin
@@ -8656,14 +8656,14 @@
 70D6 zai
 70D7 kai
 70D8 hong
-70D9 lao luo
+70D9 lao
 70DA xia
 70DB zhu
 70DC xuan
 70DD zheng
 70DE po
 70DF yan
-70E0 hui ai
+70E0 hui
 70E1 guang
 70E2 che
 70E3 hui
@@ -8678,7 +8678,7 @@
 70EF xi
 70F0 fu
 70F1 jiong
-70F2 xie che
+70F2 xie
 70F3 pu
 70F4 ting
 70F5 zhuo
@@ -8687,7 +8687,7 @@
 70F8 hai
 70F9 peng
 70FA lang
-70FB yan shan
+70FB yan
 70FC xu
 70FD feng
 70FE chi
@@ -8695,60 +8695,60 @@
 7100 hu
 7101 xi
 7102 shu
-7103 he huo
-7104 xun hun
-7105 ku kao
-7106 juan ye yue yuan
+7103 he
+7104 xun
+7105 ku
+7106 juan
 7107 xiao
-7108 xi yi
+7108 xi
 7109 yan
 710A han
 710B zhuang
-710C jun qu
+710C jun
 710D di
 710E xie
-710F ji qi
+710F ji
 7110 wu
 7113 han
 7114 yan
 7115 huan
 7116 men
 7117 ju
-7118 dao tao
+7118 dao
 7119 bei
 711A fen
 711B lin
 711C kun
 711D hun
-711E tun tui jun
+711E tun
 711F xi
 7120 cui
 7121 wu
 7122 hong
-7123 chao ju
+7123 chao
 7124 fu
-7125 wo ai
+7125 wo
 7126 jiao
 7127 cong
 7128 feng
 7129 ping
 712A qiong
 712B ruo
-712C xi yi
+712C xi
 712D qiong
 712E xin
-712F chao zhuo
+712F chao
 7130 yan
 7131 yan
 7132 yi
-7133 jue jiao
+7133 jue
 7134 yu
 7135 gang
 7136 ran
 7137 pi
-7138 xiong ying gu
+7138 xiong
 713A sheng
-713B chang gua
+713B chang
 713C shao
 713F geng
 7141 chen
@@ -8770,9 +8770,9 @@
 7151 zhu
 7152 wei
 7153 tuan
-7154 shan qian
+7154 shan
 7155 xi
-7156 nuan xuan
+7156 nuan
 7157 nuan
 7158 chan
 7159 yan
@@ -8810,16 +8810,16 @@
 717B tang
 717C chao
 717D shan
-717E en yun
+717E en
 717F bo
-7180 huang ye
+7180 huang
 7181 xie
 7182 xi
 7183 wu
 7184 xi
 7185 yun
 7186 he
-7187 he xiao kao
+7187 he
 7188 xi
 7189 yun
 718A xiong
@@ -8828,7 +8828,7 @@
 718E yao
 718F xun
 7190 mi
-7191 lian qian
+7191 lian
 7192 ying
 7193 wu
 7194 rong
@@ -8839,18 +8839,18 @@
 719A bi
 719B biao
 719C cong
-719D lu ao
+719D lu
 719E jian
 719F shu
 71A0 yi
 71A1 lou
-71A2 peng beng feng
-71A3 sui cui
+71A2 peng
+71A3 sui
 71A4 yi
 71A5 teng
 71A6 jue
 71A7 zong
-71A8 yu yun
+71A8 yu
 71A9 hu
 71AA yi
 71AB zhi
@@ -8873,20 +8873,20 @@
 71BD xiao
 71BE chi
 71BF huang
-71C0 chan dan
+71C0 chan
 71C1 ye
 71C2 tan
 71C3 ran
 71C4 yan
-71C5 xian qian xun
-71C6 qiao xiao
+71C5 xian
+71C6 qiao
 71C7 jun
 71C8 deng
 71C9 dun
 71CA shen
-71CB jiao qiao jue zhuo
-71CC fen ben
-71CD si xi
+71CB jiao
+71CC fen
+71CD si
 71CE liao
 71CF yu
 71D0 lin
@@ -8895,7 +8895,7 @@
 71D3 fen
 71D4 fan
 71D5 yan
-71D6 xun qian
+71D6 xun
 71D7 lan
 71D8 mei
 71D9 tang
@@ -8907,7 +8907,7 @@
 71E1 yi
 71E2 xue
 71E3 lan
-71E4 tai lie
+71E4 tai
 71E5 zao
 71E6 can
 71E7 sui
@@ -8925,27 +8925,27 @@
 71F3 zhao
 71F4 hui
 71F7 lan
-71F8 ru ruan
+71F8 ru
 71F9 xian
 71FA kao
 71FB xun
 71FC jin
 71FD chou
-71FE dao tao
+71FE dao
 71FF yao
 7200 he
 7201 lan
 7202 biao
 7203 rong
-7204 li lie
+7204 li
 7205 mo
 7206 bao
 7207 ruo
 7208 lv
-7209 la lie
+7209 la
 720A ao
 720B xun
-720C kuang huang
+720C kuang
 720D shuo
 720F li
 7210 lu
@@ -8961,7 +8961,7 @@
 721B lan
 721C cong
 721D jue
-721E chong tong
+721E chong
 721F guan
 7221 che
 7222 mi
@@ -8971,7 +8971,7 @@
 7227 ling
 7228 cuan
 7229 yu
-722A zhao zhua
+722A zhao
 722C pa
 722D zheng
 722E pao
@@ -9008,7 +9008,7 @@
 724E chuang
 724F yu
 7250 zha
-7251 bian mian
+7251 bian
 7252 die
 7253 bang
 7254 bo
@@ -9019,8 +9019,8 @@
 725A cheng
 725B niu
 725D pin
-725E jiu le
-725F mou mu
+725E jiu
+725F mou
 7260 ta
 7261 mu
 7262 lao
@@ -9032,12 +9032,12 @@
 7268 gang
 7269 wu
 726A yan
-726B ge qiu zang
+726B ge
 726C bei
 726D si
 726E jian
 726F gu
-7270 you chou
+7270 you
 7271 ge
 7272 sheng
 7273 mu
@@ -9059,14 +9059,14 @@
 7283 pou
 7284 ji
 7285 gang
-7286 zhi te
+7286 zhi
 7287 ben
 7288 quan
 7289 chun
 728A du
 728B ju
 728C jia
-728D jian qian
+728D jian
 728E feng
 728F pian
 7290 ke
@@ -9088,32 +9088,32 @@
 72A2 du
 72A3 lie
 72A4 pai
-72A5 piao pao
+72A5 piao
 72A6 bo
 72A7 xi
 72A8 chou
 72A9 wei
-72AA kui rao
+72AA kui
 72AB chou
 72AC quan
 72AE ba
 72AF fan
 72B0 qiu
 72B1 ji
-72B2 cai chai
+72B2 cai
 72B3 zhuo
 72B4 an
-72B5 ge he
+72B5 ge
 72B6 zhuang
 72B7 guang
 72B8 ma
 72B9 you
-72BA kang gang
-72BB bo pei fei
+72BA kang
+72BB bo
 72BC hou
 72BD ya
 72BE yin
-72BF huan fan
+72BF huan
 72C0 zhuang
 72C1 yun
 72C2 kuang
@@ -9125,11 +9125,11 @@
 72C8 bei
 72C9 pi
 72CA ju
-72CB yi quan chi
-72CC sheng xing
+72CB yi
+72CC sheng
 72CD pao
 72CE xia
-72CF tuo yi
+72CF tuo
 72D0 hu
 72D1 ling
 72D2 fei
@@ -9145,18 +9145,18 @@
 72DC ku
 72DD xian
 72DE ning
-72DF huan xuan heng
+72DF huan
 72E0 hen
 72E1 jiao
-72E2 he mo
+72E2 he
 72E3 zhao
-72E4 ji jie kuai
+72E4 ji
 72E5 xun
 72E6 shan
-72E7 ta shi
+72E7 ta
 72E8 rong
 72E9 shou
-72EA tong dong
+72EA tong
 72EB lao
 72EC du
 72ED xia
@@ -9167,8 +9167,8 @@
 72F2 sun
 72F3 yu
 72F4 bi
-72F5 mang zhuo
-72F6 xi shi
+72F5 mang
+72F6 xi
 72F7 juan
 72F8 li
 72F9 xia
@@ -9186,7 +9186,7 @@
 7305 pai
 7306 fei
 7307 xiao
-7308 bai pi
+7308 bai
 7309 qi
 730A ni
 730B biao
@@ -9196,15 +9196,15 @@
 730F jian
 7310 qiang
 7311 kun
-7312 yan ya
-7313 guo luo
+7312 yan
+7313 guo
 7314 zong
 7315 mi
 7316 chang
 7317 yi
 7318 zhi
 7319 zheng
-731A ya wei
+731A ya
 731B meng
 731C cai
 731D cu
@@ -9221,28 +9221,28 @@
 732A zhu
 732B mao
 732C wei
-732D chuan shan
+732D chuan
 732E xian
 732F tuan
 7330 ya
 7331 nao
-7332 xie he ge
+7332 xie
 7333 jia
 7334 hou
-7335 bian pian
+7335 bian
 7336 you
 7337 you
 7338 mei
 7339 cha
 733A yao
 733B sun
-733C bo po
+733C bo
 733D ming
 733E hua
 733F yuan
 7340 sou
 7341 ma
-7342 yuan huan
+7342 yuan
 7343 dai
 7344 yu
 7345 shi
@@ -9250,7 +9250,7 @@
 7348 yi
 7349 zhen
 734A cang
-734B hao gao
+734B hao
 734C man
 734D jing
 734E jiang
@@ -9261,21 +9261,21 @@
 7353 ao
 7354 hao
 7355 cui
-7356 ben fen
+7356 ben
 7357 jue
 7358 bi
 7359 bi
 735A huang
 735B pu
 735C lin
-735D xu yu
-735E tong zhuang
-735F yao xiao
+735D xu
+735E tong
+735F yao
 7360 liao
-7361 shuo xi que
+7361 shuo
 7362 xiao
 7365 jiao
-7366 ge xie lie
+7366 ge
 7367 juan
 7368 du
 7369 hui
@@ -9286,12 +9286,12 @@
 736E xian
 736F xun
 7370 ning
-7371 pin bian bin
+7371 pin
 7372 huo
-7373 nou ru
+7373 nou
 7374 meng
 7375 lie
-7376 nao you
+7376 nao
 7377 guang
 7378 shou
 7379 lu
@@ -9307,8 +9307,8 @@
 7383 jue
 7384 xuan
 7385 miao
-7386 xuan zi
-7387 lü shuai
+7386 xuan
+7387 lü
 7388 lu
 7389 yu
 738A su
@@ -9327,23 +9327,23 @@
 7397 yu
 7398 qi
 7399 yu
-739A chang yang
+739A chang
 739B ma
 739C gong
 739D wu
 739E fu
-739F min wen
+739F min
 73A0 jie
 73A1 ya
-73A2 bin fen
+73A2 bin
 73A3 bian
 73A4 bang
 73A5 yue
 73A6 jue
-73A7 men yun
+73A7 men
 73A8 jue
 73A9 wan
-73AA jian yin qian lin
+73AA jian
 73AB mei
 73AC dan
 73AD pin
@@ -9354,14 +9354,14 @@
 73B2 ling
 73B3 dai
 73B4 yi
-73B5 an gan
+73B5 an
 73B6 ping
 73B7 dian
 73B8 fu
-73B9 xuan xian
+73B9 xuan
 73BA xi
 73BB bo
-73BC ci cuo
+73BC ci
 73BD gou
 73BE jia
 73BF shao
@@ -9371,8 +9371,8 @@
 73C3 ran
 73C4 sheng
 73C5 shen
-73C6 yi tai
-73C7 zu ju
+73C6 yi
+73C7 zu
 73C8 jia
 73C9 min
 73CA shan
@@ -9399,25 +9399,25 @@
 73DF su
 73E0 zhu
 73E1 qin
-73E2 yin ken
+73E2 yin
 73E3 xun
 73E4 bao
 73E5 er
 73E6 xiang
 73E7 yao
 73E8 xia
-73E9 hang heng
+73E9 hang
 73EA gui
 73EB chong
 73EC xu
 73ED ban
 73EE pei
 73F0 dang
-73F2 hui hun
+73F2 hui
 73F3 wen
 73F4 e
-73F5 cheng ting
-73F6 di ti
+73F5 cheng
+73F6 di
 73F7 wu
 73F8 wu
 73F9 cheng
@@ -9428,7 +9428,7 @@
 73FE xian
 73FF chu
 7400 han
-7401 xuan qiong
+7401 xuan
 7402 yan
 7403 qiu
 7404 xuan
@@ -9446,21 +9446,21 @@
 7410 suo
 7413 wan
 7414 dian
-7415 pin bing
+7415 pin
 7416 zhan
-7417 se cui
+7417 se
 7418 min
 7419 yu
 741A ju
 741B chen
 741C lai
 741D wen
-741E sheng wang
-741F wei yu
+741E sheng
+741F wei
 7420 tian
 7421 chu
 7422 zuo
-7423 beng pei
+7423 beng
 7424 cheng
 7425 hu
 7426 qi
@@ -9487,7 +9487,7 @@
 743C qiong
 743D du
 743E jie
-743F hun hui
+743F hun
 7440 yu
 7441 mao
 7442 mei
@@ -9506,7 +9506,7 @@
 744F chuan
 7450 jian
 7451 zhuan
-7452 chang yang
+7452 chang
 7453 lian
 7454 quan
 7455 xia
@@ -9545,7 +9545,7 @@
 7476 yao
 7477 ai
 7478 bin
-7479 shu tu
+7479 shu
 747A chang
 747B kun
 747C zhuan
@@ -9566,7 +9566,7 @@
 748B zhang
 748C yin
 748E ying
-748F wei zhi
+748F wei
 7490 lu
 7491 wu
 7492 deng
@@ -9577,7 +9577,7 @@
 7497 dang
 7498 lin
 7499 liao
-749A qiong jue
+749A qiong
 749B su
 749C huang
 749D gui
@@ -9597,21 +9597,21 @@
 74AC jiao
 74AD gun
 74AE tan
-74AF hui kuai
+74AF hui
 74B0 huan
 74B1 se
 74B2 sui
 74B3 tian
 74B5 yu
 74B6 jin
-74B7 lu fu
-74B8 bin pian
+74B7 lu
+74B8 bin
 74B9 shu
 74BA wen
 74BB zui
 74BC lan
 74BD xi
-74BE zi ji
+74BE zi
 74BF xuan
 74C0 ruan
 74C1 wo
@@ -9634,9 +9634,9 @@
 74D2 zan
 74D3 lan
 74D4 ying
-74D5 mi xi
+74D5 mi
 74D6 xiang
-74D7 qiong wei
+74D7 qiong
 74D8 guan
 74D9 dao
 74DA zan
@@ -9644,15 +9644,15 @@
 74DC gua
 74DD bo
 74DE die
-74DF bo pao
+74DF bo
 74E0 hu
-74E1 zhi hu
+74E1 zhi
 74E2 piao
 74E3 ban
 74E4 rang
 74E5 li
 74E6 wa
-74E8 xiang hong
+74E8 xiang
 74E9 qian
 74EA ban
 74EB pen
@@ -9722,21 +9722,21 @@
 7531 you
 7532 jia
 7533 shen
-7534 zha you
+7534 zha
 7535 dian
 7536 fu
 7537 nan
 7538 dian
 7539 ping
-753A ding ting
+753A ding
 753B hua
 753C ting
 753D zhen
 753E zai
 753F meng
 7540 bi
-7541 qi bi
-7542 liu jiu mu
+7541 qi
+7542 liu
 7543 xun
 7544 liu
 7545 chang
@@ -9750,21 +9750,21 @@
 754D jie
 754E quan
 754F wei
-7550 fu bi
+7550 fu
 7551 tian
 7552 mu
 7554 pan
 7555 jiang
 7556 wa
-7557 da fu
+7557 da
 7558 nan
 7559 liu
 755A ben
 755B zhen
-755C chu xu
+755C chu
 755D mu
 755E mu
-755F ce ji
+755F ce
 7560 tian
 7561 gai
 7562 bi
@@ -9773,10 +9773,10 @@
 7565 e
 7566 qi
 7567 lve
-7568 pan fan
+7568 pan
 756A fan
 756B hua
-756C she yu
+756C she
 756D yu
 756E mu
 756F jun
@@ -9793,7 +9793,7 @@
 757A jiang
 757B cheng
 757C chang
-757D tun tuan
+757D tun
 757E lei
 757F ji
 7580 cha
@@ -9806,7 +9806,7 @@
 7588 pi
 7589 die
 758A die
-758B pi ya
+758B pi
 758C jie
 758D dan
 758E shu
@@ -9819,23 +9819,23 @@
 7595 bi
 7596 jie
 7597 liao
-7598 gang gong
+7598 gang
 7599 ge
 759A jiu
 759B zhou
 759C xia
 759D shan
 759E xu
-759F nve yao
+759F nve
 75A0 li
 75A1 yang
 75A2 chen
 75A3 you
 75A4 ba
 75A5 jie
-75A6 jue xue
+75A6 jue
 75A7 qi
-75A8 xia ya
+75A8 xia
 75A9 cui
 75AA bi
 75AB yi
@@ -9851,32 +9851,32 @@
 75B5 ci
 75B6 xue
 75B7 zhi
-75B8 da dan
+75B8 da
 75B9 zhen
-75BA fa bian
+75BA fa
 75BB zhi
 75BC teng
 75BD ju
 75BE ji
 75BF fei
-75C0 ju gou
+75C0 ju
 75C1 shan
 75C2 jia
 75C3 xuan
 75C4 zha
 75C5 bing
-75C6 nie ni nian
+75C6 nie
 75C7 zheng
 75C8 yong
 75C9 jing
 75CA quan
-75CB teng chong
+75CB teng
 75CC tong
 75CD yi
 75CE jie
 75CF wei
 75D0 hui
-75D1 tan shi
+75D1 tan
 75D2 yang
 75D3 chi
 75D4 zhi
@@ -9904,7 +9904,7 @@
 75EA huan
 75EB xian
 75EC yi
-75ED beng peng bing
+75ED beng
 75EE zhang
 75EF guan
 75F0 tan
@@ -9913,8 +9913,8 @@
 75F3 lin
 75F4 chi
 75F5 ji
-75F6 tian dian
-75F7 an ye e
+75F6 tian
+75F7 an
 75F8 chi
 75F9 bi
 75FA bi
@@ -9931,7 +9931,7 @@
 7605 dan
 7606 shen
 7607 zhong
-7608 chi zhi
+7608 chi
 7609 yu
 760A hou
 760B feng
@@ -9958,12 +9958,12 @@
 7620 ji
 7621 chuang
 7622 ban
-7623 hui lei
+7623 hui
 7624 liu
-7625 chai cuo
+7625 chai
 7626 shou
-7627 nve yao
-7628 dian chen
+7627 nve
+7628 dian
 7629 da
 762A bie
 762B tan
@@ -10003,7 +10003,7 @@
 764D ban
 764E xian
 764F guan
-7650 gui wei
+7650 gui
 7651 nong
 7652 yu
 7653 wei
@@ -10014,9 +10014,9 @@
 7658 li
 7659 shu
 765A dan
-765B lin bing
+765B lin
 765C dian
-765D lin bing
+765D lin
 765E lai
 765F bie
 7660 ji
@@ -10027,7 +10027,7 @@
 7665 zheng
 7667 li
 7668 huo
-7669 lai la
+7669 lai
 766B dian
 766C xuan
 766D ying
@@ -10048,12 +10048,12 @@
 767D bai
 767E bai
 767F qie
-7680 ji xiang bi
+7680 ji
 7681 zao
 7682 zao
 7683 mao
-7684 de di
-7685 pa ba
+7684 de
+7685 pa
 7686 jie
 7687 huang
 7688 gui
@@ -10075,7 +10075,7 @@
 7698 qian
 7699 xi
 769A ai
-769B xiao jiao po
+769B xiao
 769C hao
 769D huang
 769E hao
@@ -10090,7 +10090,7 @@
 76A7 ai
 76A8 xing
 76A9 huang
-76AA li luo bo
+76AA li
 76AB piao
 76AC he
 76AD jiao
@@ -10102,14 +10102,14 @@
 76B3 qiu
 76B4 cun
 76B5 que
-76B6 zha cu
+76B6 zha
 76B7 gu
 76B8 jun
 76B9 jun
 76BA zhou
 76BB zha
 76BC gu
-76BD zhao zhan dan
+76BD zhao
 76BE du
 76BF min
 76C0 qi
@@ -10131,7 +10131,7 @@
 76D0 yan
 76D1 jian
 76D2 he
-76D3 yu wu
+76D3 yu
 76D4 kui
 76D5 fan
 76D6 gai
@@ -10139,7 +10139,7 @@
 76D8 pan
 76D9 fu
 76DA qiu
-76DB sheng cheng
+76DB sheng
 76DC dao
 76DD lu
 76DE zhan
@@ -10163,11 +10163,11 @@
 76F0 gan
 76F1 xu
 76F2 mang
-76F3 wang mang
+76F3 wang
 76F4 zhi
 76F5 qi
 76F6 yuan
-76F7 tian xian min
+76F7 tian
 76F8 xiang
 76F9 dun
 76FA xin
@@ -10179,7 +10179,7 @@
 7700 ming
 7701 sheng
 7702 shi
-7703 yun hun
+7703 yun
 7704 mian
 7705 pan
 7706 fang
@@ -10191,44 +10191,44 @@
 770C xian
 770D kou
 770E shi
-770F yang ying
+770F yang
 7710 zheng
-7711 yao ao
+7711 yao
 7712 shen
 7713 huo
 7714 da
 7715 zhen
 7716 kuang
-7717 ju xu kou
+7717 ju
 7718 shen
 7719 yi
 771A sheng
 771B mei
-771C mo mie
+771C mo
 771D zhu
 771E zhen
 771F zhen
 7720 mian
 7721 shi
 7722 yuan
-7723 die chou
+7723 die
 7724 ni
 7725 zi
 7726 zi
 7727 chao
 7728 zha
 7729 xuan
-772A bing fang
-772B mi pan
+772A bing
+772B mi
 772C long
 772D sui
 772E tong
 772F mi
-7730 die zhi
+7730 die
 7731 di
 7732 ne
 7733 ming
-7734 xuan shun xun
+7734 xuan
 7735 chi
 7736 kuang
 7737 juan
@@ -10240,16 +10240,16 @@
 773D mo
 773E zhong
 773F mo
-7740 zhe zhao zhuo
+7740 zhe
 7741 zheng
 7742 mei
 7743 suo
-7744 shao qiao xiao
+7744 shao
 7745 han
 7746 huan
 7747 di
 7748 cheng
-7749 cuo zhuai
+7749 cuo
 774A juan
 774B e
 774C man
@@ -10260,7 +10260,7 @@
 7751 jian
 7752 shan
 7753 tian
-7754 gun huan lun
+7754 gun
 7755 wan
 7756 leng
 7757 shi
@@ -10271,7 +10271,7 @@
 775C zheng
 775D li
 775E lai
-775F sui zui
+775F sui
 7760 juan
 7761 shui
 7762 sui
@@ -10282,7 +10282,7 @@
 7767 hun
 7768 ni
 7769 lu
-776A yi ze du gao
+776A yi
 776B jie
 776C cai
 776D zhou
@@ -10310,16 +10310,16 @@
 7783 wo
 7784 miao
 7785 chou
-7786 kui gui
+7786 kui
 7787 mi
 7788 weng
-7789 kou ji
+7789 kou
 778A dang
 778B chen
 778C ke
 778D sou
 778E xia
-778F qiong huan
+778F qiong
 7790 mo
 7791 ming
 7792 man
@@ -10327,7 +10327,7 @@
 7794 ze
 7795 zhang
 7796 yi
-7797 diao dou
+7797 diao
 7798 kou
 7799 mo
 779A shun
@@ -10350,14 +10350,14 @@
 77AC shun
 77AD liao
 77AE che
-77AF xian jian
+77AF xian
 77B0 kan
 77B1 ye
-77B2 xu xue
+77B2 xu
 77B3 tong
-77B4 mou wu mi
+77B4 mou
 77B5 lin
-77B6 gui wei kui
+77B6 gui
 77B7 jian
 77B8 ye
 77B9 ai
@@ -10366,40 +10366,40 @@
 77BC jian
 77BD gu
 77BE zhao
-77BF ju qu
+77BF ju
 77C0 mei
 77C1 chou
 77C2 sao
-77C3 ning cheng
+77C3 ning
 77C4 xun
 77C5 yao
-77C6 huo xue yue wo
+77C6 huo
 77C7 meng
 77C8 mian
 77C9 pin
 77CA mian
 77CB li
-77CC kuang guo
+77CC kuang
 77CD jue
 77CE xuan
 77CF mian
 77D0 huo
 77D1 lu
-77D2 meng mang
+77D2 meng
 77D3 long
-77D4 guan quan
+77D4 guan
 77D5 man
-77D6 xi li
+77D6 xi
 77D7 chu
 77D8 tang
 77D9 kan
 77DA zhu
 77DB mao
-77DC guan jin qin
+77DC guan
 77DD lin
 77DE yu
 77DF shuo
-77E0 ze zhuo
+77E0 ze
 77E1 jue
 77E2 shi
 77E3 yi
@@ -10420,12 +10420,12 @@
 77F2 ba
 77F3 shi
 77F4 ding
-77F5 qi diao
+77F5 qi
 77F6 ji
 77F7 zi
 77F8 gan
 77F9 wu
-77FA zhe da
+77FA zhe
 77FB ku
 77FC gang
 77FD xi
@@ -10440,13 +10440,13 @@
 7806 fu
 7807 min
 7808 e
-7809 huo xu
+7809 huo
 780A kang
 780B zhi
 780C qi
 780D kan
 780E jie
-780F bin fen pin
+780F bin
 7810 e
 7811 ya
 7812 pi
@@ -10462,7 +10462,7 @@
 781D fa
 781E mo
 781F zha
-7820 ju zu
+7820 ju
 7821 yu
 7822 ke
 7823 tuo
@@ -10496,20 +10496,20 @@
 7841 keng
 7842 quan
 7843 zhu
-7844 kuang guang
+7844 kuang
 7845 gui
 7846 e
 7847 nao
 7848 qia
 7849 lu
-784A wei gui
+784A wei
 784B ai
-784C ge luo
-784D xian ken keng yin
+784C ge
+784D xian
 784E xing
 784F yan
-7850 dong liu
-7851 peng ping
+7850 dong
+7851 peng
 7852 xi
 7854 hong
 7855 shuo
@@ -10519,16 +10519,16 @@
 785A qiao
 785C keng
 785D xiao
-785E que ke ku
+785E que
 785F chan
 7860 lang
 7861 hong
 7862 yu
 7863 xiao
 7864 xia
-7865 mang bang
-7866 luo long
-7867 yong tong
+7865 mang
+7866 luo
+7867 yong
 7868 che
 7869 che
 786A wo
@@ -10549,11 +10549,11 @@
 787B keng
 787C peng
 787D yan
-787E zhui duo
+787E zhui
 787F kong
 7880 cheng
 7881 qi
-7882 zong cong
+7882 zong
 7883 qing
 7884 lin
 7885 jun
@@ -10561,7 +10561,7 @@
 7887 ding
 7888 min
 7889 diao
-788A jian zhan
+788A jian
 788B he
 788C lu
 788D ai
@@ -10576,7 +10576,7 @@
 7896 lun
 7897 wan
 7898 dian
-7899 nao gang
+7899 nao
 789A bei
 789B qi
 789C chen
@@ -10597,7 +10597,7 @@
 78AB duan
 78AC xia
 78AD dang
-78AE ti di
+78AE ti
 78AF nao
 78B0 peng
 78B1 jian
@@ -10612,27 +10612,27 @@
 78BC ma
 78BD gong
 78BE nian
-78BF su xie
+78BF su
 78C0 e
 78C1 ci
 78C2 liu
-78C3 si ti
+78C3 si
 78C4 tang
 78C5 bang
-78C6 hua ke gu
+78C6 hua
 78C7 pi
-78C8 wei kui
+78C8 wei
 78C9 sang
 78CA lei
 78CB cuo
 78CC tian
-78CD xia qia ya
+78CD xia
 78CE xi
-78CF lian qian
+78CF lian
 78D0 pan
 78D1 wei
 78D2 yun
-78D3 dui zhui
+78D3 dui
 78D4 zhe
 78D5 ke
 78D6 la
@@ -10641,7 +10641,7 @@
 78DA zhuan
 78DB chan
 78DC qi
-78DD ao qiao
+78DD ao
 78DE peng
 78DF liu
 78E0 lu
@@ -10653,7 +10653,7 @@
 78E6 biao
 78E7 qi
 78E8 mo
-78E9 qi zhu
+78E9 qi
 78EA cui
 78EB zong
 78EC qing
@@ -10671,7 +10671,7 @@
 78F9 tan
 78FA huang
 78FB pan
-78FC za she
+78FC za
 78FD qiao
 78FE di
 78FF li
@@ -10682,14 +10682,14 @@
 7906 jian
 7907 yu
 7908 zhui
-7909 he qiao ao
-790A ke huo
+7909 he
+790A ke
 790B ze
 790C lei
 790D ke
 790E chu
 790F ye
-7910 que hu
+7910 que
 7911 dang
 7912 yi
 7913 jiang
@@ -10697,7 +10697,7 @@
 7915 pi
 7916 yu
 7917 pin
-7918 e qi
+7918 e
 7919 ai
 791A ke
 791B jian
@@ -10709,7 +10709,7 @@
 7921 bo
 7923 ma
 7924 ca
-7925 xian xin
+7925 xian
 7926 kuang
 7927 lei
 7928 lei
@@ -10741,14 +10741,14 @@
 7942 ta
 7943 ma
 7944 xie
-7945 yao xian
+7945 yao
 7946 xian
-7947 qi zhi
+7947 qi
 7948 qi
 7949 zhi
 794A beng
 794B dui
-794C zhong chong
+794C zhong
 794E yi
 794F shi
 7950 you
@@ -10756,7 +10756,7 @@
 7952 tiao
 7953 fu
 7954 fu
-7955 bi mi
+7955 bi
 7956 zu
 7957 zhi
 7958 suan
@@ -10769,7 +10769,7 @@
 795F sui
 7960 ci
 7961 chai
-7962 mi ni
+7962 mi
 7963 lv
 7964 yu
 7965 xiang
@@ -10780,15 +10780,15 @@
 796A gui
 796B xia
 796C zhi
-796D ji zhai
+796D ji
 796E gao
 796F zhen
 7970 gao
-7971 shui lei
+7971 shui
 7972 jin
 7973 shen
 7974 gai
-7975 kun hun
+7975 kun
 7976 di
 7977 dao
 7978 huo
@@ -10799,26 +10799,26 @@
 797D zui
 797E ling
 797F lu
-7980 bing bin lin
+7980 bing
 7981 jin
 7982 dao
 7983 zhi
 7984 lu
-7985 chan shan
+7985 chan
 7986 bei
-7987 zhe zhu chu
+7987 zhe
 7988 hui
-7989 you chao
+7989 you
 798A xi
 798B yin
 798C zi
 798D huo
-798E zhen zheng
+798E zhen
 798F fu
 7990 yuan
 7991 wu
 7992 xian
-7993 yang shang
+7993 yang
 7994 zhi
 7995 yi
 7996 mei
@@ -10826,7 +10826,7 @@
 7998 di
 799A zhuo
 799B zhen
-799C yong ying
+799C yong
 799D ji
 799E gao
 799F tang
@@ -10839,13 +10839,13 @@
 79A7 xi
 79A8 ji
 79A9 si
-79AA chan shan
+79AA chan
 79AB dan
 79AC gui
 79AD sui
 79AE li
 79AF nong
-79B0 mi ni
+79B0 mi
 79B1 dao
 79B2 li
 79B3 rang
@@ -10866,9 +10866,9 @@
 79C2 ren
 79C3 tu
 79C4 zi
-79C5 cha na
+79C5 cha
 79C6 gan
-79C7 yi zhi
+79C7 yi
 79C8 xian
 79C9 bing
 79CA nian
@@ -10876,7 +10876,7 @@
 79CC qiu
 79CD zhong
 79CE fen
-79CF hao mao
+79CF hao
 79D0 yun
 79D1 ke
 79D2 miao
@@ -10907,15 +10907,15 @@
 79EB shu
 79EC ju
 79ED zi
-79EE huo kuo
+79EE huo
 79EF ji
-79F0 cheng chen
+79F0 cheng
 79F1 tong
-79F2 zhi shi
-79F3 huo kuo
-79F4 he ge
+79F2 zhi
+79F3 huo
+79F4 he
 79F5 yin
-79F6 zi ci ji
+79F6 zi
 79F7 zhi
 79F8 jie
 79F9 ren
@@ -10924,12 +10924,12 @@
 79FC zhu
 79FD hui
 79FE nong
-79FF fu bu pu
+79FF fu
 7A00 xi
-7A01 kao gao
+7A01 kao
 7A02 lang
 7A03 fu
-7A04 xun ze
+7A04 xun
 7A05 shui
 7A06 lv
 7A07 kun
@@ -10937,7 +10937,7 @@
 7A09 jing
 7A0A ti
 7A0B cheng
-7A0C tu shu
+7A0C tu
 7A0D shao
 7A0E shui
 7A0F ya
@@ -10949,35 +10949,35 @@
 7A15 zhun
 7A16 bang
 7A17 bai
-7A18 ji qi
+7A18 ji
 7A19 zhi
 7A1A zhi
 7A1B kun
-7A1C leng ling
+7A1C leng
 7A1D peng
 7A1E ke
 7A1F bing
 7A20 chou
-7A21 zui zu su
+7A21 zui
 7A22 yu
 7A23 su
-7A24 lÜe
+7A24 lve
 7A26 yi
-7A27 xi qie
+7A27 xi
 7A28 bian
 7A29 ji
 7A2A fu
-7A2B pi bi
+7A2B pi
 7A2C nuo
 7A2D jie
 7A2E zhong
 7A2F zong
 7A30 xu
-7A31 cheng chen
+7A31 cheng
 7A32 dao
 7A33 wen
-7A34 xian jian lian
-7A35 zi jiu
+7A34 xian
+7A35 zi
 7A36 yu
 7A37 ji
 7A38 xu
@@ -10985,7 +10985,7 @@
 7A3A zhi
 7A3B dao
 7A3C jia
-7A3D ji qi
+7A3D ji
 7A3E gao
 7A3F gao
 7A40 gu
@@ -10998,7 +10998,7 @@
 7A48 mei
 7A49 zhi
 7A4A ji
-7A4B lu jiu
+7A4B lu
 7A4C su
 7A4D ji
 7A4E ying
@@ -11010,12 +11010,12 @@
 7A55 qie
 7A56 ji
 7A57 sui
-7A58 xiao rao
+7A58 xiao
 7A59 pu
 7A5A jiao
-7A5B zhuo bo
+7A5B zhuo
 7A5C zhong
-7A5E lÜ
+7A5E lv
 7A5F sui
 7A60 nong
 7A61 se
@@ -11024,18 +11024,18 @@
 7A64 nuo
 7A65 yu
 7A66 pin
-7A67 ji zi
+7A67 ji
 7A68 tui
 7A69 wen
-7A6A cheng bie
+7A6A cheng
 7A6B huo
 7A6C kuang
 7A6D lv
 7A6E biao
 7A70 rang
-7A71 zhuo jue
+7A71 zhuo
 7A72 li
-7A73 cuan zan
+7A73 cuan
 7A74 xue
 7A75 wa
 7A76 jiu
@@ -11059,12 +11059,12 @@
 7A88 yao
 7A89 bing
 7A8A wa
-7A8B zhu ku
-7A8C jiao pao liao liu
+7A8B zhu
+7A8C jiao
 7A8D qiao
 7A8E diao
 7A8F wu
-7A90 gui wa
+7A90 gui
 7A91 yao
 7A92 zhi
 7A93 chuang
@@ -11087,10 +11087,10 @@
 7AA4 guan
 7AA5 kui
 7AA6 dou
-7AA8 xun yin
+7AA8 xun
 7AA9 wo
 7AAA wa
-7AAB ya ye
+7AAB ya
 7AAC yu
 7AAD ju
 7AAE qiong
@@ -11107,7 +11107,7 @@
 7AB9 wu
 7ABA kui
 7ABB chuang
-7ABC zhao ke
+7ABC zhao
 7ABE kuan
 7ABF long
 7AC0 cheng
@@ -11124,16 +11124,16 @@
 7ACB li
 7ACC chu
 7ACE fu
-7AD0 chu qi
+7AD0 chu
 7AD1 hong
 7AD2 qi
 7AD6 shu
 7AD7 miao
-7AD8 qu kou
+7AD8 qu
 7AD9 zhan
 7ADA zhu
 7ADB ling
-7ADC long neng
+7ADC long
 7ADD bing
 7ADE jing
 7ADF jing
@@ -11143,7 +11143,7 @@
 7AE4 hong
 7AE5 tong
 7AE6 song
-7AE7 jing zhen
+7AE7 jing
 7AE8 diao
 7AE9 yi
 7AEA shu
@@ -11157,13 +11157,13 @@
 7AF2 ceng
 7AF3 deng
 7AF4 cun
-7AF5 wai hua
+7AF5 wai
 7AF6 jing
 7AF7 kan
 7AF8 jing
 7AF9 zhu
 7AFA zhu
-7AFB le jin
+7AFB le
 7AFC peng
 7AFD yu
 7AFE chi
@@ -11180,12 +11180,12 @@
 7B0A zhao
 7B0B sun
 7B0C ya
-7B0D zhui rui
+7B0D zhui
 7B0E yuan
 7B0F hu
 7B10 hang
 7B11 xiao
-7B12 cen jin han
+7B12 cen
 7B13 bi
 7B14 bi
 7B15 jian
@@ -11193,7 +11193,7 @@
 7B17 dong
 7B18 shan
 7B19 sheng
-7B1A da xia na
+7B1A da
 7B1B di
 7B1C zhu
 7B1D na
@@ -11206,16 +11206,16 @@
 7B24 tiao
 7B25 si
 7B26 fu
-7B27 ce shan
+7B27 ce
 7B28 ben
 7B29 pei
 7B2A da
 7B2B zi
 7B2C di
 7B2D ling
-7B2E ze zuo
+7B2E ze
 7B2F nu
-7B30 fu fei
+7B30 fu
 7B31 gou
 7B32 fan
 7B33 jia
@@ -11261,14 +11261,14 @@
 7B5D zheng
 7B5E ce
 7B5F fu
-7B60 jun yun
+7B60 jun
 7B61 tu
 7B62 pa
 7B63 li
 7B64 lang
 7B65 ju
 7B66 guan
-7B67 jian xian
+7B67 jian
 7B68 han
 7B69 tong
 7B6A xia
@@ -11281,7 +11281,7 @@
 7B71 xiao
 7B72 shao
 7B73 ting
-7B74 ce jia
+7B74 ce
 7B75 yan
 7B76 gao
 7B77 kuai
@@ -11292,18 +11292,18 @@
 7B7E qian
 7B7F xiao
 7B80 jian
-7B81 pou bu fu pu
+7B81 pou
 7B82 lai
 7B83 zou
-7B84 bi bei pai
+7B84 bi
 7B85 bi
 7B86 bi
 7B87 ge
-7B88 tai chi
-7B89 guai dai
+7B88 tai
+7B89 guai
 7B8A yu
 7B8B jian
-7B8C dao zhao
+7B8C dao
 7B8D gu
 7B8E chi
 7B8F zheng
@@ -11315,9 +11315,9 @@
 7B95 ji
 7B96 lin
 7B97 suan
-7B98 jun qun
+7B98 jun
 7B99 fu
-7B9A zha da
+7B9A zha
 7B9B gu
 7B9C kong
 7B9D qian
@@ -11348,12 +11348,12 @@
 7BB6 hu
 7BB7 yi
 7BB8 zhu
-7BB9 yue yao chuo
+7BB9 yue
 7BBA chun
-7BBB lÜ
+7BBB lv
 7BBC wu
 7BBD dong
-7BBE shuo xiao qiao
+7BBE shuo
 7BBF ji
 7BC0 jie
 7BC1 huang
@@ -11373,7 +11373,7 @@
 7BCF qian
 7BD1 kui
 7BD3 lou
-7BD4 yun xun
+7BD4 yun
 7BD5 he
 7BD6 tang
 7BD7 yue
@@ -11388,16 +11388,16 @@
 7BE0 xiao
 7BE1 cuan
 7BE2 long
-7BE3 peng pang
+7BE3 peng
 7BE4 du
 7BE5 li
 7BE6 bi
-7BE7 zhuo huo
+7BE7 zhuo
 7BE8 chu
 7BE9 shai
 7BEA chi
 7BEB zhu
-7BEC qiang cang
+7BEC qiang
 7BED long
 7BEE lan
 7BEF jian
@@ -11405,21 +11405,21 @@
 7BF1 li
 7BF2 hui
 7BF3 bi
-7BF4 di zhu
+7BF4 di
 7BF5 cong
 7BF6 yan
 7BF7 peng
-7BF8 can zan
-7BF9 zhuan zuan
+7BF8 can
+7BF9 zhuan
 7BFA pi
-7BFB piao biao
+7BFB piao
 7BFC dou
 7BFD yu
 7BFE mie
-7BFF tuan zhuan
+7BFF tuan
 7C00 ze
 7C01 shai
-7C02 gui guo
+7C02 gui
 7C03 yi
 7C04 hu
 7C05 chan
@@ -11431,7 +11431,7 @@
 7C0B gui
 7C0C su
 7C0D lou
-7C0E ce ji
+7C0E ce
 7C0F lu
 7C10 nian
 7C11 suo
@@ -11442,8 +11442,8 @@
 7C18 xiao
 7C19 bo
 7C1A mi
-7C1B shai si
-7C1C dang tang
+7C1B shai
+7C1C dang
 7C1D liao
 7C1E dan
 7C1F dian
@@ -11466,7 +11466,7 @@
 7C32 pai
 7C33 gan
 7C34 ju
-7C35 du lu
+7C35 du
 7C36 lu
 7C37 yan
 7C38 bo
@@ -11484,17 +11484,17 @@
 7C45 yu
 7C46 yue
 7C47 hao
-7C48 zhen jian
+7C48 zhen
 7C49 tai
 7C4A ti
 7C4B nie
 7C4C chou
 7C4D ji
 7C50 teng
-7C51 zhuan zuan
+7C51 zhuan
 7C52 zhou
-7C53 fan ban pan
-7C54 sou shu
+7C53 fan
+7C54 sou
 7C55 zhou
 7C57 zhuo
 7C58 teng
@@ -11540,8 +11540,8 @@
 7C83 bi
 7C84 ban
 7C85 wu
-7C86 sha chao
-7C87 kang jing
+7C86 sha
+7C87 kang
 7C88 rou
 7C89 fen
 7C8A bi
@@ -11566,7 +11566,7 @@
 7CA0 hong
 7CA1 tong
 7CA2 zi
-7CA3 ce se
+7CA3 ce
 7CA4 yue
 7CA5 zhou
 7CA6 lin
@@ -11591,8 +11591,8 @@
 7CBC lin
 7CBD zong
 7CBE jing
-7CBF guo hua
-7CC1 san shen
+7CBF guo
+7CC1 san
 7CC2 san
 7CC3 tang
 7CC4 bian
@@ -11618,8 +11618,8 @@
 7CD9 cao
 7CDA zhuang
 7CDB tang
-7CDC mei mi
-7CDD san shen
+7CDC mei
+7CDD san
 7CDE fen
 7CDF zao
 7CE0 kang
@@ -11628,7 +11628,7 @@
 7CE3 san
 7CE4 san
 7CE5 nuo
-7CE6 xi chi
+7CE6 xi
 7CE7 liang
 7CE8 jiang
 7CE9 kuai
@@ -11645,10 +11645,10 @@
 7CF5 nie
 7CF6 tiao
 7CF7 lan
-7CF8 mi si
+7CF8 mi
 7CF9 si
 7CFA jiu
-7CFB xi ji
+7CFB xi
 7CFC gong
 7CFD zheng
 7CFE jiu
@@ -11659,8 +11659,8 @@
 7D03 xun
 7D04 yue
 7D05 hong
-7D06 yu ou
-7D07 he ge jie
+7D06 yu
+7D07 he
 7D08 wan
 7D09 ren
 7D0A wen
@@ -11671,10 +11671,10 @@
 7D0F tou
 7D10 niu
 7D11 fou
-7D12 ji jie
+7D12 ji
 7D13 shu
 7D14 chun
-7D15 pi bi chi
+7D15 pi
 7D16 zhen
 7D17 sha
 7D18 hong
@@ -11688,23 +11688,23 @@
 7D20 su
 7D21 fang
 7D22 suo
-7D23 cui zu
+7D23 cui
 7D24 jiu
-7D25 za zha
+7D25 za
 7D27 jin
 7D28 fu
 7D29 zhi
 7D2A ci
 7D2B zi
-7D2C chou zhou
+7D2C chou
 7D2D hong
-7D2E za zha
+7D2E za
 7D2F lei
 7D30 xi
 7D31 fu
-7D32 xie yi
+7D32 xie
 7D33 shen
-7D34 bo bi
+7D34 bo
 7D35 zhu
 7D36 qu
 7D37 ling
@@ -11712,7 +11712,7 @@
 7D39 shao
 7D3A gan
 7D3B yang
-7D3C fu fei
+7D3C fu
 7D3D tuo
 7D3E zhen
 7D3F dai
@@ -11735,34 +11735,34 @@
 7D51 zhu
 7D52 chou
 7D53 gua
-7D54 bai mo
+7D54 bai
 7D55 jue
 7D56 kuang
 7D57 hu
 7D58 ci
-7D59 huan geng
+7D59 huan
 7D5A geng
 7D5B tao
-7D5C jie xie
+7D5C jie
 7D5D ku
-7D5E jiao xiao
+7D5E jiao
 7D5F quan
-7D60 gai ai
+7D60 gai
 7D61 luo
 7D62 xuan
-7D63 beng bing peng
+7D63 beng
 7D64 xian
 7D65 fu
-7D66 gei ji
-7D67 dong tong
+7D66 gei
+7D67 dong
 7D68 rong
-7D69 tiao diao dao
+7D69 tiao
 7D6A yin
 7D6B lei
 7D6C xie
 7D6D juan
 7D6E xu
-7D6F gai hai
+7D6F gai
 7D70 die
 7D71 tong
 7D72 si
@@ -11774,41 +11774,41 @@
 7D78 jian
 7D79 juan
 7D7A chi
-7D7B mian wen man wan
-7D7C zhen zhi
+7D7B mian
+7D7C zhen
 7D7D lv
 7D7E cheng
 7D7F qiu
 7D80 shu
 7D81 bang
 7D82 tong
-7D83 xiao shao
-7D84 huan wan
-7D85 qin xian
-7D86 geng bing
+7D83 xiao
+7D84 huan
+7D85 qin
+7D86 geng
 7D87 xiu
 7D88 ti
-7D89 tou xiu
+7D89 tou
 7D8A xie
 7D8B hong
 7D8C xi
 7D8D fu
 7D8E ting
-7D8F sui shuai rui tuo
+7D8F sui
 7D90 dui
 7D91 kun
 7D92 fu
 7D93 jing
 7D94 hu
 7D95 zhi
-7D96 yan xian
+7D96 yan
 7D97 jiong
 7D98 feng
 7D99 ji
 7D9C zong
-7D9D chen lin
+7D9D chen
 7D9E duo
-7D9F li lie
+7D9F li
 7DA0 lü
 7DA1 liang
 7DA2 chou
@@ -11823,7 +11823,7 @@
 7DAB xian
 7DAC shou
 7DAD wei
-7DAE qi qing
+7DAE qi
 7DAF tao
 7DB0 wan
 7DB1 gang
@@ -11835,17 +11835,17 @@
 7DB7 cui
 7DB8 lun
 7DB9 liu
-7DBA qi yi
+7DBA qi
 7DBB zhan
 7DBC bi
-7DBD chuo chao
+7DBD chuo
 7DBE ling
 7DBF mian
 7DC0 qi
 7DC1 qie
-7DC2 tian tan chan
+7DC2 tian
 7DC3 zong
-7DC4 gun hun
+7DC4 gun
 7DC5 zou
 7DC6 xi
 7DC7 zi
@@ -11856,9 +11856,9 @@
 7DCC rui
 7DCD min
 7DCE yu
-7DCF zong cong
+7DCF zong
 7DD0 fan
-7DD1 lv lu
+7DD1 lv
 7DD2 xu
 7DD3 ying
 7DD4 shang
@@ -11869,12 +11869,12 @@
 7DDA xian
 7DDB ruan
 7DDC mian
-7DDD ji qi
+7DDD ji
 7DDE duan
-7DDF chong zhong
+7DDF chong
 7DE0 di
-7DE1 min mian hun
-7DE2 miao mao
+7DE1 min
+7DE2 miao
 7DE3 yuan
 7DE4 xie
 7DE5 bao
@@ -11883,24 +11883,24 @@
 7DE8 bian
 7DE9 huan
 7DEA geng
-7DEB cong zong
+7DEB cong
 7DEC mian
 7DED wei
 7DEE fu
 7DEF wei
-7DF0 tou xu yu
+7DF0 tou
 7DF1 gou
 7DF2 miao
 7DF3 xie
 7DF4 lian
 7DF5 zong
-7DF6 bian pian
-7DF7 yun gun
+7DF6 bian
+7DF7 yun
 7DF8 yin
 7DF9 ti
 7DFA gua
 7DFB zhi
-7DFC yun wen
+7DFC yun
 7DFD cheng
 7DFE chan
 7DFF dai
@@ -11915,31 +11915,31 @@
 7E0B zhui
 7E0C ni
 7E0D bang
-7E0E gu hu
+7E0E gu
 7E0F pan
 7E10 zhou
 7E11 jian
-7E12 ci cuo suo
+7E12 ci
 7E13 quan
 7E14 shuang
 7E15 yun
 7E16 xia
-7E17 cui sui shuai
+7E17 cui
 7E18 xi
 7E19 rong
 7E1A tao
 7E1B fu
 7E1C yun
-7E1D chen zhen
+7E1D chen
 7E1E gao
-7E1F ru rong
+7E1F ru
 7E20 hu
-7E21 zai zeng
+7E21 zai
 7E22 teng
 7E23 xian
 7E24 su
 7E25 zhen
-7E26 zong cong
+7E26 zong
 7E27 tao
 7E29 cai
 7E2A bi
@@ -11951,45 +11951,45 @@
 7E30 xi
 7E31 zong
 7E32 lei
-7E33 juan zhuan
+7E33 juan
 7E34 qian
 7E35 man
 7E36 zhi
 7E37 lü
-7E38 mu mo
+7E38 mu
 7E39 piao
 7E3A lian
 7E3B mi
 7E3C xuan
 7E3D zong
 7E3E ji
-7E3F shan xian xiao sao can
-7E40 sui cui
+7E3F shan
+7E40 sui
 7E41 fan
 7E42 lv
 7E43 beng
 7E44 yi
-7E45 sao zao
-7E46 mou jiu miu mu miao liao lu
-7E47 yao you zhou
-7E48 qiang jiang
+7E45 sao
+7E46 mou
+7E47 yao
+7E48 qiang
 7E49 hun
 7E4B ji
 7E4D xiu
 7E4E ran
 7E4F xuan
 7E50 sui
-7E51 qiao jue
-7E52 zeng ceng
+7E51 qiao
+7E52 zeng
 7E53 zuo
 7E54 zhi
 7E55 shan
 7E56 san
 7E57 lin
-7E58 yu jue
+7E58 yu
 7E59 fan
-7E5A liao rao
-7E5B chuo chao
+7E5A liao
+7E5B chuo
 7E5C zun
 7E5D jian
 7E5E rao
@@ -12009,28 +12009,28 @@
 7E6D jian
 7E6E jiang
 7E6F huan
-7E70 zao sao qiao
+7E70 zao
 7E71 cong
 7E72 xie
 7E73 jiao
 7E74 bi
-7E75 dan tan chan
+7E75 dan
 7E76 yi
 7E77 nong
 7E78 sui
 7E79 yi
 7E7A shai
-7E7B xu ru
+7E7B xu
 7E7C ji
 7E7D bin
 7E7E qian
 7E7F lan
-7E80 pu fu
+7E80 pu
 7E81 xun
 7E82 zuan
 7E83 qi
 7E84 peng
-7E85 yao li
+7E85 yao
 7E86 mo
 7E87 lei
 7E88 xie
@@ -12045,12 +12045,12 @@
 7E92 chan
 7E93 ying
 7E94 cai
-7E95 rang xiang sang
+7E95 rang
 7E96 xian
 7E97 zui
 7E98 zuan
 7E99 luo
-7E9A li xi
+7E9A li
 7E9B dao
 7E9C lan
 7E9D lei
@@ -12061,7 +12061,7 @@
 7EA2 hong
 7EA3 zhou
 7EA4 xian
-7EA5 ge he
+7EA5 ge
 7EA6 yue
 7EA7 ji
 7EA8 wan
@@ -12113,7 +12113,7 @@
 7ED6 die
 7ED7 hang
 7ED8 hui
-7ED9 gei ji
+7ED9 gei
 7EDA xuan
 7EDB jiang
 7EDC luo
@@ -12136,7 +12136,7 @@
 7EED xu
 7EEE qi
 7EEF fei
-7EF0 chao chuo
+7EF0 chao
 7EF1 shang
 7EF2 gun
 7EF3 sheng
@@ -12161,13 +12161,13 @@
 7F06 lan
 7F07 ti
 7F08 miao
-7F09 ji qi
+7F09 ji
 7F0A yun
 7F0B hui
 7F0C si
 7F0D duo
 7F0E duan
-7F0F bian pian
+7F0F bian
 7F10 xian
 7F11 gou
 7F12 zhui
@@ -12194,7 +12194,7 @@
 7F27 lei
 7F28 ying
 7F29 suo
-7F2A miao miu mou
+7F2A miao
 7F2B sao
 7F2C xie
 7F2D liao
@@ -12202,7 +12202,7 @@
 7F2F zeng
 7F30 jiang
 7F31 qian
-7F32 qiao sao
+7F32 qiao
 7F33 huan
 7F34 jiao
 7F35 zuan
@@ -12237,10 +12237,10 @@
 7F55 han
 7F57 luo
 7F58 fu
-7F59 mi shen
+7F59 mi
 7F5A fa
 7F5B gu
-7F5C zhu du
+7F5C zhu
 7F5D ju
 7F5E mao
 7F5F gu
@@ -12248,14 +12248,14 @@
 7F61 gang
 7F62 ba
 7F63 gua
-7F64 ti kun
+7F64 ti
 7F65 juan
 7F66 fu
 7F67 shen
 7F68 yan
 7F69 zhao
 7F6A zui
-7F6B gua hua guai
+7F6B gua
 7F6C zhuo
 7F6D yu
 7F6E zhi
@@ -12287,11 +12287,11 @@
 7F88 ji
 7F89 luan
 7F8A yang
-7F8B mi mie
+7F8B mi
 7F8C qiang
 7F8D da
 7F8E mei
-7F8F yang xiang
+7F8F yang
 7F90 you
 7F91 you
 7F92 fen
@@ -12299,11 +12299,11 @@
 7F94 gao
 7F95 yang
 7F96 gu
-7F97 qiang you
+7F97 qiang
 7F98 zang
-7F99 gao mei
+7F99 gao
 7F9A ling
-7F9B yi xi
+7F9B yi
 7F9C zhu
 7F9D di
 7F9E xiu
@@ -12318,10 +12318,10 @@
 7FA7 suo
 7FA8 xian
 7FA9 yi
-7FAB qiang kang
-7FAC qian xian yan
+7FAB qiang
+7FAC qian
 7FAD yu
-7FAE geng lang
+7FAE geng
 7FAF jie
 7FB0 tang
 7FB1 yuan
@@ -12352,9 +12352,9 @@
 7FCA yi
 7FCB la
 7FCC yi
-7FCD pi bi po
+7FCD pi
 7FCE ling
-7FCF liu lu
+7FCF liu
 7FD0 zhi
 7FD1 qu
 7FD2 xi
@@ -12370,10 +12370,10 @@
 7FDC sha
 7FDD hong
 7FDE jiang
-7FDF di zhai
+7FDF di
 7FE0 cui
 7FE1 fei
-7FE2 dao zhou
+7FE2 dao
 7FE3 sha
 7FE4 chi
 7FE5 zhu
@@ -12392,7 +12392,7 @@
 7FF2 piao
 7FF3 yi
 7FF4 lian
-7FF5 hou qu
+7FF5 hou
 7FF7 lin
 7FF8 pen
 7FF9 qiao
@@ -12407,7 +12407,7 @@
 8003 kao
 8004 mao
 8005 zhe
-8006 qi shi
+8006 qi
 8007 gou
 8008 gou
 8009 gou
@@ -12416,9 +12416,9 @@
 800C er
 800D shua
 800E ruan
-800F nai er
+800F nai
 8010 nai
-8011 duan zhuan
+8011 duan
 8012 lei
 8013 ting
 8014 zi
@@ -12426,25 +12426,25 @@
 8016 chao
 8017 hao
 8018 yun
-8019 ba pa
+8019 ba
 801A pi
-801B yi chi
+801B yi
 801C si
-801D qu chu
+801D qu
 801E jia
 801F ju
 8020 huo
 8021 chu
 8022 lao
 8023 lun
-8024 ji jie
+8024 ji
 8025 tang
 8026 ou
 8027 lou
 8028 nou
 8029 jiang
 802A pang
-802B zha ze
+802B zha
 802C lou
 802D ji
 802E lao
@@ -12459,7 +12459,7 @@
 8037 da
 8038 song
 8039 qin
-803A yun ying
+803A yun
 803B chi
 803C dan
 803D dan
@@ -12473,15 +12473,15 @@
 8046 ling
 8047 zheng
 8048 you
-8049 wa tui zhuo
+8049 wa
 804A liao
 804B long
 804C zhi
 804D ning
 804E tiao
-804F er nv
+804F er
 8050 ya
-8051 tie zhe
+8051 tie
 8052 gua
 8054 lian
 8055 hao
@@ -12519,7 +12519,7 @@
 8078 dan
 8079 ning
 807A qie
-807B ni jian
+807B ni
 807C ting
 807D ting
 807E long
@@ -12535,13 +12535,13 @@
 8088 zhao
 8089 rou
 808A yi
-808B le lei
+808B le
 808C ji
 808D qiu
 808E ken
 808F cao
 8090 ge
-8091 bo di
+8091 bo
 8092 huan
 8093 huang
 8094 yi
@@ -12559,10 +12559,10 @@
 80A0 chang
 80A1 gu
 80A2 zhi
-80A3 han qin
+80A3 han
 80A4 fu
 80A5 fei
-80A6 fen ban
+80A6 fen
 80A7 pei
 80A8 pang
 80A9 jian
@@ -12578,7 +12578,7 @@
 80B3 wen
 80B4 yao
 80B5 qi
-80B6 pi bi
+80B6 pi
 80B7 qian
 80B8 xi
 80B9 xi
@@ -12595,7 +12595,7 @@
 80C4 zhou
 80C5 die
 80C6 dan
-80C7 fei bi
+80C7 fei
 80C8 ba
 80C9 bo
 80CA qu
@@ -12603,13 +12603,13 @@
 80CC bei
 80CD gua
 80CE tai
-80CF zi fei
-80D0 ku pei
-80D1 zhi zhu
+80CF zi
+80D0 ku
+80D1 zhi
 80D2 ni
-80D3 ping peng
+80D3 ping
 80D4 zi
-80D5 fu zhou
+80D5 fu
 80D6 pang
 80D7 zhen
 80D8 xian
@@ -12651,8 +12651,8 @@
 80FC pian
 80FD neng
 80FE zi
-80FF gui kui
-8100 cheng zheng
+80FF gui
+8100 cheng
 8101 tiao
 8102 zhi
 8103 cui
@@ -12671,7 +12671,7 @@
 8112 mi
 8113 nong
 8114 luan
-8115 wan wen
+8115 wan
 8116 bo
 8117 wen
 8118 wan
@@ -12681,22 +12681,22 @@
 811C you
 811D heng
 811E cuo
-811F lie luan pao
-8120 shan chan
+811F lie
+8120 shan
 8121 ting
 8122 mei
 8123 chun
 8124 shen
-8125 qian qu jie
-8126 de te
-8127 juan zui
-8128 cu ji
+8125 qian
+8126 de
+8127 juan
+8128 cu
 8129 xiu
-812A xin chi
+812A xin
 812B tuo
 812C pao
 812D cheng
-812E nei tui
+812E nei
 812F pu
 8130 dou
 8131 tuo
@@ -12709,26 +12709,26 @@
 8139 zhang
 813A cui
 813B jie
-813C liang lang
+813C liang
 813D shui
 813E pi
 813F biao
 8140 lun
 8141 pian
-8142 lei guo hua
-8143 kui quan juan
-8144 chui hou chuai
+8142 lei
+8143 kui
+8144 chui
 8145 dan
 8146 tian
 8147 nei
 8148 jing
 8149 nai
-814A la xi
+814A la
 814B ye
-814C a yan
-814D ren dian
+814C a
+814D ren
 814E shen
-814F chuo zhui
+814F chuo
 8150 fu
 8151 fu
 8152 ju
@@ -12736,14 +12736,14 @@
 8154 qiang
 8155 wan
 8156 dong
-8157 pi pai
+8157 pi
 8158 guo
 8159 zong
 815A ding
 815B wo
 815C mei
-815D ni ruan nao nen er
-815E zhuan dun tu
+815D ni
+815E zhuan
 815F chi
 8160 cou
 8161 luo
@@ -12793,11 +12793,11 @@
 818D pi
 818E xie
 818F gao
-8190 lÜ
+8190 lv
 8191 bin
 8192 ou
 8193 chang
-8194 lu biao
+8194 lu
 8195 guo
 8196 pang
 8197 chuai
@@ -12821,18 +12821,18 @@
 81AA chuai
 81AB liao
 81AC cui
-81AD gui kui dui
+81AD gui
 81AE xiao
-81AF teng tun
+81AF teng
 81B0 fan
 81B1 zhi
 81B2 jiao
 81B3 shan
-81B4 hu wu mei
+81B4 hu
 81B5 cui
 81B6 run
 81B7 xiang
-81B8 sui wei
+81B8 sui
 81B9 fen
 81BA ying
 81BB shan
@@ -12842,9 +12842,9 @@
 81BF nong
 81C0 tun
 81C1 lian
-81C2 bi bei
+81C2 bi
 81C3 yong
-81C4 jue ju
+81C4 jue
 81C5 chu
 81C6 yi
 81C7 juan
@@ -12858,7 +12858,7 @@
 81CF bin
 81D0 xun
 81D1 nao
-81D2 wo yue
+81D2 wo
 81D3 zang
 81D4 xian
 81D5 biao
@@ -12873,15 +12873,15 @@
 81DE qu
 81DF zang
 81E0 luan
-81E1 ni luan
-81E2 za zan
+81E1 ni
+81E2 za
 81E3 chen
-81E4 qian xian qin
+81E4 qian
 81E5 wo
-81E6 guang jiong
+81E6 guang
 81E7 zang
 81E8 lin
-81E9 guang jiong
+81E9 guang
 81EA zi
 81EB jiao
 81EC nie
@@ -12889,14 +12889,14 @@
 81EE ji
 81EF gao
 81F0 chou
-81F1 mian bian
+81F1 mian
 81F2 nie
 81F3 zhi
 81F4 zhi
 81F5 ge
 81F6 jian
-81F7 die zhi
-81F8 zhi jin
+81F7 die
+81F8 zhi
 81F9 xiu
 81FA tai
 81FB zhen
@@ -12907,7 +12907,7 @@
 8200 yao
 8201 yu
 8202 chong
-8203 xi qiao tuo que
+8203 xi
 8204 xi
 8205 jiu
 8206 yu
@@ -12928,7 +12928,7 @@
 8216 pu
 8217 pu
 8218 guan
-8219 hua qi
+8219 hua
 821A tian
 821B chuan
 821C shun
@@ -12961,8 +12961,8 @@
 8239 chuan
 823A xia
 823B lu
-823C qiong hong
-823D pang feng
+823C qiong
+823D pang
 823E xi
 8240 fu
 8241 zao
@@ -12975,13 +12975,13 @@
 8249 wei
 824A bo
 824B meng
-824C nian qian
+824C nian
 824D ju
 824E huang
 824F shou
-8250 ke jie zong
+8250 ke
 8251 bian
-8252 mu mo
+8252 mu
 8253 die
 8255 bang
 8256 cha
@@ -12991,7 +12991,7 @@
 825A cao
 825B lou
 825C dai
-825E yao tiao
+825E yao
 825F chong
 8261 dang
 8262 qiang
@@ -12999,7 +12999,7 @@
 8264 yi
 8265 ji
 8266 jian
-8267 huo wo
+8267 huo
 8268 meng
 8269 qi
 826A lu
@@ -13019,9 +13019,9 @@
 8278 cao
 827A yi
 827B le
-827C ting ding
+827C ting
 827D jiao
-827E ai yi
+827E ai
 827F nai
 8280 tiao
 8281 jiao
@@ -13029,27 +13029,27 @@
 8283 peng
 8284 wan
 8285 yi
-8286 chai cha
+8286 chai
 8287 mian
 8288 mi
 8289 gan
 828A qian
 828B yu
-828C yu xu
+828C yu
 828D shao
 828E qiong
 828F du
-8290 hu xia
+8290 hu
 8291 qi
 8292 mang
 8293 zi
-8294 hui hu
-8295 sui wei
+8294 hui
+8295 sui
 8296 zhi
 8297 xiang
-8298 pi bi
+8298 pi
 8299 fu
-829A tun chun
+829A tun
 829B wei
 829C wu
 829D zhi
@@ -13060,13 +13060,13 @@
 82A2 ren
 82A3 fu
 82A4 kou
-82A5 gai jie
+82A5 gai
 82A6 lu
-82A7 xu zhu
+82A7 xu
 82A8 ji
 82A9 qin
 82AA qi
-82AB yan yuan
+82AB yan
 82AC fen
 82AD ba
 82AE rui
@@ -13085,7 +13085,7 @@
 82BB chu
 82BC mao
 82BD ya
-82BE fei fu
+82BE fei
 82BF reng
 82C0 hang
 82C1 cong
@@ -13102,16 +13102,16 @@
 82CD cang
 82CE zhu
 82CF su
-82D0 ti di
+82D0 ti
 82D1 yuan
 82D2 ran
 82D3 ling
 82D4 tai
-82D5 shao tiao
+82D5 shao
 82D6 di
 82D7 miao
 82D8 qing
-82D9 li ji
+82D9 li
 82DA yong
 82DB ke
 82DC mu
@@ -13121,13 +13121,13 @@
 82E0 min
 82E1 yi
 82E2 yi
-82E3 ju qu
+82E3 ju
 82E4 pie
 82E5 ruo
 82E6 ku
 82E7 ning
 82E8 ni
-82E9 bo pa
+82E9 bo
 82EA bing
 82EB shan
 82EC xiu
@@ -13146,7 +13146,7 @@
 82F9 ping
 82FA mei
 82FB fu
-82FC sheng rui
+82FC sheng
 82FD gu
 82FE bi
 82FF wei
@@ -13158,9 +13158,9 @@
 8305 mao
 8306 mao
 8307 ba
-8308 ci zi
+8308 ci
 8309 mo
-830A zi ci
+830A zi
 830B di
 830C chi
 830D ji
@@ -13176,15 +13176,15 @@
 8319 rong
 831A yin
 831B gen
-831C qian xi
+831C qian
 831D chai
 831E chen
-831F yu wei
-8320 hao xiu kou
+831F yu
+8320 hao
 8321 zi
 8322 lie
 8323 wu
-8324 ji duo
+8324 ji
 8325 gui
 8326 ci
 8327 jian
@@ -13194,7 +13194,7 @@
 832B mang
 832C cha
 832D jiao
-832E jiao niao
+832E jiao
 832F fu
 8330 yu
 8331 zhu
@@ -13203,11 +13203,11 @@
 8334 hui
 8335 yin
 8336 cha
-8337 fa pei bo ba
+8337 fa
 8338 rong
 8339 ru
 833A chong
-833B mang mu
+833B mang
 833C tong
 833D zhong
 833E qian
@@ -13229,26 +13229,26 @@
 834E chi
 834F ren
 8350 jian
-8351 ti yi
+8351 ti
 8352 huang
-8353 ping peng
+8353 ping
 8354 li
 8355 jin
-8356 lao cha
+8356 lao
 8357 shu
 8358 zhuang
 8359 da
 835A jia
 835B rao
 835C bi
-835D ze ce
+835D ze
 835E qiao
 835F hui
-8360 ji qi
+8360 ji
 8361 dang
 8363 rong
-8364 hun xun
-8365 xing ying
+8364 hun
+8365 xing
 8366 luo
 8367 ying
 8368 qian
@@ -13268,14 +13268,14 @@
 8376 yin
 8377 he
 8378 bi
-8379 bu pu
+8379 bu
 837A yun
 837B di
 837C tu
 837D sui
 837E sui
 837F cheng
-8380 chen nong
+8380 chen
 8381 wu
 8382 bie
 8383 xi
@@ -13286,40 +13286,40 @@
 8388 mo
 8389 li
 838A zhuang
-838B zuo ji
+838B zuo
 838C tuo
 838D qiu
-838E sha suo
+838E sha
 838F suo
 8390 chen
-8391 peng feng
+8391 peng
 8392 ju
 8393 mei
-8394 meng xi qing
+8394 meng
 8395 xing
 8396 jing
 8397 che
-8398 shen xin
+8398 shen
 8399 jun
 839A yan
 839B ting
 839C you
 839D cuo
-839E guan wan
+839E guan
 839F han
 83A0 you
 83A1 cuo
 83A2 jia
 83A3 wang
-83A4 su you
-83A5 niu rou
-83A6 shao xiao
-83A7 xian wan
-83A8 lang liang
-83A9 fu piao
+83A4 su
+83A5 niu
+83A6 shao
+83A7 xian
+83A8 lang
+83A9 fu
 83AA e
 83AB mo
-83AC wen wan mian
+83AC wen
 83AD jie
 83AE nan
 83AF mu
@@ -13337,24 +13337,24 @@
 83BD mang
 83BE mang
 83BF ci
-83C0 wan yu
+83C0 wan
 83C1 jing
 83C2 di
 83C3 qu
 83C4 dong
 83C5 jian
-83C6 zou cuan chu cong
+83C6 zou
 83C7 gu
 83C8 la
-83C9 lu lv
+83C9 lu
 83CA ju
 83CB wei
 83CC jun
-83CD nie ren
+83CD nie
 83CE kun
 83CF he
 83D0 pu
-83D1 zai zi
+83D1 zai
 83D2 gao
 83D3 guo
 83D4 fu
@@ -13374,21 +13374,21 @@
 83E2 bao
 83E3 qin
 83E4 juan
-83E5 xi si
+83E5 xi
 83E6 qin
 83E7 di
-83E8 jie sha
+83E8 jie
 83E9 pu
 83EA dang
-83EB jin qin
-83EC qiao zhao
-83ED tai zhi chi
+83EB jin
+83EC qiao
+83ED tai
 83EE geng
 83EF hua
 83F0 gu
 83F1 ling
 83F2 fei
-83F3 qin jin
+83F3 qin
 83F4 an
 83F5 wang
 83F6 beng
@@ -13410,7 +13410,7 @@
 8406 bi
 8407 chang
 8408 huan
-8409 fei fu
+8409 fei
 840A lai
 840B qi
 840C meng
@@ -13419,7 +13419,7 @@
 840F dan
 8410 sha
 8411 huan
-8412 yan juan
+8412 yan
 8413 yi
 8414 tiao
 8415 qi
@@ -13440,9 +13440,9 @@
 842A ke
 842B xiang
 842C wan
-842D yu ju
+842D yu
 842E yu
-842F fu bei
+842F fu
 8430 lian
 8431 xuan
 8432 xuan
@@ -13450,19 +13450,19 @@
 8434 ce
 8435 wo
 8436 chun
-8437 xiao shao shuo
+8437 xiao
 8438 yu
 8439 bian
-843A mao mu
+843A mao
 843B an
 843C e
-843D luo la
+843D luo
 843E ying
-843F kuo huo
+843F kuo
 8440 kuo
 8441 jiang
 8442 mian
-8443 zuo ze
+8443 zuo
 8444 zuo
 8445 zu
 8446 bao
@@ -13475,28 +13475,28 @@
 844D fu
 844E lv
 844F jing
-8450 pen fen
+8450 pen
 8451 feng
 8452 hong
 8453 hong
 8454 hou
 8455 yan
 8456 tu
-8457 zhe zhao zhu zhuo
+8457 zhe
 8458 zi
 8459 xiang
-845A ren shen
+845A ren
 845B ge
 845C qia
-845D qing jing
+845D qing
 845E mi
 845F huang
 8460 shen
 8461 pu
-8462 gai ge he
+8462 gai
 8463 dong
 8464 zhou
-8465 jian qian
+8465 jian
 8466 wei
 8467 bo
 8468 wei
@@ -13507,14 +13507,14 @@
 846D jia
 846E duan
 846F yao
-8470 sui jun suo
+8470 sui
 8471 cong
 8472 quan
 8473 wei
-8474 zhen qian
+8474 zhen
 8475 kui
 8476 ting
-8477 hun xun
+8477 hun
 8478 xi
 8479 shi
 847A qi
@@ -13544,24 +13544,24 @@
 8495 yun
 8496 zhen
 8497 lang
-8498 ru na
+8498 ru
 8499 meng
 849A li
 849B que
 849C suan
-849D yuan huan
+849D yuan
 849E li
 849F ju
 84A0 xi
 84A1 bang
 84A2 chu
-84A3 xu shu
+84A3 xu
 84A4 tu
 84A5 liu
-84A6 huo wo
+84A6 huo
 84A7 dian
 84A8 qian
-84A9 zu ju ji
+84A9 zu
 84AA po
 84AB cuo
 84AC yuan
@@ -13604,7 +13604,7 @@
 84D1 suo
 84D2 xuan
 84D3 bei
-84D4 yao zhuo
+84D4 yao
 84D5 gui
 84D6 bi
 84D7 zong
@@ -13623,14 +13623,14 @@
 84E8 tiao
 84E9 mao
 84EA tong
-84EB chu zhu
+84EB chu
 84EC peng
 84ED an
 84EE lian
 84EF cong
 84F0 xi
 84F1 ping
-84F2 qiu ou xu fu
+84F2 qiu
 84F3 jin
 84F4 chun
 84F5 jie
@@ -13639,38 +13639,38 @@
 84F8 cao
 84F9 yu
 84FA yi
-84FB zi ju
-84FC liao lu
+84FB zi
+84FC liao
 84FD bi
 84FE lu
 84FF xu
 8500 bu
 8501 zhang
 8502 lei
-8503 qiang jiang
+8503 qiang
 8504 man
 8505 yan
 8506 ling
-8507 ji xi
-8508 biao piao
+8507 ji
+8508 biao
 8509 gun
 850A han
 850B di
 850C su
-850D lu cu
+850D lu
 850E she
 850F shang
 8510 di
 8511 mie
 8512 xun
-8513 man wan
+8513 man
 8514 bo
 8515 di
-8516 cuo cu zha
+8516 cuo
 8517 zhe
-8518 shen san
+8518 shen
 8519 xuan
-851A wei yu
+851A wei
 851B hu
 851C ao
 851D mi
@@ -13678,15 +13678,15 @@
 851F cu
 8520 zhong
 8521 cai
-8522 po bo
+8522 po
 8523 jiang
 8524 mi
 8525 cong
 8526 niao
 8527 hui
-8528 juan jun
+8528 juan
 8529 yin
-852A jian shan
+852A jian
 852B nian
 852C shu
 852D yin
@@ -13697,7 +13697,7 @@
 8532 kou
 8533 qian
 8534 ma
-8535 zang cang
+8535 zang
 8537 qiang
 8538 dou
 8539 lian
@@ -13722,7 +13722,7 @@
 854C lei
 854D yu
 854E qiao
-854F chu zhu zha
+854F chu
 8550 hua
 8551 jian
 8552 mai
@@ -13736,12 +13736,12 @@
 855A e
 855B ti
 855C fei
-855D jue zui
+855D jue
 855E zui
-855F fa fei
+855F fa
 8560 ru
-8561 fen fei
-8562 kui kuai
+8561 fen
+8562 kui
 8563 shun
 8564 rui
 8565 ya
@@ -13772,9 +13772,9 @@
 857F xuan
 8580 yun
 8581 yu
-8582 xi xiao
+8582 xi
 8583 hao
-8584 bao bo
+8584 bao
 8585 hao
 8586 ai
 8587 wei
@@ -13783,7 +13783,7 @@
 858A ji
 858B ci
 858C xiang
-858D wan luan
+858D wan
 858E mie
 858F yi
 8590 leng
@@ -13807,9 +13807,9 @@
 85A2 xie
 85A3 gu
 85A4 xie
-85A5 shu zhu
+85A5 shu
 85A6 jian
-85A7 hao kao
+85A7 hao
 85A8 hong
 85A9 sa
 85AA xin
@@ -13820,14 +13820,14 @@
 85B0 xun
 85B1 dui
 85B2 pin
-85B3 wei yuan
+85B3 wei
 85B4 ning
-85B5 chou zhou dao
-85B6 mai wo
+85B5 chou
+85B6 mai
 85B7 ru
 85B8 piao
 85B9 tai
-85BA ji qi
+85BA ji
 85BB zao
 85BC chen
 85BD zhen
@@ -13836,15 +13836,15 @@
 85C0 ying
 85C1 gao
 85C2 cong
-85C3 xiao hao he
+85C3 xiao
 85C4 qi
 85C5 fa
 85C6 jian
-85C7 xu yu
+85C7 xu
 85C8 kui
-85C9 ji jie
+85C9 ji
 85CA bian
-85CB diao di zhuo
+85CB diao
 85CC mi
 85CD lan
 85CE jin
@@ -13854,7 +13854,7 @@
 85D2 qie
 85D3 xian
 85D5 ou
-85D6 xian qian
+85D6 xian
 85D7 su
 85D8 lv
 85D9 yi
@@ -13882,11 +13882,11 @@
 85EF wei
 85F0 liu
 85F1 hui
-85F3 gao kao
-85F4 yun wen
+85F3 gao
+85F4 yun
 85F6 li
 85F7 shu
-85F8 chu zhu zha
+85F8 chu
 85F9 ai
 85FA lin
 85FB zao
@@ -13895,7 +13895,7 @@
 85FE lai
 85FF huo
 8600 tuo
-8601 wu e
+8601 wu
 8602 rui
 8603 rui
 8604 qi
@@ -13903,7 +13903,7 @@
 8606 lu
 8607 su
 8608 tui
-8609 meng mang
+8609 meng
 860A yun
 860B ping
 860C yu
@@ -13914,8 +13914,8 @@
 8611 mo
 8613 su
 8614 jiong
-8616 bo nie
-8617 bo bi
+8616 bo
+8617 bo
 8618 rang
 8619 yi
 861A xian
@@ -13928,22 +13928,22 @@
 8621 ying
 8622 long
 8623 tou
-8624 wei hua
+8624 wei
 8625 yue
 8626 ling
 8627 qu
 8628 yao
 8629 fan
 862A mei
-862B han lan
-862C kui hui gui
+862B han
+862C kui
 862D lan
 862E ji
 862F dang
 8631 lei
 8632 lei
 8633 hui
-8634 feng song
+8634 feng
 8635 zhi
 8636 wei
 8637 kui
@@ -13985,7 +13985,7 @@
 865D hu
 865E yu
 865F hao
-8660 jiao hao
+8660 jiao
 8661 ju
 8662 guo
 8663 bao
@@ -13998,18 +13998,18 @@
 866A shu
 866B chong
 866C qiu
-866D diao dao
+866D diao
 866E ji
 866F qiu
-8670 ding cheng
+8670 ding
 8671 shi
 8673 jue
 8674 zhe
 8675 she
 8676 yu
-8677 han gan
+8677 han
 8678 zi
-8679 hong jiang
+8679 hong
 867A hui
 867B meng
 867C ge
@@ -14020,7 +14020,7 @@
 8681 yi
 8682 ma
 8683 xiang
-8684 fang bang
+8684 fang
 8685 e
 8686 ba
 8687 chi
@@ -14028,7 +14028,7 @@
 8689 wen
 868A wen
 868B rui
-868C bang beng
+868C bang
 868D pi
 868E yue
 868F yue
@@ -14036,12 +14036,12 @@
 8691 qi
 8692 tong
 8693 yin
-8694 qi zhi
+8694 qi
 8695 can
-8696 yuan wan
-8697 jue que
+8696 yuan
+8697 jue
 8698 hui
-8699 qin qian
+8699 qin
 869A qi
 869B zhong
 869C ya
@@ -14059,7 +14059,7 @@
 86A8 fu
 86A9 chi
 86AA dou
-86AB bao pao
+86AB bao
 86AC xian
 86AD ni
 86AE te
@@ -14067,18 +14067,18 @@
 86B0 you
 86B1 zha
 86B2 ping
-86B3 chi di
+86B3 chi
 86B4 you
-86B5 he ke
+86B5 he
 86B6 han
 86B7 ju
 86B8 li
 86B9 fu
 86BA ran
 86BB zha
-86BC gou qu xu
+86BC gou
 86BD pi
-86BE pi bo
+86BE pi
 86BF xian
 86C0 zhu
 86C1 diao
@@ -14098,11 +14098,11 @@
 86CF cheng
 86D0 qu
 86D1 mou
-86D2 ge luo
+86D2 ge
 86D3 ci
 86D4 hui
 86D5 hui
-86D6 mang bang
+86D6 mang
 86D7 fu
 86D8 yang
 86D9 wa
@@ -14113,7 +14113,7 @@
 86DE kuo
 86DF jiao
 86E0 li
-86E1 yi xu
+86E1 yi
 86E2 ping
 86E3 qi
 86E4 ha
@@ -14122,7 +14122,7 @@
 86E7 wang
 86E8 mo
 86E9 qiong
-86EA qie ni
+86EA qie
 86EB gui
 86EC qiong
 86ED zhi
@@ -14135,10 +14135,10 @@
 86F5 xing
 86F6 jie
 86F7 qiu
-86F8 shao xiao
+86F8 shao
 86F9 yong
 86FA jia
-86FB tui yue shui
+86FB tui
 86FC che
 86FD bai
 86FE e
@@ -14147,8 +14147,8 @@
 8701 xuan
 8702 feng
 8703 shen
-8704 shen zhen
-8705 fu pu
+8704 shen
+8705 fu
 8706 xian
 8707 zhe
 8708 wu
@@ -14179,7 +14179,7 @@
 8721 la
 8722 meng
 8723 qiang
-8724 si xi
+8724 si
 8725 xi
 8726 lun
 8727 li
@@ -14194,16 +14194,16 @@
 8730 fei
 8731 pi
 8732 wei
-8733 dun tun
+8733 dun
 8734 yi
-8735 yuan yun
+8735 yuan
 8736 suo
 8737 quan
 8738 qian
 8739 rui
 873A ni
 873B qing
-873C wei tong
+873C wei
 873D liang
 873E guo
 873F wan
@@ -14219,11 +14219,11 @@
 8749 chan
 874B la
 874C ke
-874D jie ji
+874D jie
 874E xie
 874F ting
 8750 mao
-8751 xu xie
+8751 xu
 8752 mian
 8753 yu
 8754 jie
@@ -14232,7 +14232,7 @@
 8757 huang
 8758 yan
 8759 bian
-875A rou nao
+875A rou
 875B wei
 875C fu
 875D yuan
@@ -14242,29 +14242,29 @@
 8761 ru
 8762 xie
 8763 you
-8764 qiu you
+8764 qiu
 8765 mao
 8766 xia
 8767 ying
 8768 shi
-8769 chong zhong
+8769 chong
 876A tang
 876B zhu
 876C zong
-876D ti chi
+876D ti
 876E fu
 876F yuan
 8770 kui
 8771 meng
 8772 la
-8773 du dai
+8773 du
 8774 hu
 8775 qiu
 8776 die
-8777 li xi
+8777 li
 8778 wo
-8779 yun ao
-877A qu yu
+8779 yun
+877A qu
 877B nan
 877C lou
 877D chun
@@ -14276,12 +14276,12 @@
 8784 si
 8785 xi
 8786 ci
-8787 xi qi
+8787 xi
 8788 yuan
 8789 weng
 878A lian
 878B sou
-878C ban pan huan
+878C ban
 878D rong
 878E rong
 878F ji
@@ -14289,22 +14289,22 @@
 8791 xiu
 8792 han
 8793 qin
-8794 yi si
-8795 bi pi
+8794 yi
+8795 bi
 8796 hua
 8797 tang
 8798 yi
 8799 du
-879A nai neng
-879B he xia
+879A nai
+879B he
 879C hu
-879D gui hui
+879D gui
 879E ma
 879F ming
 87A0 yi
 87A1 wen
 87A2 ying
-87A3 te teng
+87A3 te
 87A4 zhong
 87A5 cang
 87A8 man
@@ -14316,14 +14316,14 @@
 87AF ao
 87B0 lu
 87B1 wei
-87B2 zhi die
+87B2 zhi
 87B3 tang
 87B4 chen
 87B5 piao
-87B6 qu ju
+87B6 qu
 87B7 pi
 87B8 yu
-87B9 jian chan
+87B9 jian
 87BA luo
 87BB lou
 87BC qin
@@ -14339,7 +14339,7 @@
 87C6 ma
 87C7 ma
 87C8 guo
-87C9 liu liao
+87C9 liu
 87CA mao
 87CB xi
 87CC cong
@@ -14347,7 +14347,7 @@
 87CE man
 87CF xiao
 87D1 zhang
-87D2 mang meng
+87D2 mang
 87D3 xiang
 87D4 mo
 87D5 zui
@@ -14357,7 +14357,7 @@
 87D9 zhi
 87DA peng
 87DB peng
-87DC jiao qiao
+87DC jiao
 87DD qu
 87DE bie
 87DF liao
@@ -14367,8 +14367,8 @@
 87E3 ji
 87E4 zhuan
 87E5 huang
-87E6 fei ben
-87E7 lao liao
+87E6 fei
+87E7 lao
 87E8 jue
 87E9 jue
 87EA hui
@@ -14378,21 +14378,21 @@
 87EE shan
 87EF nao
 87F0 xiao
-87F1 wu mou
+87F1 wu
 87F2 chong
 87F3 xun
 87F4 si
 87F6 cheng
 87F7 dang
-87F8 li luo
+87F8 li
 87F9 xie
-87FA shan dan chan tuo
+87FA shan
 87FB yi
 87FC jing
 87FD da
 87FE chan
 87FF qi
-8800 ci ji
+8800 ci
 8801 xiang
 8802 she
 8803 luo
@@ -14424,7 +14424,7 @@
 881D lei
 881E jie
 881F la
-8820 min mian
+8820 min
 8821 li
 8822 chun
 8823 li
@@ -14433,31 +14433,31 @@
 8826 lu
 8827 du
 8828 xiao
-8829 zhu chu
+8829 zhu
 882A long
 882B li
 882C long
 882D feng
 882E ye
 882F beng
-8830 nang shang rang
+8830 nang
 8831 gu
 8832 juan
 8833 ying
 8835 xi
 8836 can
 8837 qu
-8838 quan huan
+8838 quan
 8839 du
 883A can
 883B man
 883C qu
 883D jie
-883E zhu shu
+883E zhu
 883F zhuo
-8840 xue xie
+8840 xue
 8841 huang
-8842 niu nÜ
+8842 niu
 8843 pei
 8844 nv
 8845 xin
@@ -14467,7 +14467,7 @@
 8849 ka
 884A mie
 884B xi
-884C xing hang
+884C xing
 884D yan
 884E kan
 884F yuan
@@ -14478,7 +14478,7 @@
 8855 tong
 8856 xiang
 8857 jie
-8858 xian yu
+8858 xian
 8859 ya
 885A hu
 885B wei
@@ -14500,7 +14500,7 @@
 886C chen
 886D fu
 886E gun
-886F fen pen
+886F fen
 8870 shuai
 8871 jie
 8872 na
@@ -14529,21 +14529,21 @@
 8889 tuo
 888A ling
 888B dai
-888C bao pao
+888C bao
 888D pao
 888E yao
 888F zuo
 8890 bi
 8891 shao
 8892 tan
-8893 ju jie
-8894 he ke kua
+8893 ju
+8894 he
 8895 xue
 8896 xiu
 8897 zhen
-8898 yi tuo
+8898 yi
 8899 pa
-889A bo fu
+889A bo
 889B di
 889C wa
 889D fu
@@ -14555,30 +14555,30 @@
 88A3 yi
 88A4 mao
 88A5 tuo
-88A6 na jue
+88A6 na
 88A7 gou
 88A8 xuan
-88A9 zhe chan
+88A9 zhe
 88AA qu
 88AB bei
 88AC gun
 88AD xi
 88AF bo
 88B1 fu
-88B2 chi nuo
-88B3 chi qi duo nuo
+88B2 chi
+88B3 chi
 88B4 ku
 88B5 ren
 88B6 jiang
-88B7 jia jie qia
-88B8 jian zun
-88B9 bo mo
+88B7 jia
+88B8 jian
+88B9 bo
 88BA jie
 88BB er
 88BC ge
 88BD ru
 88BE zhu
-88BF gui gua
+88BF gui
 88C0 yin
 88C1 cai
 88C2 lie
@@ -14595,7 +14595,7 @@
 88D0 juan
 88D1 shen
 88D2 pou
-88D3 ge jie
+88D3 ge
 88D4 yi
 88D5 yu
 88D6 zhen
@@ -14615,8 +14615,8 @@
 88E4 ku
 88E5 jian
 88E6 fou
-88E7 chan tan
-88E8 bi pi
+88E7 chan
+88E8 bi
 88E9 kun
 88EA tao
 88EB yuan
@@ -14631,28 +14631,28 @@
 88F4 pei
 88F5 pei
 88F6 fei
-88F7 yuan gun
+88F7 yuan
 88F8 luo
 88F9 guo
-88FA yan an
+88FA yan
 88FB du
-88FC ti xi
+88FC ti
 88FD zhi
 88FE ju
-88FF yi qi
+88FF yi
 8900 ji
 8901 zhi
 8902 gua
 8903 ken
 8905 ti
-8906 ti shi
+8906 ti
 8907 fu
-8908 chong zhong
+8908 chong
 8909 xie
 890A bian
 890B die
 890C kun
-890D duan tuan
+890D duan
 890E xiu
 890F xiu
 8910 he
@@ -14665,10 +14665,10 @@
 8917 yan
 8918 hui
 8919 bei
-891A chu zhu
+891A chu
 891B lv
 891D dan
-891E yun wen
+891E yun
 891F ta
 8920 gou
 8921 da
@@ -14678,9 +14678,9 @@
 8925 ru
 8926 nai
 8927 jiong
-8928 suo cha
-8929 ban pan
-892A tui tun
+8928 suo
+8929 ban
+892A tui
 892B chi
 892C sang
 892D niao
@@ -14695,7 +14695,7 @@
 8936 zhe
 8937 shi
 8938 lv
-8939 yi nie
+8939 yi
 893A die
 893B xie
 893C xian
@@ -14704,18 +14704,18 @@
 893F cao
 8940 ji
 8941 qiang
-8942 sen shan
+8942 sen
 8943 bao
 8944 xiang
 8946 fu
 8947 jian
-8948 zhuan juan
+8948 zhuan
 8949 jian
-894A cui cuo
+894A cui
 894B ji
 894C dan
 894D za
-894E fan bo
+894E fan
 894F bo
 8950 xiang
 8951 xin
@@ -14724,8 +14724,8 @@
 8954 man
 8955 lan
 8956 ao
-8957 ze duo yi
-8958 gui hui
+8957 ze
+8958 gui
 8959 cao
 895A sui
 895B nong
@@ -14734,8 +14734,8 @@
 895E bi
 895F jin
 8960 dang
-8961 shu du
-8962 tan zhan chan
+8961 shu
+8962 tan
 8963 bi
 8964 lan
 8965 pu
@@ -14751,11 +14751,11 @@
 8970 lai
 8971 long
 8972 xi
-8973 xian shan
+8973 xian
 8974 lan
 8975 zhe
 8976 dai
-8978 zan cuan
+8978 zan
 8979 shi
 897A jian
 897B pan
@@ -14765,27 +14765,27 @@
 8980 xi
 8981 yao
 8982 feng
-8983 qin tan
+8983 qin
 8985 fiao
 8986 fu
 8987 ba
 8988 he
 8989 ji
 898A ji
-898B jian xian
+898B jian
 898C guan
-898D bian pan
+898D bian
 898E yan
 898F gui
-8990 jue jiao
+8990 jue
 8991 pian
 8992 mao
 8993 mi
 8994 mi
-8995 mie pie
+8995 mie
 8996 shi
 8997 si
-8998 chan dan ji
+8998 chan
 8999 luo
 899A jue
 899B mi
@@ -14815,18 +14815,18 @@
 89B3 guan
 89B4 deng
 89B5 jian
-89B6 luo luan
+89B6 luo
 89B7 qu
 89B8 jian
 89B9 wei
-89BA jue jiao
+89BA jue
 89BB qu
 89BC luo
 89BD lan
 89BE shen
 89BF di
 89C0 guan
-89C1 jian xian
+89C1 jian
 89C2 guan
 89C3 yan
 89C4 gui
@@ -14834,7 +14834,7 @@
 89C6 shi
 89C7 chan
 89C8 lan
-89C9 jue jiao
+89C9 jue
 89CA ji
 89CB xi
 89CC di
@@ -14843,20 +14843,20 @@
 89CF gou
 89D0 jin
 89D1 qu
-89D2 jiao jue
+89D2 jiao
 89D3 qiu
 89D4 jin
 89D5 cu
 89D6 jue
 89D7 zhi
 89D8 chao
-89D9 ji fan
+89D9 ji
 89DA gu
 89DB dan
-89DC zi zui
+89DC zi
 89DD di
 89DE shang
-89DF hua xie
+89DF hua
 89E0 quan
 89E1 ge
 89E2 shi
@@ -14873,18 +14873,18 @@
 89ED ji
 89EE lu
 89EF zhi
-89F0 zha da
+89F0 zha
 89F1 bi
 89F2 xing
 89F3 hu
 89F4 shang
 89F5 gong
 89F6 zhi
-89F7 xue hu
+89F7 xue
 89F8 chu
-89F9 xi wei
+89F9 xi
 89FA yi
-89FB li lu
+89FB li
 89FC jue
 89FD xi
 89FE yan
@@ -14901,10 +14901,10 @@
 8A0A xun
 8A0B diao
 8A0C hong
-8A0D chai cha
+8A0D chai
 8A0E tao
 8A0F xu
-8A10 jie ji
+8A10 jie
 8A11 yi
 8A12 ren
 8A13 xun
@@ -14916,15 +14916,15 @@
 8A19 xun
 8A1A yin
 8A1B e
-8A1C fen bin
+8A1C fen
 8A1D ya
 8A1E yao
 8A1F song
 8A20 shen
-8A21 yin jin
+8A21 yin
 8A22 xin
 8A23 jue
-8A24 xiao na
+8A24 xiao
 8A25 ne
 8A26 chen
 8A27 you
@@ -14932,7 +14932,7 @@
 8A29 xiong
 8A2A fang
 8A2B xin
-8A2C chao miao
+8A2C chao
 8A2D she
 8A2E xian
 8A2F sa
@@ -14952,16 +14952,16 @@
 8A3D gou
 8A3E zi
 8A3F zi
-8A40 zhan che dian tie
+8A40 zhan
 8A41 gu
 8A42 fu
 8A43 jian
 8A44 die
 8A45 ling
-8A46 di ti
+8A46 di
 8A47 yang
 8A48 li
-8A49 nao na nu
+8A49 nao
 8A4A pan
 8A4B zhou
 8A4C gan
@@ -14970,14 +14970,14 @@
 8A4F yao
 8A50 zha
 8A51 yi
-8A52 yi dai tai
+8A52 yi
 8A53 qu
 8A54 zhao
 8A55 ping
 8A56 bi
 8A57 xiong
-8A58 qu chu
-8A59 ba bo
+8A58 qu
+8A59 ba
 8A5A da
 8A5B zu
 8A5C tao
@@ -14989,14 +14989,14 @@
 8A62 xun
 8A63 yi
 8A64 huang
-8A65 he ge
+8A65 he
 8A66 shi
 8A67 cha
 8A68 xiao
 8A69 shi
 8A6A hen
 8A6B cha
-8A6C gou hou
+8A6C gou
 8A6D gui
 8A6E quan
 8A6F hui
@@ -15006,20 +15006,20 @@
 8A73 xiang
 8A74 wei
 8A75 shen
-8A76 zhou chou
-8A77 tong dong
+8A76 zhou
+8A77 tong
 8A78 mi
 8A79 zhan
 8A7A ming
-8A7B e lve luo
+8A7B e
 8A7C hui
 8A7D yan
 8A7E xiong
 8A7F gua
-8A80 er chi
+8A80 er
 8A81 bing
-8A82 tiao diao
-8A83 yi chi duo
+8A82 tiao
+8A83 yi
 8A84 lei
 8A85 zhu
 8A86 kuang
@@ -15060,26 +15060,26 @@
 8AA9 jing
 8AAA shuo
 8AAB zhen
-8AAC shuo shui yue tuo
+8AAC shuo
 8AAD du
 8AAF chang
 8AB0 shui
 8AB1 jie
 8AB2 ke
-8AB3 qu jue
+8AB3 qu
 8AB4 cong
 8AB5 xiao
 8AB6 sui
 8AB7 wang
 8AB8 xian
 8AB9 fei
-8ABA chi lai
+8ABA chi
 8ABB ta
 8ABC yi
-8ABD ni na
+8ABD ni
 8ABE yin
-8ABF diao tiao
-8AC0 pi bei
+8ABF diao
+8AC0 pi
 8AC1 zhuo
 8AC2 chan
 8AC3 chen
@@ -15093,45 +15093,45 @@
 8ACB qing
 8ACC dong
 8ACD zheng
-8ACE ze cuo zuo zha jie
-8ACF zou zhou
+8ACE ze
+8ACF zou
 8AD0 qian
 8AD1 zhuo
 8AD2 liang
 8AD3 jian
 8AD4 chu
-8AD5 hao xia huo
+8AD5 hao
 8AD6 lun
-8AD7 shen nie
+8AD7 shen
 8AD8 biao
 8AD9 huai
 8ADA pian
 8ADB yu
-8ADC die xie
+8ADC die
 8ADD xu
 8ADE pian
-8ADF shi di
+8ADF shi
 8AE0 xuan
 8AE1 shi
 8AE2 hun
-8AE3 hua gua
+8AE3 hua
 8AE4 e
 8AE5 zhong
-8AE6 di ti
+8AE6 di
 8AE7 xie
 8AE8 fu
 8AE9 pu
 8AEA ting
-8AEB jian lan
+8AEB jian
 8AEC qi
-8AED yu tou
+8AED yu
 8AEE zi
 8AEF zhuan
-8AF0 xi shai ai
+8AF0 xi
 8AF1 hui
 8AF2 yin
-8AF3 an tou
-8AF4 xian gan
+8AF3 an
+8AF4 xian
 8AF5 nan
 8AF6 chen
 8AF7 feng
@@ -15142,72 +15142,72 @@
 8AFC xuan
 8AFD ge
 8AFE nuo
-8AFF qi xu
+8AFF qi
 8B00 mou
-8B01 ye ai
+8B01 ye
 8B02 wei
 8B04 teng
 8B05 zhou
 8B06 shan
 8B07 jian
-8B08 po pao
-8B09 kui dui tui gui
+8B08 po
+8B09 kui
 8B0A huang
 8B0B huo
 8B0C ge
-8B0D ying hong
+8B0D ying
 8B0E mi
 8B0F xiao
 8B10 mi
-8B11 xi xia
+8B11 xi
 8B12 qiang
-8B13 chen zhen
+8B13 chen
 8B14 xue
-8B15 ti si
+8B15 ti
 8B16 su
 8B17 bang
 8B18 chi
 8B19 qian
-8B1A shi yi xi
+8B1A shi
 8B1B jiang
-8B1C yuan quan
+8B1C yuan
 8B1D xie
-8B1E he xiao
+8B1E he
 8B1F tao
 8B20 yao
 8B21 yao
-8B23 yu xu
-8B24 biao piao
+8B23 yu
+8B24 biao
 8B25 cong
 8B26 qing
 8B27 li
 8B28 mo
 8B29 mo
 8B2A shang
-8B2B zhe ze
+8B2B zhe
 8B2C miu
 8B2D jian
 8B2E ze
-8B2F jie zha zu
+8B2F jie
 8B30 lian
-8B31 lou lv
-8B32 can zao san chen
+8B31 lou
+8B32 can
 8B33 ou
 8B34 gun
-8B35 xi che
-8B36 zhuo shu zhe
+8B35 xi
+8B36 zhuo
 8B37 ao
 8B38 ao
 8B39 jin
 8B3A zhe
-8B3B yi chi
-8B3C hu xiao
+8B3B yi
+8B3C hu
 8B3D jiang
 8B3E man
 8B3F chao
-8B40 han xian
+8B40 han
 8B41 hua
-8B42 chan dan
+8B42 chan
 8B43 xu
 8B44 zeng
 8B45 se
@@ -15222,12 +15222,12 @@
 8B4E jue
 8B4F ji
 8B50 zun
-8B51 jiao qiao
+8B51 jiao
 8B52 bo
 8B53 hui
 8B54 zhuan
-8B55 wu mo
-8B56 zen jian
+8B55 wu
+8B56 zen
 8B57 zha
 8B58 shi
 8B59 qiao
@@ -15244,14 +15244,14 @@
 8B64 ji
 8B65 jiao
 8B66 jing
-8B67 zhan lian
-8B68 nang nou
+8B67 zhan
+8B68 nang
 8B69 yi
 8B6A ai
 8B6B zhan
 8B6C pi
 8B6D hui
-8B6E hua xie hui
+8B6E hua
 8B6F yi
 8B70 yi
 8B71 shan
@@ -15263,9 +15263,9 @@
 8B77 hu
 8B78 zhou
 8B79 hao
-8B7A ai yi ni
+8B7A ai
 8B7B ying
-8B7C jian kan
+8B7C jian
 8B7D yu
 8B7E jian
 8B7F hui
@@ -15278,7 +15278,7 @@
 8B86 wei
 8B87 chan
 8B88 li
-8B89 yi tui
+8B89 yi
 8B8A bian
 8B8B zhe
 8B8C yan
@@ -15291,7 +15291,7 @@
 8B93 rang
 8B94 yin
 8B95 lan
-8B96 chen chan
+8B96 chen
 8B97 xie
 8B98 nie
 8B99 huan
@@ -15357,7 +15357,7 @@
 8BD5 shi
 8BD6 gua
 8BD7 shi
-8BD8 ji jie
+8BD8 ji
 8BD9 hui
 8BDA cheng
 8BDB zhu
@@ -15400,7 +15400,7 @@
 8C00 yu
 8C01 shui
 8C02 shen
-8C03 diao tiao
+8C03 diao
 8C04 chan
 8C05 liang
 8C06 zhun
@@ -15425,7 +15425,7 @@
 8C19 an
 8C1A yan
 8C1B di
-8C1C mei mi
+8C1C mei
 8C1D pian
 8C1E xu
 8C1F mo
@@ -15459,22 +15459,22 @@
 8C3B ji
 8C3C hong
 8C3D han
-8C3E hong long
+8C3E hong
 8C3F xi
 8C40 xi
 8C41 huo
 8C42 liao
-8C43 han gan
+8C43 han
 8C44 du
 8C45 long
 8C46 dou
 8C47 jiang
 8C48 qi
 8C49 shi
-8C4A li feng
+8C4A li
 8C4B deng
 8C4C wan
-8C4D bi bian
+8C4D bi
 8C4E shu
 8C4F xian
 8C50 feng
@@ -15496,20 +15496,20 @@
 8C60 chu
 8C61 xiang
 8C62 huan
-8C63 jian yan
-8C64 ken kun
+8C63 jian
+8C64 ken
 8C65 gai
 8C66 ju
-8C67 fu pu
+8C67 fu
 8C68 xi
-8C69 bin huan
+8C69 bin
 8C6A hao
 8C6B yu
 8C6C zhu
 8C6D jia
 8C6E fen
 8C6F xi
-8C70 bo hu huo gou
+8C70 bo
 8C71 wen
 8C72 huan
 8C73 bin
@@ -15525,20 +15525,20 @@
 8C7D na
 8C7E pi
 8C7F gou
-8C80 na duo
+8C80 na
 8C81 you
 8C82 diao
 8C83 mo
 8C84 si
 8C85 xiu
 8C86 huan
-8C87 kun mao ken
-8C88 he mo
-8C89 hao he
+8C87 kun
+8C88 he
+8C89 hao
 8C8A mo
 8C8B han
 8C8C mao
-8C8D li mai yu
+8C8D li
 8C8E ni
 8C8F bi
 8C90 yu
@@ -15548,15 +15548,15 @@
 8C94 pi
 8C95 xi
 8C96 e
-8C97 ju yu
+8C97 ju
 8C98 mo
 8C99 chu
 8C9A tan
 8C9B huan
 8C9C jue
 8C9D bei
-8C9E zhen zheng
-8C9F yuan yun
+8C9E zhen
+8C9F yuan
 8CA0 fu
 8CA1 cai
 8CA2 gong
@@ -15579,9 +15579,9 @@
 8CB3 er
 8CB4 gui
 8CB5 pian
-8CB6 bian fa
+8CB6 bian
 8CB7 mai
-8CB8 dai te
+8CB8 dai
 8CB9 sheng
 8CBA kuang
 8CBB fei
@@ -15590,14 +15590,14 @@
 8CBE chi
 8CBF mao
 8CC0 he
-8CC1 bi fen ben fei ban lu pan
+8CC1 bi
 8CC2 lu
 8CC3 lin
 8CC4 hui
 8CC5 gai
 8CC6 pian
 8CC7 zi
-8CC8 gu jia
+8CC8 gu
 8CC9 xu
 8CCA zei
 8CCB jiao
@@ -15607,7 +15607,7 @@
 8CCF ying
 8CD0 xun
 8CD1 zhen
-8CD2 she sha
+8CD2 she
 8CD3 bin
 8CD4 bin
 8CD5 qiu
@@ -15632,11 +15632,11 @@
 8CE8 cong
 8CE9 cong
 8CEA zhi
-8CEB ji qi
+8CEB ji
 8CEC zhang
 8CED du
 8CEE jin
-8CEF xiong min
+8CEF xiong
 8CF0 chun
 8CF1 yun
 8CF2 bao
@@ -15644,9 +15644,9 @@
 8CF4 lai
 8CF5 feng
 8CF6 cang
-8CF7 ji qi
+8CF7 ji
 8CF8 sheng
-8CF9 yi ai
+8CF9 yi
 8CFA zhuan
 8CFB fu
 8CFC gou
@@ -15660,12 +15660,12 @@
 8D04 zhi
 8D05 zhui
 8D06 biao
-8D07 yun bin
+8D07 yun
 8D08 zeng
 8D09 dan
 8D0A zan
 8D0B yan
-8D0D shan dan
+8D0D shan
 8D0E wan
 8D0F ying
 8D10 jin
@@ -15678,12 +15678,12 @@
 8D17 yan
 8D19 xuan
 8D1A long
-8D1B gong gan zhuang
+8D1B gong
 8D1C zang
 8D1D bei
 8D1E zhen
 8D1F fu
-8D20 yuan yun
+8D20 yuan
 8D21 gong
 8D22 cai
 8D23 ze
@@ -15701,7 +15701,7 @@
 8D2F guan
 8D30 er
 8D31 jian
-8D32 ben bi
+8D32 ben
 8D33 shi
 8D34 tie
 8D35 gui
@@ -15713,7 +15713,7 @@
 8D3B yi
 8D3C zei
 8D3D zhi
-8D3E gu jia
+8D3E gu
 8D3F hui
 8D40 zi
 8D41 lin
@@ -15755,7 +15755,7 @@
 8D65 xi
 8D66 she
 8D67 nan
-8D68 tong xiong
+8D68 tong
 8D69 xi
 8D6A cheng
 8D6B he
@@ -15773,29 +15773,29 @@
 8D77 qi
 8D78 shan
 8D79 qiong
-8D7A yin qin
+8D7A yin
 8D7B xian
 8D7C ci
-8D7D jue gui
+8D7D jue
 8D7E qin
-8D7F chi di
+8D7F chi
 8D80 ci
 8D81 chen
 8D82 chen
-8D83 die tu
-8D84 ju qie
+8D83 die
+8D84 ju
 8D85 chao
 8D86 di
 8D87 xi
 8D88 zhan
-8D89 jue ju
+8D89 jue
 8D8A yue
 8D8B qu
-8D8C ji jie
-8D8D chi qu
+8D8C ji
+8D8D chi
 8D8E chu
-8D8F gua huo
-8D90 xue chi
+8D8F gua
+8D90 xue
 8D91 zi
 8D92 tiao
 8D93 duo
@@ -15807,50 +15807,50 @@
 8D99 zhao
 8D9A su
 8D9B yin
-8D9C ju qu qiu
+8D9C ju
 8D9D jian
-8D9E que qi ji
+8D9E que
 8D9F tang
-8DA0 chuo chao tiao zhuo
-8DA1 cui wei ju
+8DA0 chuo
+8DA1 cui
 8DA2 lu
 8DA3 qu
 8DA4 dang
-8DA5 qiu cu
+8DA5 qiu
 8DA6 zi
 8DA7 ti
 8DA8 qu
 8DA9 chi
-8DAA huang guang
-8DAB qiao jiao chao
+8DAA huang
+8DAB qiao
 8DAC qiao
 8DAD jiao
 8DAE zao
 8DAF ti
 8DB1 zan
-8DB2 zan zu
+8DB2 zan
 8DB3 zu
 8DB4 pa
-8DB5 bao bo
-8DB6 ku wu
+8DB5 bao
+8DB6 ku
 8DB7 ke
 8DB8 dun
-8DB9 jue gui
+8DB9 jue
 8DBA fu
 8DBB chen
 8DBC jian
-8DBD fang pang
+8DBD fang
 8DBE zhi
 8DBF ta
 8DC0 yue
-8DC1 ba pa
+8DC1 ba
 8DC2 qi
 8DC3 yue
 8DC4 qiang
 8DC5 tuo
 8DC6 tai
 8DC7 yi
-8DC8 nian jian chen tian
+8DC8 nian
 8DC9 ling
 8DCA mei
 8DCB ba
@@ -15863,16 +15863,16 @@
 8DD2 qia
 8DD3 zhu
 8DD4 ju
-8DD5 dian die
+8DD5 dian
 8DD6 zhi
 8DD7 fu
-8DD8 pan ban
-8DD9 ju qu qie zhu
+8DD8 pan
+8DD9 ju
 8DDA shan
 8DDB bo
 8DDC ni
 8DDD ju
-8DDE li luo
+8DDE li
 8DDF gen
 8DE0 yi
 8DE1 ji
@@ -15880,15 +15880,15 @@
 8DE3 xian
 8DE4 jiao
 8DE5 duo
-8DE6 zhu chu
-8DE7 quan zun
+8DE6 zhu
+8DE7 quan
 8DE8 kua
 8DE9 zhuai
 8DEA gui
 8DEB qiong
 8DEC kui
 8DED xiang
-8DEE chi die
+8DEE chi
 8DEF lu
 8DF0 pian
 8DF1 zhi
@@ -15896,7 +15896,7 @@
 8DF3 tiao
 8DF4 cai
 8DF5 jian
-8DF6 ta da
+8DF6 ta
 8DF7 qiao
 8DF8 bi
 8DF9 xian
@@ -15904,12 +15904,12 @@
 8DFB ji
 8DFC ju
 8DFD ji
-8DFE shu chou
-8DFF tu duo chuo
-8E00 chu cu
-8E01 jing keng
+8DFE shu
+8DFF tu
+8E00 chu
+8E01 jing
 8E02 nie
-8E03 xiao qiao
+8E03 xiao
 8E04 bu
 8E05 xue
 8E06 cun
@@ -15917,14 +15917,14 @@
 8E08 shu
 8E09 liang
 8E0A yong
-8E0B jiao jue
+8E0B jiao
 8E0C chou
 8E0D qiao
 8E0F ta
 8E10 jian
-8E11 qi ji
+8E11 qi
 8E12 wo
-8E13 wei cu
+8E13 wei
 8E14 chuo
 8E15 jie
 8E16 ji
@@ -15933,15 +15933,15 @@
 8E19 ju
 8E1A lun
 8E1B lu
-8E1C leng cheng
+8E1C leng
 8E1D huai
 8E1E ju
 8E1F chi
-8E20 wan wo
+8E20 wan
 8E21 quan
 8E22 ti
 8E23 bo
-8E24 zu cu cui
+8E24 zu
 8E25 qie
 8E26 yi
 8E27 cu
@@ -15964,22 +15964,22 @@
 8E38 chen
 8E39 chuai
 8E3A jian
-8E3B gua tuo
-8E3C tang shang
+8E3B gua
+8E3C tang
 8E3D ju
-8E3E fu bi
+8E3E fu
 8E3F zu
 8E40 die
 8E41 pian
 8E42 rou
-8E43 nuo re na
+8E43 nuo
 8E44 ti
 8E45 cha
 8E46 tui
 8E47 jian
 8E48 dao
 8E49 cuo
-8E4A qi xi
+8E4A qi
 8E4B ta
 8E4C qiang
 8E4D nian
@@ -15996,20 +15996,20 @@
 8E58 liao
 8E59 cu
 8E5A tang
-8E5B dai die dan zhi
+8E5B dai
 8E5C su
 8E5D xi
 8E5E kui
 8E5F ji
 8E60 zhi
 8E61 qiang
-8E62 di zhi
+8E62 di
 8E63 pan
 8E64 zong
 8E65 lian
 8E66 beng
 8E67 zao
-8E68 nian ran
+8E68 nian
 8E69 bie
 8E6A tui
 8E6B ju
@@ -16018,17 +16018,17 @@
 8E6E xian
 8E6F fan
 8E70 chu
-8E71 zhong chong
+8E71 zhong
 8E72 dun
 8E73 bo
-8E74 cu jiu
+8E74 cu
 8E75 cu
 8E76 jue
 8E77 jue
 8E78 lin
 8E79 ta
 8E7A qiao
-8E7B jue qiao
+8E7B jue
 8E7C pu
 8E7D liao
 8E7E dun
@@ -16051,7 +16051,7 @@
 8E8F lin
 8E90 lie
 8E91 zhi
-8E92 li luo
+8E92 li
 8E93 zhi
 8E94 chan
 8E95 chu
@@ -16065,16 +16065,16 @@
 8E9D lan
 8E9E xie
 8E9F rang
-8EA0 sa xie
+8EA0 sa
 8EA1 nie
 8EA2 ta
 8EA3 qu
-8EA4 jie ji
+8EA4 jie
 8EA5 cuan
-8EA6 cuo zuan
+8EA6 cuo
 8EA7 xi
 8EA8 kui
-8EA9 jue qi
+8EA9 jue
 8EAA lin
 8EAB shen
 8EAC gong
@@ -16093,7 +16093,7 @@
 8EBD yan
 8EBF kang
 8EC0 qu
-8EC1 lou lv
+8EC1 lou
 8EC2 lao
 8EC3 duo
 8EC4 zhi
@@ -16106,16 +16106,16 @@
 8ECD jun
 8ECE wei
 8ECF yue
-8ED0 xin xian
+8ED0 xin
 8ED1 dai
-8ED2 xuan xian han jian
+8ED2 xuan
 8ED3 fan
 8ED4 ren
 8ED5 shan
 8ED6 kuang
 8ED7 shu
 8ED8 tun
-8ED9 chen qi
+8ED9 chen
 8EDA dai
 8EDB e
 8EDC na
@@ -16127,14 +16127,14 @@
 8EE2 zhuan
 8EE3 hong
 8EE4 hu
-8EE5 qu gou ju
+8EE5 qu
 8EE6 kuang
-8EE7 di chi
+8EE7 di
 8EE8 ling
 8EE9 dai
 8EEA ao
 8EEB zhen
-8EEC fan ben
+8EEC fan
 8EED kuang
 8EEE yang
 8EEF peng
@@ -16143,25 +16143,25 @@
 8EF2 gu
 8EF3 pao
 8EF4 zhu
-8EF5 rong fu
+8EF5 rong
 8EF6 e
 8EF7 ba
 8EF8 zhou
 8EF9 zhi
-8EFA yao diao
+8EFA yao
 8EFB ke
-8EFC yi die zhe
-8EFD zhi qing
+8EFC yi
+8EFD zhi
 8EFE shi
-8EFF ping peng
+8EFF ping
 8F00 er
 8F01 gong
 8F02 ju
 8F03 jiao
 8F04 guang
-8F05 he lu ya
+8F05 he
 8F06 kai
-8F07 quan chun
+8F07 quan
 8F08 zhou
 8F09 zai
 8F0A zhi
@@ -16170,15 +16170,15 @@
 8F0D yu
 8F0E shao
 8F0F you
-8F10 wan yuan
-8F11 yin qun
+8F10 wan
+8F11 yin
 8F12 zhe
 8F13 wan
 8F14 fu
 8F15 qing
 8F16 zhou
 8F17 ni
-8F18 leng ling
+8F18 leng
 8F19 zhe
 8F1A zhan
 8F1B liang
@@ -16186,14 +16186,14 @@
 8F1D hui
 8F1E wang
 8F1F chuo
-8F20 guo hua hui
+8F20 guo
 8F21 kan
 8F22 yi
 8F23 peng
 8F24 qian
 8F25 gun
-8F26 nian lian
-8F27 ping peng
+8F26 nian
+8F27 ping
 8F28 guan
 8F29 bei
 8F2A lun
@@ -16203,26 +16203,26 @@
 8F2E rou
 8F2F ji
 8F30 yang
-8F31 xian kan
+8F31 xian
 8F32 chuan
 8F33 cou
 8F34 chun
-8F35 ge ya e qie
+8F35 ge
 8F36 you
 8F37 hong
 8F38 shu
-8F39 fu bu
+8F39 fu
 8F3A zi
 8F3B fu
-8F3C wen yun
+8F3C wen
 8F3D ben
-8F3E zhan nian
+8F3E zhan
 8F3F yu
 8F40 wen
-8F41 tao kan
+8F41 tao
 8F42 gu
 8F43 zhen
-8F44 xia he
+8F44 xia
 8F45 yuan
 8F46 lu
 8F47 jiao
@@ -16234,7 +16234,7 @@
 8F4E jiao
 8F4F zhan
 8F50 bu
-8F51 lao liao
+8F51 lao
 8F52 fen
 8F53 fan
 8F54 lin
@@ -16304,7 +16304,7 @@
 8F94 pei
 8F95 yuan
 8F96 xia
-8F97 nian zhan
+8F97 nian
 8F98 lu
 8F99 zhe
 8F9A lin
@@ -16312,13 +16312,13 @@
 8F9C gu
 8F9D ci
 8F9E ci
-8F9F pi bi
+8F9F pi
 8FA0 zui
 8FA1 bian
 8FA2 la
 8FA3 la
 8FA4 ci
-8FA5 xue yi
+8FA5 xue
 8FA6 ban
 8FA7 bian
 8FA8 bian
@@ -16353,7 +16353,7 @@
 8FC8 mai
 8FC9 qi
 8FCA za
-8FCB wang guang kuang
+8FCB wang
 8FCC tu
 8FCD zhun
 8FCE ying
@@ -16364,9 +16364,9 @@
 8FD3 ya
 8FD4 fan
 8FD5 wu
-8FD6 da ti ta
+8FD6 da
 8FD7 e
-8FD8 hai huan
+8FD8 hai
 8FD9 zhe
 8FDB jin
 8FDC yuan
@@ -16374,23 +16374,23 @@
 8FDE lian
 8FDF chi
 8FE0 che
-8FE1 ni chi
+8FE1 ni
 8FE2 tiao
-8FE3 zhi chi
+8FE3 zhi
 8FE4 yi
 8FE5 jiong
 8FE6 jia
-8FE7 chen zhen
+8FE7 chen
 8FE8 dai
 8FE9 er
 8FEA di
 8FEB po
-8FEC zhu wang
+8FEC zhu
 8FED die
 8FEE ze
 8FEF tao
 8FF0 shu
-8FF1 tuo yi
+8FF1 tuo
 8FF3 jing
 8FF4 hui
 8FF5 dong
@@ -16428,7 +16428,7 @@
 9015 jing
 9016 ti
 9017 dou
-9018 yi si
+9018 yi
 9019 zhe
 901A tong
 901B guang
@@ -16446,8 +16446,8 @@
 9028 lai
 9029 ben
 902A cuo
-902B jue zhu
-902C beng peng
+902B jue
+902C beng
 902D huan
 902E dai
 902F lu
@@ -16466,17 +16466,17 @@
 903C bi
 903D nuo
 903E yu
-903F dang tang
+903F dang
 9040 sui
 9041 dun
 9042 sui
-9043 yan an
+9043 yan
 9044 chuan
 9045 chi
 9046 ti
 9047 yu
 9048 shi
-9049 zhen zheng
+9049 zhen
 904A you
 904B yun
 904C e
@@ -16497,7 +16497,7 @@
 905C xun
 905D ta
 905E di
-905F chi zhi xi
+905F chi
 9060 yuan
 9061 su
 9062 ta
@@ -16513,7 +16513,7 @@
 906D zao
 906E zhe
 906F dun
-9070 di shi dai
+9070 di
 9071 lou
 9072 chi
 9073 cuo
@@ -16524,7 +16524,7 @@
 9078 xuan
 9079 yu
 907A yi
-907B wu e
+907B wu
 907C liao
 907D ju
 907E shi
@@ -16533,7 +16533,7 @@
 9081 mai
 9082 xie
 9083 sui
-9084 hai huan
+9084 hai
 9085 zhan
 9086 teng
 9087 er
@@ -16541,7 +16541,7 @@
 9089 bian
 908A bian
 908B la
-908C li chi
+908C li
 908D yuan
 908E yao
 908F luo
@@ -16549,17 +16549,17 @@
 9091 yi
 9092 ting
 9093 deng
-9094 qi ji
+9094 qi
 9095 yong
 9096 shan
 9097 han
 9098 yu
 9099 mang
-909A ru fu
+909A ru
 909B qiong
 909D kuang
 909E fu
-909F kang hang
+909F kang
 90A0 bin
 90A1 fang
 90A2 xing
@@ -16570,7 +16570,7 @@
 90A7 yuan
 90A8 cun
 90A9 huo
-90AA xie ye
+90AA xie
 90AB bang
 90AC wu
 90AD ju
@@ -16594,18 +16594,18 @@
 90BF shi
 90C0 ku
 90C1 yu
-90C2 gai hai
+90C2 gai
 90C3 he
 90C4 qie
 90C5 zhi
 90C6 ji
-90C7 huan xun
+90C7 huan
 90C8 hou
 90C9 xing
 90CA jiao
 90CB xi
 90CC gui
-90CD nuo na fu
+90CD nuo
 90CE lang
 90CF jia
 90D0 kuai
@@ -16632,7 +16632,7 @@
 90E6 li
 90E7 yun
 90E8 bu
-90E9 xiao ao
+90E9 xiao
 90EA qi
 90EB pi
 90EC qing
@@ -16641,7 +16641,7 @@
 90EF tan
 90F0 zou
 90F1 ping
-90F2 lai lei
+90F2 lai
 90F3 ni
 90F4 chen
 90F5 you
@@ -16652,7 +16652,7 @@
 90FA yong
 90FB qiao
 90FC yi
-90FD dou du
+90FD dou
 90FE yan
 90FF mei
 9100 ruo
@@ -16691,14 +16691,14 @@
 9121 qiao
 9122 yan
 9123 zhang
-9124 man wan
+9124 man
 9125 qiao
 9126 xu
 9127 deng
 9128 bi
 9129 xun
 912A bi
-912B zeng ceng
+912B zeng
 912C wei
 912D zheng
 912E mao
@@ -16708,25 +16708,25 @@
 9132 dan
 9133 meng
 9134 ye
-9135 cao sao
+9135 cao
 9136 kuai
 9137 feng
 9138 meng
 9139 zou
 913A kuang
 913B lian
-913C zan cuo
+913C zan
 913D chan
 913E you
-913F ji qi
+913F ji
 9140 yan
 9141 chan
-9142 cuo zan
+9142 cuo
 9143 ling
-9144 huan quan
+9144 huan
 9145 xi
 9146 feng
-9147 zan cuo
+9147 zan
 9148 li
 9149 you
 914A ding
@@ -16738,7 +16738,7 @@
 9150 gan
 9151 yu
 9152 jiu
-9153 yan yin
+9153 yan
 9154 zui
 9155 mao
 9156 zhen
@@ -16751,13 +16751,13 @@
 915F tian
 9160 qia
 9161 tuo
-9162 cu zuo
+9162 cu
 9163 han
 9164 gu
 9165 su
-9166 fa po
+9166 fa
 9167 chou
-9168 zai zui
+9168 zai
 9169 ming
 916A lao
 916B chuo
@@ -16776,12 +16776,12 @@
 9178 suan
 9179 lei
 917A pu
-917B zui fu
+917B zui
 917C hai
 917D yan
-917E shai shi
+917E shai
 917F niang
-9180 wei zhui
+9180 wei
 9181 lu
 9182 lan
 9183 yan
@@ -16789,19 +16789,19 @@
 9185 pei
 9186 zhan
 9187 chun
-9188 tan dan
+9188 tan
 9189 zui
 918A zhui
 918B cu
 918C kun
 918D ti
-918E xian jian
+918E xian
 918F du
 9190 hu
 9191 xu
 9192 xing
 9193 tan
-9194 qiu chou
+9194 qiu
 9195 chun
 9196 yun
 9197 po
@@ -16819,8 +16819,8 @@
 91A3 tang
 91A4 jiang
 91A5 piao
-91A6 chen chan
-91A7 yu ou
+91A6 chen
+91A7 yu
 91A8 li
 91A9 zao
 91AA lao
@@ -16830,13 +16830,13 @@
 91AE jiao
 91AF xi
 91B0 tan
-91B1 fa po
+91B1 fa
 91B2 nong
-91B3 yi shi
+91B3 yi
 91B4 li
 91B5 ju
-91B6 yan lian xian jian
-91B7 yi ai
+91B6 yan
+91B7 yi
 91B8 niang
 91B9 ru
 91BA xun
@@ -16848,7 +16848,7 @@
 91C0 niang
 91C1 xin
 91C2 jiao
-91C3 shai shi
+91C3 shai
 91C4 mi
 91C5 yan
 91C6 bian
@@ -16858,12 +16858,12 @@
 91CA shi
 91CB shi
 91CC li
-91CD zhong chong
+91CD zhong
 91CE ye
 91CF liang
-91D0 li xi
+91D0 li
 91D1 jin
-91D3 qiu ga
+91D3 qiu
 91D4 yi
 91D5 liao
 91D6 dao
@@ -16880,57 +16880,57 @@
 91E1 fu
 91E2 nai
 91E3 diao
-91E4 shan xian
-91E5 qiao jiao
+91E4 shan
+91E5 qiao
 91E6 kou
 91E7 chuan
 91E8 zi
 91E9 fan
-91EA hua yu
-91EB hua wu
+91EA hua
+91EB hua
 91EC han
 91ED gang
 91EE qi
 91EF mang
-91F0 ri ren jian
+91F0 ri
 91F1 di
 91F2 si
 91F3 xi
 91F4 yi
-91F5 chai cha
-91F6 shi yi ye
+91F5 chai
+91F6 shi
 91F7 tu
 91F8 xi
 91F9 nv
 91FA qian
 91FC jian
 91FD pi
-91FE ye ya
-91FF jin yin
-9200 ba pa
+91FE ye
+91FF jin
+9200 ba
 9201 fang
-9202 chen qin zhen
-9203 xing jian
+9202 chen
+9203 xing
 9204 dou
 9205 yue
-9206 qian zhong
+9206 qian
 9207 fu
-9208 pi bu
-9209 na rui
-920A xin qin
+9208 pi
+9209 na
+920A xin
 920B e
 920C jue
 920D dun
 920E gou
 920F yin
-9210 qian han
+9210 qian
 9211 ban
-9212 sa xi
+9212 sa
 9213 ren
 9214 chao
-9215 niu chou
+9215 niu
 9216 fen
-9217 yun dui
+9217 yun
 9218 ji
 9219 qin
 921A pi
@@ -16953,11 +16953,11 @@
 922F tu
 9230 shi
 9231 min
-9232 gu pi
+9232 gu
 9233 ke
 9234 ling
 9235 bing
-9236 si ci tai
+9236 si
 9237 gu
 9238 bo
 9239 pi
@@ -16966,24 +16966,24 @@
 923C zuo
 923D bu
 923E you
-923F tian dian
-9240 jia ge
+923F tian
+9240 jia
 9241 zhen
 9242 shi
-9243 shi zu
-9244 zhi tie
+9243 shi
+9244 zhi
 9245 ju
-9246 chan qian tie
-9247 shi yi
-9248 shi she yi tuo ta
+9246 chan
+9247 shi
+9248 shi
 9249 xuan
 924A zhao
 924B bao
 924C he
-924D bi se
+924D bi
 924E sheng
-924F chu ju
-9250 shi zu
+924F chu
+9250 shi
 9251 bo
 9252 zhu
 9253 chi
@@ -16993,7 +16993,7 @@
 9257 qian
 9258 fu
 9259 zhai
-925A liu mao
+925A liu
 925B qian
 925C fu
 925D li
@@ -17008,48 +17008,48 @@
 9266 zheng
 9267 mu
 9268 xi
-9269 xi nie
+9269 xi
 926A di
 926B jia
 926C mu
 926D tan
-926E huan shen
+926E huan
 926F yi
 9270 si
 9271 kuang
 9272 ka
 9273 bei
 9274 jian
-9275 tong zhuo
+9275 tong
 9276 xing
 9277 hong
 9278 jiao
 9279 chi
-927A er keng
-927B luo ge
-927C bing ping
+927A er
+927B luo
+927C bing
 927D shi
-927E mou mao
-927F jia ge ke ha
+927E mou
+927F jia
 9280 yin
 9281 jun
 9282 zhou
 9283 chong
-9284 xiang jiong
+9284 xiang
 9285 tong
 9286 mo
 9287 lei
 9288 ji
-9289 yu si
-928A xu hui
+9289 yu
+928A xu
 928B ren
 928C zun
 928D zhi
 928E qiong
-928F shan shuo
-9290 chi li
-9291 xian xi
-9292 xing jian
+928F shan
+9290 chi
+9291 xian
+9292 xing
 9293 quan
 9294 pi
 9295 tie
@@ -17057,8 +17057,8 @@
 9297 xiang
 9298 ming
 9299 kua
-929A yao diao tiao qiao
-929B xian tian gua
+929A yao
+929B xian
 929C xian
 929D xiu
 929E jun
@@ -17082,21 +17082,21 @@
 92B1 diao
 92B2 han
 92B3 rui
-92B4 shi zhi
+92B4 shi
 92B5 keng
 92B6 qiu
 92B7 xiao
-92B8 zhe nie
-92B9 xiu you
+92B8 zhe
+92B9 xiu
 92BA zang
 92BB ti
 92BC cuo
 92BD gua
-92BE hong gong
-92BF zhong yong
-92C0 tou dou tu
+92BE hong
+92BF zhong
+92C0 tou
 92C1 lü
-92C2 mei meng
+92C2 mei
 92C3 lang
 92C4 wan
 92C5 xin
@@ -17106,40 +17106,40 @@
 92C9 su
 92CA yu
 92CB chan
-92CC ding ting
+92CC ding
 92CD bo
 92CE han
 92CF jia
 92D0 hong
-92D1 cuan jian juan
+92D1 cuan
 92D2 feng
 92D3 chan
 92D4 wan
 92D5 zhi
-92D6 si tuo
-92D7 xuan juan
-92D8 hua wu hu
-92D9 yu wu
+92D6 si
+92D7 xuan
+92D8 hua
+92D9 yu
 92DA tiao
 92DB gong
 92DC zhuo
 92DD lve
-92DE xing jing
-92DF qin qian jin
+92DE xing
+92DF qin
 92E0 shen
 92E1 han
-92E2 lÜe
+92E2 lve
 92E3 ye
 92E4 chu
 92E5 zeng
 92E6 ju
 92E7 xian
-92E8 tie e
+92E8 tie
 92E9 mang
 92EA pu
 92EB li
 92EC pan
-92ED rui dui yue
+92ED rui
 92EE cheng
 92EF gao
 92F0 li
@@ -17147,49 +17147,49 @@
 92F3 zhu
 92F5 tu
 92F6 liu
-92F7 zui nie
+92F7 zui
 92F8 ju
 92F9 chang
-92FA yuan wan
+92FA yuan
 92FB jian
 92FC gang
 92FD diao
 92FE tao
 92FF chang
-9300 lun fen
-9301 guo kua ke
+9300 lun
+9301 guo
 9302 ling
 9303 bei
 9304 lu
 9305 li
 9306 qiang
-9307 pou fu pei
+9307 pou
 9308 juan
 9309 min
-930A zui zu
-930B peng beng
+930A zui
+930B peng
 930C an
 930D pi
-930E xian gan qian
+930E xian
 930F ya
 9310 zhui
-9311 lei li
-9312 ke a
+9311 lei
+9312 ke
 9313 kong
 9314 ta
-9315 kun gun
+9315 kun
 9316 du
-9317 nei zhui wei
+9317 nei
 9318 chui
 9319 zi
 931A zheng
 931B ben
 931C nie
 931D zong
-931E chun dui
-931F tan xian yan
+931E chun
+931F tan
 9320 ding
-9321 qi yi
+9321 qi
 9322 qian
 9323 zhui
 9324 ji
@@ -17198,15 +17198,15 @@
 9327 guan
 9328 mao
 9329 chang
-932A tian tun
+932A tian
 932B xi
 932C lian
-932D tao diao
+932D tao
 932E gu
 932F cuo
 9330 shu
 9331 zhen
-9332 lu lv
+9332 lu
 9333 meng
 9334 lu
 9335 hua
@@ -17215,16 +17215,16 @@
 9338 lai
 9339 ken
 933C nai
-933D wan jian
+933D wan
 933E zan
 9340 de
 9341 xian
 9343 huo
 9344 liang
 9346 men
-9347 kai jie
+9347 kai
 9348 ying
-9349 di chi shi
+9349 di
 934A lian
 934B guo
 934C xian
@@ -17237,7 +17237,7 @@
 9353 ji
 9354 e
 9355 jun
-9356 chen zhen
+9356 chen
 9357 ti
 9358 zha
 9359 hu
@@ -17253,10 +17253,10 @@
 9363 zhao
 9364 cha
 9365 qie
-9366 shi she
+9366 shi
 9367 hong
 9368 kui
-9369 tian nuo
+9369 tian
 936A mou
 936B qiao
 936C qiao
@@ -17264,16 +17264,16 @@
 936E tou
 936F cong
 9370 huan
-9371 ye xie
+9371 ye
 9372 min
 9373 jian
 9374 duan
 9375 jian
-9376 song si
+9376 song
 9377 kui
 9378 hu
 9379 xuan
-937A duo du zhe
+937A duo
 937B jie
 937C zhen
 937D bian
@@ -17286,29 +17286,29 @@
 9384 ai
 9385 jie
 9387 mei
-9388 suo cha
-9389 da ta
-938A pang bang
+9388 suo
+9389 da
+938A pang
 938B xia
 938C lian
-938D suo se
+938D suo
 938E kai
 938F liu
-9390 yao zu
-9391 ye ta ge
+9390 yao
+9391 ye
 9392 nou
 9393 weng
 9394 rong
 9395 tang
 9396 suo
 9397 qiang
-9398 li ge
+9398 li
 9399 shuo
 939A chui
 939B bo
 939C pan
 939D da
-939E bi pi
+939E bi
 939F sang
 93A0 gang
 93A1 zi
@@ -17321,9 +17321,9 @@
 93A8 sun
 93A9 sha
 93AA sou
-93AB wan jian
-93AC hao gao
-93AD zhen tian
+93AB wan
+93AC hao
+93AD zhen
 93AE zhen
 93AF lang
 93B0 yi
@@ -17339,26 +17339,26 @@
 93BF na
 93C0 lu
 93C1 suo
-93C2 ou kou
-93C3 zu chuo
+93C2 ou
+93C3 zu
 93C4 tuan
 93C5 xiu
 93C6 guan
 93C7 xuan
 93C8 lian
-93C9 shou sou
+93C9 shou
 93CA ao
 93CB man
 93CC mo
 93CD luo
 93CE bi
 93CF wei
-93D0 liu liao
+93D0 liu
 93D1 di
-93D2 san qiao can
-93D3 zong cong
+93D2 san
+93D3 zong
 93D4 yi
-93D5 lu ao
+93D5 lu
 93D6 ao
 93D7 keng
 93D8 qiang
@@ -17378,7 +17378,7 @@
 93E6 cong
 93E7 long
 93E8 zan
-93E9 jian zan
+93E9 jian
 93EA cao
 93EB li
 93EC xia
@@ -17390,13 +17390,13 @@
 93F5 hua
 93F6 ji
 93F7 pu
-93F8 hui sui rui
+93F8 hui
 93F9 qiang
 93FA po
 93FB lin
 93FC se
 93FD xiu
-93FE san xian sa
+93FE san
 93FF cheng
 9400 kui
 9401 si
@@ -17417,22 +17417,22 @@
 9410 liao
 9411 qie
 9412 lao
-9413 dui dun
+9413 dui
 9414 xin
 9415 zan
-9416 ji qi
+9416 ji
 9417 jian
 9418 zhong
 9419 deng
 941A ya
 941B ying
-941C dui dun
+941C dui
 941D jue
 941E nou
-941F zan ti
+941F zan
 9420 pu
 9421 tie
-9424 ding zhen
+9424 ding
 9425 shan
 9426 kai
 9427 jian
@@ -17444,19 +17444,19 @@
 942D yu
 942E lian
 942F zhuo
-9430 qiao sao cao
-9431 jian qian
-9432 zhuo shu
+9430 qiao
+9431 jian
+9432 zhuo
 9433 lei
-9434 bi bei
+9434 bi
 9435 tie
-9436 huan xuan
+9436 huan
 9437 ye
 9438 duo
 9439 guo
 943A dang
 943B ju
-943C fen ben
+943C fen
 943D da
 943E bei
 943F yi
@@ -17468,7 +17468,7 @@
 9445 heng
 9446 zhui
 9447 ji
-9448 nie ni
+9448 nie
 9449 he
 944A huo
 944B qing
@@ -17476,12 +17476,12 @@
 944D ying
 944E kui
 944F ning
-9450 xu ru rou
+9450 xu
 9451 jian
 9452 jian
 9454 cha
 9455 zhi
-9456 mie mi
+9456 mie
 9457 li
 9458 lei
 9459 ji
@@ -17504,12 +17504,12 @@
 946C jian
 946D lan
 946E bo
-946F jian qian
+946F jian
 9470 yao
 9471 chan
 9472 xiang
 9473 jian
-9474 xi hui
+9474 xi
 9475 guan
 9476 cang
 9477 nie
@@ -17521,10 +17521,10 @@
 947D zuan
 947E luan
 947F zao
-9480 nie yi
+9480 nie
 9481 jue
 9482 tang
-9483 shu zhu
+9483 shu
 9484 lan
 9485 jin
 9486 ga
@@ -17538,7 +17538,7 @@
 948E qian
 948F chuan
 9490 shan
-9491 ji sa
+9491 ji
 9492 fan
 9493 diao
 9494 men
@@ -17568,14 +17568,14 @@
 94AC huo
 94AD tou
 94AE niu
-94AF ba pa
+94AF ba
 94B0 yu
 94B1 qian
 94B2 zheng
 94B3 qian
 94B4 gu
 94B5 bo
-94B6 e ke
+94B6 e
 94B7 po
 94B8 bu
 94B9 bo
@@ -17584,7 +17584,7 @@
 94BC mu
 94BD tan
 94BE jia
-94BF dian tian
+94BF dian
 94C0 you
 94C1 tie
 94C2 bo
@@ -17595,7 +17595,7 @@
 94C7 bao
 94C8 shi
 94C9 xuan
-94CA ta tuo
+94CA ta
 94CB bi
 94CC ni
 94CD pi
@@ -17620,15 +17620,15 @@
 94E0 kai
 94E1 zha
 94E2 zhu
-94E3 xi xian
-94E4 ding ting
+94E3 xi
+94E4 ding
 94E5 diu
 94E6 xian
 94E7 hua
 94E8 quan
 94E9 sha
 94EA ha
-94EB diao yao
+94EB diao
 94EC ge
 94ED ming
 94EE zheng
@@ -17644,7 +17644,7 @@
 94F8 zhu
 94F9 lao
 94FA pu
-94FB wu yu
+94FB wu
 94FC lai
 94FD te
 94FE lian
@@ -17693,7 +17693,7 @@
 9529 juan
 952A huo
 952B pei
-952C tan xian
+952C tan
 952D ding
 952E jian
 952F ju
@@ -17729,7 +17729,7 @@
 954D nie
 954E na
 954F liu
-9550 gao hao
+9550 gao
 9551 bang
 9552 yi
 9553 jia
@@ -17746,12 +17746,12 @@
 955E zu
 955F xuan
 9560 liu
-9561 chan tan xin
+9561 chan
 9562 jue
 9563 liao
 9564 pu
 9565 lu
-9566 dui dun
+9566 dui
 9567 lan
 9568 pu
 9569 cuan
@@ -17768,24 +17768,24 @@
 9574 la
 9575 chan
 9576 xiang
-9577 zhang chang
+9577 zhang
 9578 chang
 9579 jiu
 957A ao
 957B die
-957C qu jue
+957C qu
 957D liao
 957E mi
-957F zhang chang
+957F zhang
 9580 men
 9581 ma
 9582 shuan
 9583 shan
-9584 huo shan
+9584 huo
 9585 men
 9586 yan
 9587 bi
-9588 han bi
+9588 han
 9589 bi
 958B kai
 958C kang
@@ -17794,7 +17794,7 @@
 958F run
 9590 san
 9591 xian
-9592 jian xian
+9592 jian
 9593 jian
 9594 min
 9595 xia
@@ -17803,22 +17803,22 @@
 9599 nao
 959A zhan
 959B peng
-959C xia e
+959C xia
 959D ling
-959E bian guan
+959E bian
 959F bi
 95A0 run
-95A1 ai he
+95A1 ai
 95A2 guan
 95A3 ge
-95A4 ge he
+95A4 ge
 95A5 fa
 95A6 chu
-95A7 hong xiang
+95A7 hong
 95A8 gui
 95A9 min
 95AB kun
-95AC lang liang
+95AC lang
 95AD lv
 95AE ting
 95AF sha
@@ -17828,19 +17828,19 @@
 95B3 chan
 95B4 qu
 95B5 lin
-95B6 chang tang
-95B7 shai sha
+95B6 chang
+95B7 shai
 95B8 kun
 95B9 yan
-95BA wen min
+95BA wen
 95BB yan
-95BC e yu yan
+95BC e
 95BD hun
 95BE yu
 95BF wen
 95C0 xiang
 95C1 bao
-95C2 hong xiang juan
+95C2 hong
 95C3 qu
 95C4 yao
 95C5 wen
@@ -17849,29 +17849,29 @@
 95C8 wei
 95C9 yin
 95CA kuo
-95CB que jue kui
+95CB que
 95CC lan
-95CD du she
+95CD du
 95D0 tian
 95D1 nie
 95D2 ta
 95D3 kai
 95D4 he
-95D5 que jue
+95D5 que
 95D6 chuang
 95D7 guan
 95D8 dou
 95D9 qi
 95DA kui
-95DB tang chang
+95DB tang
 95DC guan
 95DD piao
-95DE kan han xian
-95DF xi se ta
+95DE kan
+95DF xi
 95E0 hui
 95E1 chan
 95E2 pi
-95E3 dang tang
+95E3 dang
 95E4 huan
 95E5 ta
 95E6 wen
@@ -17906,7 +17906,7 @@
 9604 jiu
 9605 yue
 9606 lang
-9607 du she
+9607 du
 9608 yu
 9609 yan
 960A chang
@@ -17914,7 +17914,7 @@
 960C wen
 960D hun
 960E yan
-960F e yan
+960F e
 9610 chan
 9611 lan
 9612 qu
@@ -17923,20 +17923,20 @@
 9615 que
 9616 he
 9617 tian
-9618 da ta
+9618 da
 9619 que
-961A han kan
+961A han
 961B huan
 961C fu
-961D fu yi
+961D fu
 961E le
 961F dui
 9620 xin
 9621 qian
 9622 wu
-9623 gai yi
-9624 zhi yi tuo
-9625 yin an
+9623 gai
+9624 zhi
+9625 yin
 9626 yang
 9627 dou
 9628 e
@@ -17944,7 +17944,7 @@
 962A ban
 962B pei
 962C keng
-962D yun yan
+962D yun
 962E ruan
 962F zhi
 9630 pi
@@ -17955,17 +17955,17 @@
 9635 zhen
 9636 jie
 9637 cheng
-9638 e ai
+9638 e
 9639 qu
 963A di
 963B zu
 963C zuo
-963D dian yan
+963D dian
 963E ling
 963F a
 9640 tuo
 9641 tuo
-9642 bei pi po
+9642 bei
 9643 bing
 9644 fu
 9645 ji
@@ -17976,9 +17976,9 @@
 964A duo
 964B lou
 964C mo
-964D jiang xiang
+964D jiang
 964E shu
-964F duo sui
+964F duo
 9650 xian
 9651 er
 9652 gui
@@ -17989,13 +17989,13 @@
 9657 qiao
 9658 xing
 9659 chun
-965A fu wu
+965A fu
 965B bi
 965C xia
 965D shan
 965E sheng
 965F zhi
-9660 pu bu
+9660 pu
 9661 dou
 9662 yuan
 9663 zhen
@@ -18005,7 +18005,7 @@
 9668 yun
 9669 xian
 966A pei
-966B fei pei
+966B fei
 966C zou
 966D yi
 966E dui
@@ -18022,14 +18022,14 @@
 9679 sheng
 967A xian
 967B yin
-967C zhu du
+967C zhu
 967D yang
-967E reng er
+967E reng
 967F xia
 9680 chong
 9681 yan
 9682 yin
-9683 shu yu yao
+9683 shu
 9684 di
 9685 yu
 9686 long
@@ -18045,11 +18045,11 @@
 9690 yin
 9691 gai
 9692 yan
-9693 hui duo
+9693 hui
 9694 ge
-9695 yun yuan
+9695 yun
 9696 wu
-9697 kui wei
+9697 kui
 9698 ai
 9699 xi
 969A tang
@@ -18066,7 +18066,7 @@
 96A6 jiao
 96A7 sui
 96A8 sui
-96A9 ao yu
+96A9 ao
 96AA xian
 96AB fen
 96AC ni
@@ -18083,16 +18083,16 @@
 96B7 li
 96B8 li
 96B9 zhui
-96BA hu que he
+96BA hu
 96BB zhi
 96BC sun
-96BD juan jun
+96BD juan
 96BE nan
 96BF yi
 96C0 que
 96C1 yan
 96C2 qin
-96C3 qian jie
+96C3 qian
 96C4 xiong
 96C5 ya
 96C6 ji
@@ -18100,7 +18100,7 @@
 96C8 huan
 96C9 zhi
 96CA gou
-96CB juan jun
+96CB juan
 96CC ci
 96CD yong
 96CE ju
@@ -18115,12 +18115,12 @@
 96D7 han
 96D8 wo
 96D9 shuang
-96DA guan huan
+96DA guan
 96DB chu
 96DC za
 96DD yong
 96DE ji
-96DF xi sui
+96DF xi
 96E0 chou
 96E1 liu
 96E2 li
@@ -18134,7 +18134,7 @@
 96EA xue
 96EB na
 96EC fou
-96ED se xi
+96ED se
 96EE mu
 96EF wen
 96F0 fen
@@ -18147,7 +18147,7 @@
 96F7 lei
 96F8 an
 96F9 bao
-96FA wu meng
+96FA wu
 96FB dian
 96FC dang
 96FD hu
@@ -18200,7 +18200,7 @@
 972D ai
 972E dan
 972F teng
-9730 san xian
+9730 san
 9731 yu
 9732 lu
 9733 long
@@ -18214,15 +18214,15 @@
 973C xi
 973D ji
 973E mai
-973F meng mao wu
+973F meng
 9740 meng
 9741 lei
 9742 li
-9743 huo sui suo
+9743 huo
 9744 ai
 9745 fei
 9746 dai
-9747 long ling
+9747 long
 9748 ling
 9749 ai
 974A feng
@@ -18233,14 +18233,14 @@
 9750 bing
 9751 qing
 9752 qing
-9753 jing liang
+9753 jing
 9754 tian
 9755 zhen
 9756 jing
 9757 cheng
-9758 qing jing
+9758 qing
 9759 jing
-975A jing liang
+975A jing
 975B dian
 975C jing
 975D tian
@@ -18252,7 +18252,7 @@
 9763 mian
 9764 bao
 9765 ye
-9766 tian mian
+9766 tian
 9767 hui
 9768 ye
 9769 ge
@@ -18270,7 +18270,7 @@
 9775 niu
 9776 ba
 9777 yin
-9778 sa ta
+9778 sa
 9779 na
 977A mo
 977B zu
@@ -18285,9 +18285,9 @@
 9784 pao
 9785 yang
 9787 yin
-9788 ge sa ta
+9788 ge
 9789 tao
-978A jie ji
+978A jie
 978B xie
 978C an
 978D an
@@ -18297,11 +18297,11 @@
 9792 qiao
 9793 ting
 9794 man
-9795 ying bian
+9795 ying
 9796 sui
 9797 tiao
-9798 qiao shao
-9799 xuan juan
+9798 qiao
+9799 xuan
 979A kong
 979B beng
 979C ta
@@ -18310,7 +18310,7 @@
 979F kuo
 97A0 ju
 97A1 la
-97A2 xie zha die
+97A2 xie
 97A3 rou
 97A4 bang
 97A5 eng
@@ -18318,7 +18318,7 @@
 97A7 qiu
 97A8 he
 97A9 xiao
-97AA mu mou
+97AA mu
 97AB ju
 97AC jian
 97AD bian
@@ -18331,11 +18331,11 @@
 97B5 xie
 97B6 pan
 97B7 ge
-97B8 bi bing
+97B8 bi
 97B9 kuo
 97BA tang
 97BB lou
-97BC gui hui
+97BC gui
 97BD qiao
 97BE xue
 97BF ji
@@ -18354,10 +18354,10 @@
 97CC ren
 97CD fu
 97CE mei
-97CF quan juan
+97CF quan
 97D0 ge
 97D1 wei
-97D2 qiao shao
+97D2 qiao
 97D3 han
 97D4 chang
 97D6 rou
@@ -18371,7 +18371,7 @@
 97DE yun
 97E0 bi
 97E1 wei
-97E2 sui hui
+97E2 sui
 97E3 du
 97E4 wa
 97E5 du
@@ -18394,7 +18394,7 @@
 97F6 shao
 97F7 le
 97F8 peng
-97F9 huang ying
+97F9 huang
 97FA ying
 97FB yun
 97FC peng
@@ -18408,40 +18408,40 @@
 9804 kui
 9805 xiang
 9806 shun
-9807 an han
+9807 an
 9808 xu
 9809 yi
 980A xu
 980B e
 980C song
 980D kui
-980E qi ken
-980F hang gang
+980E qi
+980F hang
 9810 yu
 9811 wan
 9812 ban
 9813 dun
 9814 di
-9815 dan dian
+9815 dan
 9816 pan
 9817 po
 9818 ling
 9819 che
 981A jing
 981B lei
-981C he han qin ge
+981C he
 981D qiao
 981E e
 981F e
 9820 wei
-9821 xie jia jie
+9821 xie
 9822 kuo
 9823 shen
 9824 yi
 9825 shen
-9826 hai ke
+9826 hai
 9827 dui
-9828 yu bian
+9828 yu
 9829 ping
 982A lei
 982B fu
@@ -18453,7 +18453,7 @@
 9831 luo
 9832 ting
 9833 cheng
-9834 ying jing
+9834 ying
 9835 yun
 9836 hu
 9837 han
@@ -18468,12 +18468,12 @@
 9840 chui
 9841 ding
 9842 lai
-9843 tan shan
+9843 tan
 9844 han
 9845 qian
 9846 ke
 9847 cui
-9848 xuan jiong xian
+9848 xuan
 9849 qin
 984A yi
 984B sai
@@ -18481,32 +18481,32 @@
 984D e
 984E e
 984F yan
-9850 wen hun
+9850 wen
 9851 kan
-9852 yong yu
+9852 yong
 9853 zhuan
-9854 yan ya
+9854 yan
 9855 xian
 9856 xin
 9857 yi
 9858 yuan
 9859 sang
-985A dian tian
+985A dian
 985B dian
 985C jiang
-985D kui kua
+985D kui
 985E lei
 985F lao
 9860 piao
-9861 wai zhuai
+9861 wai
 9862 man
 9863 cu
-9864 yao qiao
+9864 yao
 9865 hao
 9866 qiao
 9867 gu
 9868 xun
-9869 yan qin han qian
+9869 yan
 986A hui
 986B chan
 986C ru
@@ -18515,7 +18515,7 @@
 986F xian
 9870 pin
 9871 lu
-9872 lan lin
+9872 lan
 9873 nie
 9874 quan
 9875 ye
@@ -18538,10 +18538,10 @@
 9886 ling
 9887 po
 9888 jing
-9889 jie xie
+9889 jie
 988A jia
 988B ting
-988C ge he
+988C ge
 988D ying
 988E jiong
 988F ke
@@ -18570,18 +18570,18 @@
 98A6 pin
 98A7 quan
 98A8 feng
-98A9 biao diu
+98A9 biao
 98AB fu
 98AC xia
 98AD zhan
-98AE biao pao
-98AF sa li
-98B0 ba fu
+98AE biao
+98AF sa
+98B0 ba
 98B1 tai
 98B2 lie
 98B3 gua
 98B4 xuan
-98B5 shao xiao
+98B5 shao
 98B6 ju
 98B7 biao
 98B8 si
@@ -18590,11 +18590,11 @@
 98BB yao
 98BC sou
 98BD kai
-98BE sou sao
+98BE sou
 98BF fan
 98C0 liu
 98C1 xi
-98C2 liu liao
+98C2 liu
 98C3 piao
 98C4 piao
 98C5 liu
@@ -18632,19 +18632,19 @@
 98E6 zhan
 98E7 sun
 98E8 xiang
-98E9 tun zhun
+98E9 tun
 98EA ren
 98EB yu
-98EC juan yong
-98ED chi shi
+98EC juan
+98ED chi
 98EE yin
 98EF fan
 98F0 fan
 98F1 sun
 98F2 yin
-98F3 tou zhu
-98F4 yi si
-98F5 zuo ze
+98F3 tou
+98F4 yi
+98F5 zuo
 98F6 bi
 98F7 jie
 98F8 tao
@@ -18659,7 +18659,7 @@
 9901 ren
 9902 tian
 9903 jiao
-9904 jia he
+9904 jia
 9905 bing
 9906 yao
 9907 tong
@@ -18680,9 +18680,9 @@
 9916 dou
 9917 su
 9918 yu
-9919 shi xi
+9919 shi
 991A yao
-991B hun kun
+991B hun
 991C guo
 991D shi
 991E jian
@@ -18691,22 +18691,22 @@
 9921 xian
 9922 bu
 9923 ye
-9924 tan dan
+9924 tan
 9925 fei
 9926 zhang
 9927 wei
 9928 guan
 9929 e
 992A nuan
-992B yun hun
+992B yun
 992C hu
 992D huang
 992E tie
 992F hui
-9930 jian zhan
+9930 jian
 9931 hou
-9932 ai he
-9933 tang xing
+9932 ai
+9933 tang
 9934 fen
 9935 wei
 9936 gu
@@ -18719,7 +18719,7 @@
 993D kui
 993E liu
 993F sou
-9940 tao xian
+9940 tao
 9941 ye
 9942 yun
 9943 mo
@@ -18730,8 +18730,8 @@
 9948 xiu
 9949 jin
 994A san
-994B kui tui
-994C zhuan xuan
+994B kui
+994C zhuan
 994D shan
 994E chi
 994F dan
@@ -18758,7 +18758,7 @@
 9964 ding
 9965 ji
 9966 tuo
-9967 tang xing
+9967 tang
 9968 tun
 9969 xi
 996A ren
@@ -18813,7 +18813,7 @@
 999B bo
 999C ni
 999D bi
-999E bo po
+999E bo
 999F tu
 99A0 han
 99A1 fei
@@ -18822,31 +18822,31 @@
 99A4 ai
 99A5 fu
 99A6 xian
-99A7 yun wo
+99A7 yun
 99A8 xin
 99A9 fen
 99AA pin
 99AB xin
 99AC ma
 99AD yu
-99AE ping feng
-99AF han qian
+99AE ping
+99AF han
 99B0 di
 99B1 tuo
-99B2 zhe tuo
+99B2 zhe
 99B3 chi
 99B4 xun
 99B5 zhu
-99B6 zhi shi
+99B6 zhi
 99B7 pei
-99B8 xin jin
+99B8 xin
 99B9 ri
 99BA sa
 99BB yun
 99BC wen
 99BD zhi
 99BE dan
-99BF lÜ
+99BF lv
 99C0 you
 99C1 bo
 99C2 bao
@@ -18859,18 +18859,18 @@
 99CA po
 99CB zhao
 99CC yuan
-99CD pei peng
+99CD pei
 99CE zhou
 99CF ju
 99D0 zhu
 99D1 nu
 99D2 ju
 99D3 pi
-99D4 zang zu
+99D4 zang
 99D5 jia
 99D6 ling
 99D7 zhen
-99D8 tai dai zhai
+99D8 tai
 99D9 fu
 99DA yang
 99DB shi
@@ -18886,7 +18886,7 @@
 99E5 rong
 99E6 teng
 99E7 dong
-99E8 xun xuan
+99E8 xun
 99E9 quan
 99EA shen
 99EB jiong
@@ -18903,7 +18903,7 @@
 99F7 song
 99F8 qin
 99F9 mang
-99FA lang liang
+99FA lang
 99FB han
 99FC tu
 99FD xuan
@@ -18915,7 +18915,7 @@
 9A03 ai
 9A04 lu
 9A05 zhui
-9A06 zhou dong
+9A06 zhou
 9A07 she
 9A08 pian
 9A09 kun
@@ -18945,18 +18945,18 @@
 9A21 quan
 9A22 xia
 9A23 zong
-9A24 kui jue
+9A24 kui
 9A25 rou
 9A26 si
 9A27 gua
 9A28 tuo
-9A29 gui tui
+9A29 gui
 9A2A sou
-9A2B qian jian
+9A2B qian
 9A2C cheng
 9A2D zhi
 9A2E liu
-9A2F peng bang
+9A2F peng
 9A30 teng
 9A31 xi
 9A32 cao
@@ -18964,19 +18964,19 @@
 9A34 yan
 9A35 yuan
 9A36 zou
-9A37 sao xiao
+9A37 sao
 9A38 shan
-9A39 li qi
-9A3A zhi chi
+9A39 li
+9A3A zhi
 9A3B shuang
 9A3C lu
 9A3D xi
 9A3E luo
 9A3F zhang
-9A40 mo ma
-9A41 ao yao
+9A40 mo
+9A41 ao
 9A42 can
-9A43 biao piao
+9A43 biao
 9A44 cong
 9A45 qu
 9A46 bi
@@ -19006,7 +19006,7 @@
 9A5E pin
 9A5F zhou
 9A60 yan
-9A61 long zang
+9A61 long
 9A62 lü
 9A63 teng
 9A64 xiang
@@ -19016,7 +19016,7 @@
 9A68 xi
 9A69 huan
 9A6A li
-9A6B biao piao
+9A6B biao
 9A6C ma
 9A6D yu
 9A6E tuo
@@ -19037,7 +19037,7 @@
 9A7D nu
 9A7E jia
 9A7F yi
-9A80 dai tai
+9A80 dai
 9A81 xiao
 9A82 ma
 9A83 yin
@@ -19069,7 +19069,7 @@
 9A9D liu
 9A9E qian
 9A9F shan
-9AA0 biao piao
+9AA0 biao
 9AA1 luo
 9AA2 cong
 9AA3 chan
@@ -19089,12 +19089,12 @@
 9AB1 jie
 9AB2 bao
 9AB3 bei
-9AB4 ci zhai
+9AB4 ci
 9AB5 ti
 9AB6 di
 9AB7 ku
 9AB8 hai
-9AB9 qiao jiao xiao
+9AB9 qiao
 9ABA hou
 9ABB kua
 9ABC ge
@@ -19109,9 +19109,9 @@
 9AC5 lou
 9AC6 bo
 9AC7 xiao
-9AC8 bang pang
-9AC9 bo jue
-9ACA ci cuo
+9AC8 bang
+9AC9 bo
+9ACA ci
 9ACB kuan
 9ACC bin
 9ACD mo
@@ -19132,7 +19132,7 @@
 9ADC qiao
 9ADD lao
 9ADE sao
-9ADF biao piao shan
+9ADF biao
 9AE0 kun
 9AE1 kun
 9AE2 di
@@ -19155,11 +19155,11 @@
 9AF3 mao
 9AF4 fu
 9AF5 er
-9AF6 rong er
+9AF6 rong
 9AF7 qu
 9AF8 gong
 9AF9 xiu
-9AFA kuo yue
+9AFA kuo
 9AFB ji
 9AFC peng
 9AFD zhua
@@ -19169,7 +19169,7 @@
 9B01 li
 9B02 bin
 9B03 zong
-9B04 di ti
+9B04 di
 9B05 peng
 9B06 song
 9B07 zheng
@@ -19197,11 +19197,11 @@
 9B1D qian
 9B1E nang
 9B1F huan
-9B20 kuo kuai
+9B20 kuo
 9B21 ning
 9B22 bin
 9B23 lie
-9B24 rang ning
+9B24 rang
 9B25 dou
 9B26 dou
 9B27 nao
@@ -19215,19 +19215,19 @@
 9B2F chang
 9B30 yu
 9B31 yu
-9B32 ge li
+9B32 ge
 9B33 yan
 9B34 fu
-9B35 qin xin
+9B35 qin
 9B36 gui
-9B37 zong zeng
+9B37 zong
 9B38 liu
-9B39 gui xie
+9B39 gui
 9B3A shang
 9B3B yu
 9B3C gui
 9B3D mei
-9B3E ji qi
+9B3E ji
 9B3F qi
 9B40 ga
 9B41 kui
@@ -19240,7 +19240,7 @@
 9B48 xiao
 9B49 liang
 9B4A yu
-9B4B tui chui
+9B4B tui
 9B4C qi
 9B4D wang
 9B4E liang
@@ -19258,40 +19258,40 @@
 9B5A yu
 9B5B dao
 9B5C ren
-9B5D jie ji
+9B5D jie
 9B5F hong
 9B60 tuo
-9B61 diao di
+9B61 diao
 9B62 ji
-9B63 xu yu
-9B64 e hua
-9B65 e qie ji
-9B66 sha suo
+9B63 xu
+9B64 e
+9B65 e
+9B66 sha
 9B67 hang
 9B68 tun
 9B69 mo
 9B6A jie
 9B6B shen
 9B6C ban
-9B6D yuan wan
-9B6E pi bi
-9B6F lu lv
+9B6D yuan
+9B6E pi
+9B6F lu
 9B70 wen
 9B71 hu
 9B72 lu
-9B73 za shi
+9B73 za
 9B74 fang
 9B75 fen
 9B76 na
 9B77 you
-9B7A he ge
+9B7A he
 9B7B xia
-9B7C qu xie
+9B7C qu
 9B7D han
 9B7E pi
-9B7F ling lin
+9B7F ling
 9B80 tuo
-9B81 bo ba
+9B81 bo
 9B82 qiu
 9B83 ping
 9B84 fu
@@ -19300,23 +19300,23 @@
 9B87 wei
 9B88 ju
 9B89 diao
-9B8A ba bo
-9B8B you chou
+9B8A ba
+9B8B you
 9B8C gun
-9B8D pi ju
+9B8D pi
 9B8E nian
-9B8F xing zheng
+9B8F xing
 9B90 tai
-9B91 bao pao
+9B91 bao
 9B92 fu
 9B93 zha
 9B94 ju
 9B95 gu
 9B99 ta
-9B9A jie qia
+9B9A jie
 9B9B shu
 9B9C hou
-9B9D xiang zhen
+9B9D xiang
 9B9E er
 9B9F an
 9BA0 wei
@@ -19324,15 +19324,15 @@
 9BA2 zhu
 9BA3 yin
 9BA4 lie
-9BA5 luo ge
+9BA5 luo
 9BA6 tong
-9BA7 ti yi
+9BA7 ti
 9BA8 yi
-9BA9 bing bi
+9BA9 bing
 9BAA wei
 9BAB jiao
 9BAC ku
-9BAD gui xie hua wa kui
+9BAD gui
 9BAE xian
 9BAF ge
 9BB0 hui
@@ -19352,8 +19352,8 @@
 9BC1 geng
 9BC3 wu
 9BC4 qiu
-9BC5 shan shen
-9BC6 pu bu
+9BC5 shan
+9BC6 pu
 9BC7 huan
 9BC8 tiao
 9BC9 li
@@ -19365,7 +19365,7 @@
 9BD3 ni
 9BD4 zi
 9BD5 qi
-9BD6 zheng qing
+9BD6 zheng
 9BD7 xiang
 9BD8 nei
 9BD9 chun
@@ -19381,7 +19381,7 @@
 9BE3 yi
 9BE4 kun
 9BE5 lu
-9BE6 jiu ai
+9BE6 jiu
 9BE7 chang
 9BE8 jing
 9BE9 lun
@@ -19394,25 +19394,25 @@
 9BF0 nian
 9BF4 shi
 9BF5 shen
-9BF6 hun huan
+9BF6 hun
 9BF7 ti
 9BF8 hou
-9BF9 xing zheng
+9BF9 xing
 9BFA zhu
 9BFB la
 9BFC zong
-9BFD zei ji
+9BFD zei
 9BFE bian
 9BFF bian
 9C00 huan
 9C01 quan
-9C02 zei ze
+9C02 zei
 9C03 wei
 9C04 wei
 9C05 yu
 9C06 chun
 9C07 rou
-9C08 die qie zha
+9C08 die
 9C09 huang
 9C0A lian
 9C0B yan
@@ -19423,28 +19423,28 @@
 9C10 e
 9C11 yang
 9C12 fu
-9C13 sai xi
-9C14 gan jian xian
+9C13 sai
+9C14 gan
 9C15 xia
-9C16 tuo wei
+9C16 tuo
 9C17 hu
 9C19 ruo
 9C1B wen
-9C1C qian jian
+9C1C qian
 9C1D hao
 9C1E wu
-9C1F fang pang
+9C1F fang
 9C20 sao
 9C21 liu
 9C22 ma
 9C23 shi
 9C24 shi
-9C25 guan kun gun
+9C25 guan
 9C26 zi
 9C27 teng
-9C28 ta die
+9C28 ta
 9C29 yao
-9C2A e ge
+9C2A e
 9C2B yong
 9C2C qian
 9C2D qi
@@ -19468,8 +19468,8 @@
 9C40 ji
 9C41 zhu
 9C42 jiang
-9C43 xiu qiu
-9C44 zhuan tuan lian
+9C43 xiu
+9C44 zhuan
 9C45 yong
 9C46 zhang
 9C47 kang
@@ -19487,7 +19487,7 @@
 9C53 shan
 9C54 shan
 9C55 fan
-9C56 gui jue
+9C56 gui
 9C57 lin
 9C58 xun
 9C59 miao
@@ -19498,10 +19498,10 @@
 9C60 kuai
 9C61 zei
 9C62 sao
-9C63 zhan shan
+9C63 zhan
 9C64 gan
 9C65 gui
-9C66 ying sheng meng
+9C66 ying
 9C67 li
 9C68 chang
 9C6C ru
@@ -19510,7 +19510,7 @@
 9C6F hu
 9C71 li
 9C72 lie
-9C73 li lu luo
+9C73 li
 9C74 mie
 9C75 zhen
 9C76 xiang
@@ -19528,19 +19528,19 @@
 9C82 fang
 9C83 ba
 9C84 he
-9C85 ba bo
+9C85 ba
 9C86 ping
 9C87 nian
 9C88 lu
 9C89 you
 9C8A zha
 9C8B fu
-9C8C ba bo
+9C8C ba
 9C8D bao
 9C8E hou
 9C8F pi
 9C90 tai
-9C91 gui xie
+9C91 gui
 9C92 jie
 9C93 kao
 9C94 wei
@@ -19568,7 +19568,7 @@
 9CAA jun
 9CAB ji
 9CAC yong
-9CAD qing zheng
+9CAD qing
 9CAE ling
 9CAF qi
 9CB0 zou
@@ -19628,30 +19628,30 @@
 9CE6 yi
 9CE7 fu
 9CE8 li
-9CE9 jiu qiu zhi
+9CE9 jiu
 9CEA bu
 9CEB yan
 9CEC fu
-9CED diao zhao
+9CED diao
 9CEE ji
 9CEF feng
-9CF1 gan han yan
+9CF1 gan
 9CF2 shi
 9CF3 feng
 9CF4 ming
 9CF5 bao
 9CF6 yuan
-9CF7 zhi chi
+9CF7 zhi
 9CF8 hu
 9CF9 qin
-9CFA fu gui
-9CFB ban fen
+9CFA fu
+9CFB ban
 9CFC wen
-9CFD jian qian zhan
+9CFD jian
 9CFE shi
 9CFF yu
 9D00 fou
-9D01 yao ao
+9D01 yao
 9D02 jue
 9D03 jue
 9D04 pi
@@ -19669,29 +19669,29 @@
 9D10 ge
 9D11 ru
 9D12 ling
-9D13 mie bi
+9D13 mie
 9D14 fu
 9D15 tuo
-9D16 min wen
+9D16 min
 9D17 li
 9D18 bian
 9D19 zhi
 9D1A ge
 9D1B yuan
 9D1C ci
-9D1D qu gou
+9D1D qu
 9D1E xiao
 9D1F chi
 9D20 dan
 9D21 ju
-9D22 yao ao
+9D22 yao
 9D23 gu
-9D24 dong dan
+9D24 dong
 9D25 yu
 9D26 yang
 9D27 rong
 9D28 ya
-9D29 tie hu
+9D29 tie
 9D2A yu
 9D2C ying
 9D2D dui
@@ -19706,24 +19706,24 @@
 9D36 jia
 9D37 lie
 9D38 zhu
-9D39 yang xiang
-9D3A ti yi
+9D39 yang
+9D3A ti
 9D3B hong
 9D3C luo
 9D3D ru
 9D3E mou
 9D3F ge
 9D40 ren
-9D41 jiao xiao
+9D41 jiao
 9D42 xiu
-9D43 zhou diao
-9D44 zhi chi
-9D45 luo ge
+9D43 zhou
+9D44 zhi
+9D45 luo
 9D49 luan
 9D4A jia
 9D4B ji
 9D4C tu
-9D4D huan juan guan
+9D4D huan
 9D4E tuo
 9D4F bu
 9D50 wu
@@ -19742,17 +19742,17 @@
 9D5D e
 9D5E e
 9D5F kuang
-9D60 hu gu he
+9D60 hu
 9D61 wu
 9D62 shen
-9D63 lai chi
+9D63 lai
 9D66 lu
 9D67 pi
 9D68 shu
 9D69 fu
 9D6A an
 9D6B zhuo
-9D6C feng peng
+9D6C feng
 9D6D qin
 9D6E qian
 9D6F bei
@@ -19776,7 +19776,7 @@
 9D81 jing
 9D82 yi
 9D83 yi
-9D84 jing qing
+9D84 jing
 9D85 zi
 9D86 lai
 9D87 dong
@@ -19784,13 +19784,13 @@
 9D89 chun
 9D8A geng
 9D8B ju
-9D8C jue qu
+9D8C jue
 9D8F ji
 9D90 shu
 9D92 chi
 9D93 miao
 9D94 rou
-9D95 an ya
+9D95 an
 9D96 qiu
 9D97 ti
 9D98 hu
@@ -19798,23 +19798,23 @@
 9D9A e
 9D9B jie
 9D9C mao
-9D9D fu bi
+9D9D fu
 9D9E chun
 9D9F tu
 9DA0 yan
 9DA1 he
 9DA2 yuan
-9DA3 pian bian
+9DA3 pian
 9DA4 kun
 9DA5 mei
 9DA6 hu
 9DA7 ying
-9DA8 chuan zhi
-9DA9 wu mu
+9DA8 chuan
+9DA9 wu
 9DAA ju
 9DAC cang
 9DAD fang
-9DAE he hu
+9DAE he
 9DAF ying
 9DB0 yuan
 9DB1 xian
@@ -19827,9 +19827,9 @@
 9DB8 ruo
 9DB9 liu
 9DBA ji
-9DBB gu hu
-9DBC jian qian
-9DBD sun xun
+9DBB gu
+9DBC jian
+9DBD sun
 9DBE han
 9DBF ci
 9DC0 ci
@@ -19847,13 +19847,13 @@
 9DCC ma
 9DCD jiao
 9DCE gao
-9DCF tian zhen
+9DCF tian
 9DD0 chen
 9DD1 ji
 9DD2 tuan
 9DD3 zhe
 9DD4 ao
-9DD5 yao xiao
+9DD5 yao
 9DD6 yi
 9DD7 ou
 9DD8 chi
@@ -19868,7 +19868,7 @@
 9DE1 wu
 9DE2 jue
 9DE3 yin
-9DE4 ti tan
+9DE4 ti
 9DE5 si
 9DE6 jiao
 9DE7 yi
@@ -19888,7 +19888,7 @@
 9DF5 tu
 9DF6 mai
 9DF7 zun
-9DF8 yu shu
+9DF8 yu
 9DF9 ying
 9DFA lu
 9DFB tuan
@@ -19896,9 +19896,9 @@
 9DFD xue
 9DFE yi
 9DFF pi
-9E00 chu zhu
+9E00 chu
 9E01 luo
-9E02 xi qi
+9E02 xi
 9E03 yi
 9E04 ji
 9E05 ze
@@ -19906,12 +19906,12 @@
 9E07 zhan
 9E08 ye
 9E09 yang
-9E0A pi bi
+9E0A pi
 9E0B ning
 9E0C hu
 9E0D mi
 9E0E ying
-9E0F meng mang
+9E0F meng
 9E10 di
 9E11 yue
 9E12 yu
@@ -19923,7 +19923,7 @@
 9E18 shuang
 9E19 yue
 9E1A ying
-9E1B guan huan quan
+9E1B guan
 9E1C qu
 9E1D li
 9E1E luan
@@ -19964,7 +19964,7 @@
 9E41 bo
 9E42 li
 9E43 juan
-9E44 gu hu
+9E44 gu
 9E45 e
 9E46 yu
 9E47 xian
@@ -19984,7 +19984,7 @@
 9E55 hu
 9E56 he
 9E57 e
-9E58 gu hu
+9E58 gu
 9E59 qiu
 9E5A ci
 9E5B mei
@@ -20027,11 +20027,11 @@
 9E80 you
 9E81 cu
 9E82 ji
-9E83 pao biao piao
+9E83 pao
 9E84 cu
 9E85 pao
-9E86 zhu cu
-9E87 jun qun
+9E86 zhu
+9E87 jun
 9E88 zhu
 9E89 jian
 9E8A mi
@@ -20045,11 +20045,11 @@
 9E92 qi
 9E93 lu
 9E94 jiu
-9E95 jun qun
+9E95 jun
 9E96 jing
 9E97 li
 9E98 xiang
-9E99 xian yan
+9E99 xian
 9E9A jia
 9E9B mi
 9E9C li
@@ -20074,7 +20074,7 @@
 9EAF qu
 9EB0 mou
 9EB1 fu
-9EB2 xian yan
+9EB2 xian
 9EB3 lai
 9EB4 qu
 9EB5 mian
@@ -20084,7 +20084,7 @@
 9EBA mian
 9EBB ma
 9EBC me
-9EBD me mo
+9EBD me
 9EBE hui
 9EC0 zou
 9EC1 nun
@@ -20102,7 +20102,7 @@
 9ECD shu
 9ECE li
 9ECF nian
-9ED0 chi li
+9ED0 chi
 9ED1 hei
 9ED2 hei
 9ED3 yi
@@ -20112,7 +20112,7 @@
 9ED7 tun
 9ED8 mo
 9ED9 mo
-9EDA qian jian
+9EDA qian
 9EDB dai
 9EDC chu
 9EDD you
@@ -20130,14 +20130,14 @@
 9EE9 du
 9EEA can
 9EEB yan
-9EEC yan jian
+9EEC yan
 9EED yan
-9EEE dan tan zhen shen
+9EEE dan
 9EEF an
 9EF0 zhen
 9EF1 dai
 9EF2 can
-9EF3 yi wa
+9EF3 yi
 9EF4 mei
 9EF5 zhan
 9EF6 yan
@@ -20147,8 +20147,8 @@
 9EFA fen
 9EFB fu
 9EFC fu
-9EFD mian min
-9EFE mian min
+9EFD mian
+9EFE mian
 9EFF yuan
 9F00 cu
 9F01 qu
@@ -20162,12 +20162,12 @@
 9F09 tuo
 9F0A bi
 9F0B yuan
-9F0C chao zhao
+9F0C chao
 9F0D tuo
 9F0E ding
 9F0F mi
 9F10 nai
-9F11 ding zhen
+9F11 ding
 9F12 zi
 9F13 gu
 9F14 gu
@@ -20178,7 +20178,7 @@
 9F19 pi
 9F1A chang
 9F1B gao
-9F1C qi cao
+9F1C qi
 9F1D yuan
 9F1E tang
 9F1F teng
@@ -20201,7 +20201,7 @@
 9F30 nian
 9F31 jing
 9F32 hun
-9F33 ju xi
+9F33 ju
 9F34 yan
 9F35 tu
 9F36 si
@@ -20213,11 +20213,11 @@
 9F3C yao
 9F3D qiu
 9F3E han
-9F3F wu hui
+9F3F wu
 9F40 wu
 9F41 hou
 9F42 xie
-9F43 e he
+9F43 e
 9F44 zha
 9F45 xiu
 9F46 weng
@@ -20227,7 +20227,7 @@
 9F4A qi
 9F4B zhai
 9F4C ji
-9F4D zi ji
+9F4D zi
 9F4E ji
 9F4F ji
 9F50 qi
@@ -20237,46 +20237,46 @@
 9F54 chen
 9F55 he
 9F56 ya
-9F57 yin yan
+9F57 yin
 9F58 xie
 9F59 bao
 9F5A ze
-9F5B xie shi
-9F5C chai zi
+9F5B xie
+9F5C chai
 9F5D chi
 9F5E yan
-9F5F ju zha
+9F5F ju
 9F60 tiao
 9F61 ling
 9F62 ling
 9F63 chu
 9F64 quan
 9F65 xie
-9F66 ken qian yin kun
+9F66 ken
 9F67 nie
 9F68 jiu
 9F69 yao
 9F6A chuo
 9F6B kun
-9F6C yu wu
+9F6C yu
 9F6D chu
 9F6E yi
 9F6F ni
 9F70 ze
-9F71 zou chuo
+9F71 zou
 9F72 qu
 9F73 yun
 9F74 yan
-9F75 ou yu
+9F75 ou
 9F76 e
 9F77 wo
 9F78 yi
-9F79 ci cuo
+9F79 ci
 9F7A zou
 9F7B dian
 9F7C chu
 9F7D jin
-9F7E ya e
+9F7E ya
 9F7F chi
 9F80 chen
 9F81 he
@@ -20286,14 +20286,14 @@
 9F85 bao
 9F86 tiao
 9F87 zi
-9F88 ken yin
+9F88 ken
 9F89 yu
 9F8A chuo
 9F8B qu
 9F8C wo
 9F8D long
 9F8E pang
-9F8F gong wo
+9F8F gong
 9F90 pang
 9F91 yan
 9F92 long
