@@ -1,22 +1,23 @@
 #include "hanzi.h"
 #include "sqlite3.h"
+#include <stdbool.h>
 #include <stdio.h>
-#include <string.h>
 
 static sqlite3 *db;
 static sqlite3_stmt *query;
-// The sqlite3 database is created by data/Unihan/create-sqlitedb.rb
+/* The sqlite3 database is created by data/Unihan/create-sqlitedb.rb */
 static const char *db_path =
     "/Users/alex/programming/hanzi2pinyin/data/codepoint2pinyin.db";
 static const char *query_string =
     "SELECT pinyin FROM codepoint2pinyin WHERE codepoint = ?";
-static bool inited = 0;
 
 static int pinyin_db_init(void) {
-    if (inited)
+    static bool called = 0;
+
+    if (called)
         return 0;
     else
-        inited = true;
+        called = true;
 
     int err = sqlite3_open_v2(db_path, &db, SQLITE_OPEN_READONLY, NULL);
     if (err != SQLITE_OK) {
@@ -45,19 +46,24 @@ static int check_sqlite_error(int err, const char *msg) {
     }
 }
 
-char *hz_pinyin_codepoint(UTF32 cp) {
+const char *hz_pinyin_codepoint(UTF32 cp) {
     int err;
 
     pinyin_db_init();
     if (!db)
         return NULL;
 
+    /* Reset for use.
+     * XXX This will release memory returned by previous call to column access
+     * function. */
+    sqlite3_reset(query);
+
     err = sqlite3_bind_int(query, 1, cp);
     if (check_sqlite_error(err, "bind_int"))
         return NULL;
-    
-    // Does not handle other cases like SQLITE_BUSY now. May need to retry
-    // on those errors.
+
+    /* Does not handle other cases like SQLITE_BUSY now. May need to retry
+     * on those errors. */
     err = sqlite3_step(query);
     if (check_sqlite_error(err, "step"))
         return NULL;
@@ -66,11 +72,7 @@ char *hz_pinyin_codepoint(UTF32 cp) {
         return NULL;
 
     const char *py = sqlite3_column_text(query, 0);
-    char *pinyin = strdup(py);
     
-    // reset for next use.
-    sqlite3_reset(query);
-    
-    return pinyin;
+    return py;
 }
 

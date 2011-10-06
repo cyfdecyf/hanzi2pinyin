@@ -1,4 +1,5 @@
 #include "unicode.h"
+#include <stdbool.h>
 
 static inline bool hz_is_high_surrogate(UTF16 uc)
 {

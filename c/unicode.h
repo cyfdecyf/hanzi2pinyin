@@ -2,12 +2,17 @@
 #define _UNICODE_H
 
 #include <stdint.h>
-#include <stdbool.h>
 
 typedef uint8_t UTF8;
 typedef uint16_t UTF16;
 typedef uint32_t UTF32;
 
+typedef enum {
+    ENCODING_UTF8,
+    ENCODING_UTF16
+} Encoding;
+
+// Convert the first character in s to UTF32.
 // s is a UTF-8 bytes sequence, nbytes will be set to #bytes of the first
 // character. Very little error handling.
 UTF32 hz_utf8_to_utf32(const UTF8 *s, int *nbytes);
