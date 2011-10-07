@@ -70,11 +70,7 @@ static const char *pinyin_tbl[] = { "a", "ai", "an", "ang", "ao", "ba", "bai",
 };
 
 static int init_data() {
-    static bool called = 0;
-    if (called)
-        return 0;
-    else
-        called = true;
+    CALL_ONCE(0);
 
     FILE *data_file;
     data_file = fopen(data_path, "rb");

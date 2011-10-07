@@ -12,12 +12,7 @@ static const char *query_string =
     "SELECT pinyin FROM codepoint2pinyin WHERE codepoint = ?";
 
 static int pinyin_db_init(void) {
-    static bool called = 0;
-
-    if (called)
-        return 0;
-    else
-        called = true;
+    CALL_ONCE(0);
 
     int err = sqlite3_open_v2(db_path, &db, SQLITE_OPEN_READONLY, NULL);
     if (err != SQLITE_OK) {

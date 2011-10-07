@@ -2,6 +2,7 @@
 #define _UNICODE_H
 
 #include <stdint.h>
+#include <stddef.h>
 
 typedef uint8_t UTF8;
 typedef uint16_t UTF16;
@@ -12,12 +13,16 @@ typedef enum {
     ENCODING_UTF16
 } Encoding;
 
-// Convert the first character in s to UTF32.
-// s is a UTF-8 bytes sequence, nbytes will be set to #bytes of the first
-// character. Very little error handling.
-UTF32 hz_utf8_to_utf32(const UTF8 *s, int *nbytes);
+/* Convert UTF-8 string UTF-32. nchar will be set to the number of characters.
+ * Caller should free memory. */
+UTF32 *hz_utf8_to_utf32(const char *s, size_t *nchar);
 
-// Similar to hz_utf8_to_utf32
-UTF32 hz_utf16_to_utf32(const UTF16 *s, int *nbytes);
+/* XXX Not good to put here. */
+#define CALL_ONCE(retcode) \
+    static bool __called = false; \
+    if (__called) \
+        return 0; \
+    else \
+        __called = true; \
 
 #endif /* _UNICODE_H */

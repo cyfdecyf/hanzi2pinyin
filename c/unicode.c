@@ -1,71 +1,69 @@
 #include "unicode.h"
 #include <stdbool.h>
+#include <stdlib.h>
+#include <string.h>
+#include <iconv.h>
+#include <stdio.h>
 
-static inline bool hz_is_high_surrogate(UTF16 uc)
-{
-    return (0xD800 <= uc && uc <= 0xDBFF);
-}
+static iconv_t utf8_cd;
+/*static iconv_t utf16_cd;*/
 
-static inline bool hz_is_low_surrogate(UTF16 uc)
-{
-    return (0xDC00 <= uc && uc <= 0xDFFF);
-}
-
-static UTF32 hz_utf16_surrogate_to_utf32(UTF16 hi, UTF16 lo) {
-    // The following code is copied from
-    // http://www.unicode.org/faq//utf_bom.html#utf16-3
-    UTF32 X = (hi & ((1 << 6) -1)) << 10 | lo & ((1 << 10) -1);
-    UTF32 W = (hi >> 6) & ((1 << 5) - 1);
-    UTF32 U = W + 1;
-    UTF32 C = U << 16 | X;
-    return C;
-}
-
-// Is there an easy and faster way to find the 1st 0?
-// Return -1 means all 1, left most id is 7
-static inline int left_first_0(UTF8 u) {
-    int i;
-    for (i = 7; i > 0; i--) {
-        if (((u >> i) & 1) == 0)
-            break;
+static inline int open_cd(iconv_t *cd, const char *from) {
+    /* XXX Note the endianness. On intel based Mac, use little endian. */
+    *cd = iconv_open("UTF-32LE", from);
+    if (*cd == (iconv_t)-1) {
+        perror("iconv_open");
+        return 1;
     }
-    return i;
+    return 0;
 }
 
-static inline int utf8_char_nbyte(const UTF8 *s) {
-    int first0id = left_first_0(s[0]);
-    int nbyte = 7 - first0id;
+static int init_cd() {
+    CALL_ONCE(0);
 
-    // Illegal character start
-    if ((first0id == -1) || (nbyte == 1))
-        nbyte = -1;
+    int err = 0;
 
-    return nbyte;
+    err += open_cd(&utf8_cd, "UTF-8");
+    /*err += open_cd(&utf16_cd, "UTF-16LE");*/
+
+    return (err == 0) ? 0 : -1;
 }
 
-UTF32 hz_utf8_to_utf32(const UTF8 *s, int *nbyte) {
-    UTF32 cp = 0;
-    int n = utf8_char_nbyte(s);
+static UTF32 *convert(iconv_t cd, const char *s, size_t inbytes, size_t *nchar) {
+    if (cd == (iconv_t) -1)
+        return NULL;
 
-    if (n == -1) {
-        cp = -1;
-    } else if (n == 1) {
-        cp = s[0];
-    } else {
-        int i;
-        // Get the 1st byte's bits
-        cp = (s[0] & ((1 << (7 - n)) - 1)) << (n - 1) * 6;
-        for (i = 1; i < n; i++)
-            cp |= (s[i] & 0x3F) << ((n - 1 - i) * 6);
+    /* The upper bound of output memory required */
+    size_t outbytes = inbytes * sizeof(UTF32);
+    char *outbuf = calloc(1, outbytes);
+    char *outp = outbuf;
+
+    /* In GNU libiconv, the second parameter is a const char ** */
+    size_t n = iconv(cd, (char **)&s, &inbytes, &outp, &outbytes);
+    if (n == (size_t) -1) {
+        perror("convert");
+        free(outbuf);
+        return NULL;
     }
-
-    if (nbyte)
-        *nbyte = n;
-    return cp;
+    if (nchar)
+        *nchar = n;
+    return (UTF32 *)outbuf;
 }
 
-UTF32 hz_utf16_to_utf32(const UTF16 *s, int *nbyte) {
-    // TODO not finished
-    return -1;
+UTF32 *hz_utf8_to_utf32(const char *s, size_t *nchar) {
+    init_cd();
+    return convert(utf8_cd, s, strlen(s), nchar);
 }
 
+/* How to detect the end of a UTF16 byte sequence?
+ * This is C string, the last '\0' is just a single byte.
+ * Working with UTF-16 in C is awful. */
+/*
+UTF32 *hz_utf16_to_utf32(const char *s, size_t *nchar) {
+    init_cd();
+    size_t n = 0;
+    UTF16 *ss = (UTF16 *)s;
+    while (*ss++ != 0) n++;
+    return convert(utf16_cd, s, n, nchar);
+}
+*/
