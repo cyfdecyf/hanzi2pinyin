@@ -1,0 +1,8 @@
+This library converts Chinese character to pinyin.
+
+Limitations:
+
+1. Does not handle polyphone (now).
+2. The pinyin data is obtained from Unihan database. Maybe not complete or
+   incorrect for some characters. But I can't find more accurate data from other
+   resources.

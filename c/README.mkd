@@ -1,0 +1,11 @@
+There're 2 implementations to lookup pinyin for a given unicode code point.
+
+1. `hanzi-sqlite.c` looks up the pinyin in a sqlite3 database
+2. `hanzi-bindata.c` mmaps the pinyin data array in a file, and use the code
+   point as index to the array
+
+The second approach is much simpler and should be faster.
+
+`unicode.c` contains code to convert UTF-8 string to UTF-32 string, which uses
+libiconv. (I've written a naive UTF converter previously, but it's better to
+examine and use the ["no longer official" example code](http://gears.googlecode.com/svn/trunk/third_party/convert_utf/ConvertUTF.c).
