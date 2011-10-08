@@ -8584,7 +8584,7 @@
 奰 5970 bi
 奱 5971 luan
 奲 5972 duo
-女 5973 nü
+女 5973 nv
 奴 5974 nu
 奵 5975 ding tian
 奶 5976 nai
@@ -10106,7 +10106,7 @@
 很 5F88 hen
 徉 5F89 yang
 徊 5F8A huai
-律 5F8B lü
+律 5F8B lv
 後 5F8C hou
 徍 5F8D wang wa
 徎 5F8E cheng zheng
@@ -10579,7 +10579,7 @@
 慫 616B song
 慬 616C qin jin
 慭 616D yin
-慮 616E lü
+慮 616E lv
 慯 616F shang
 慰 6170 wei
 慱 6171 tuan
@@ -11673,7 +11673,7 @@
 旂 65C2 qi
 旃 65C3 zhan
 旄 65C4 mao
-旅 65C5 lü
+旅 65C5 lv
 旆 65C6 pei
 旇 65C7 pi bi
 旈 65C8 liu
@@ -15056,7 +15056,7 @@
 玄 7384 xuan
 玅 7385 miao
 玆 7386 xuan zi
-率 7387 lü shuai
+率 7387 lv shuai
 玈 7388 lu
 玉 7389 yu
 玊 738A su
@@ -17557,7 +17557,7 @@
 綝 7D9D chen lin
 綞 7D9E duo
 綟 7D9F li lie
-綠 7DA0 lü
+綠 7DA0 lv
 綡 7DA1 liang
 綢 7DA2 chou
 綣 7DA3 quan
@@ -17703,7 +17703,7 @@
 縴 7E34 qian
 縵 7E35 man
 縶 7E36 zhi
-縷 7E37 lü
+縷 7E37 lv
 縸 7E38 mu mo
 縹 7E39 piao
 縺 7E3A lian
@@ -17899,7 +17899,7 @@
 综 7EFC zong
 绽 7EFD zhan
 绾 7EFE wan
-绿 7EFF lü
+绿 7EFF lv
 缀 7F00 zhui
 缁 7F01 zi
 缂 7F02 ke
@@ -17921,7 +17921,7 @@
 缒 7F12 zhui
 缓 7F13 huan
 缔 7F14 di
-缕 7F15 lü
+缕 7F15 lv
 编 7F16 bian
 缗 7F17 min
 缘 7F18 yuan
@@ -19718,7 +19718,7 @@
 虎 864E hu
 虏 864F lu
 虐 8650 nve
-虑 8651 lü
+虑 8651 lv
 虒 8652 si
 虓 8653 xiao
 虔 8654 qian
@@ -22843,7 +22843,7 @@
 銾 92BE hong gong
 銿 92BF zhong yong
 鋀 92C0 tou dou tu
-鋁 92C1 lü
+鋁 92C1 lv
 鋂 92C2 mei meng
 鋃 92C3 lang
 鋄 92C4 wan
@@ -23362,7 +23362,7 @@
 铚 94DA zhi
 铛 94DB dang
 铜 94DC tong
-铝 94DD lü
+铝 94DD lv
 铞 94DE diao
 铟 94DF yin
 铠 94E0 kai
@@ -24755,7 +24755,7 @@
 驟 9A5F zhou
 驠 9A60 yan
 驡 9A61 long zang
-驢 9A62 lü
+驢 9A62 lv
 驣 9A63 teng
 驤 9A64 xiang
 驥 9A65 ji
@@ -24773,7 +24773,7 @@
 驱 9A71 qu
 驲 9A72 ri
 驳 9A73 bo
-驴 9A74 lü
+驴 9A74 lv
 驵 9A75 zang
 驶 9A76 shi
 驷 9A77 si

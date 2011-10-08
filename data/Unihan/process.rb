@@ -43,7 +43,7 @@ class UniProcess
 
   def extract_HanyuPinlu(py)
     # sang4(22) --> sang
-    remove_tone py.sub(/\(\d*\)/, '')
+    remove_tonechar(remove_tone py.sub(/\(\d*\)/, ''))
   end
 
   def extract_HanyuPinyin(py)

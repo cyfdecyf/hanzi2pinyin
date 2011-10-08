@@ -2836,7 +2836,7 @@
 5970 bi
 5971 luan
 5972 duo
-5973 nü
+5973 nv
 5974 nu
 5975 ding
 5976 nai
@@ -4358,7 +4358,7 @@
 5F88 hen
 5F89 yang
 5F8A huai
-5F8B lü
+5F8B lv
 5F8C hou
 5F8D wang
 5F8E cheng
@@ -4831,7 +4831,7 @@
 616B song
 616C qin
 616D yin
-616E lü
+616E lv
 616F shang
 6170 wei
 6171 tuan
@@ -5925,7 +5925,7 @@
 65C2 qi
 65C3 zhan
 65C4 mao
-65C5 lü
+65C5 lv
 65C6 pei
 65C7 pi
 65C8 liu
@@ -9308,7 +9308,7 @@
 7384 xuan
 7385 miao
 7386 xuan
-7387 lü
+7387 lv
 7388 lu
 7389 yu
 738A su
@@ -11809,7 +11809,7 @@
 7D9D chen
 7D9E duo
 7D9F li
-7DA0 lü
+7DA0 lv
 7DA1 liang
 7DA2 chou
 7DA3 quan
@@ -11955,7 +11955,7 @@
 7E34 qian
 7E35 man
 7E36 zhi
-7E37 lü
+7E37 lv
 7E38 mu
 7E39 piao
 7E3A lian
@@ -12151,7 +12151,7 @@
 7EFC zong
 7EFD zhan
 7EFE wan
-7EFF lü
+7EFF lv
 7F00 zhui
 7F01 zi
 7F02 ke
@@ -12173,7 +12173,7 @@
 7F12 zhui
 7F13 huan
 7F14 di
-7F15 lü
+7F15 lv
 7F16 bian
 7F17 min
 7F18 yuan
@@ -13970,7 +13970,7 @@
 864E hu
 864F lu
 8650 nve
-8651 lü
+8651 lv
 8652 si
 8653 xiao
 8654 qian
@@ -17095,7 +17095,7 @@
 92BE hong
 92BF zhong
 92C0 tou
-92C1 lü
+92C1 lv
 92C2 mei
 92C3 lang
 92C4 wan
@@ -17614,7 +17614,7 @@
 94DA zhi
 94DB dang
 94DC tong
-94DD lü
+94DD lv
 94DE diao
 94DF yin
 94E0 kai
@@ -19007,7 +19007,7 @@
 9A5F zhou
 9A60 yan
 9A61 long
-9A62 lü
+9A62 lv
 9A63 teng
 9A64 xiang
 9A65 ji
@@ -19025,7 +19025,7 @@
 9A71 qu
 9A72 ri
 9A73 bo
-9A74 lü
+9A74 lv
 9A75 zang
 9A76 shi
 9A77 si
