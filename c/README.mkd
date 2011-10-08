@@ -6,6 +6,9 @@ There're 2 implementations to lookup pinyin for a given unicode code point.
 
 The second approach is much simpler and should be faster.
 
+The data can be created by scripts `data/Unihan/create-{bindata,sqlitedb}.rb`.
+You need to modify the data path in the C implementation files.
+
 `unicode.c` contains code to convert UTF-8 string to UTF-32 string, which uses
 libiconv. (I've written a naive UTF converter previously, but it's better to
 examine and use the ["no longer official" example code](http://gears.googlecode.com/svn/trunk/third_party/convert_utf/ConvertUTF.c).
