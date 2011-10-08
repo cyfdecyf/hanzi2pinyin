@@ -1,0 +1,442 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FAD5FC3F144019540057FC2C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC3E144019540057FC2C /* Cocoa.framework */; };
+		FAD5FC49144019540057FC2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC47144019540057FC2C /* InfoPlist.strings */; };
+		FAD5FC4D144019540057FC2C /* Hanzi2Pinyin.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD5FC4C144019540057FC2C /* Hanzi2Pinyin.m */; };
+		FAD5FC55144019540057FC2C /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC54144019540057FC2C /* SenTestingKit.framework */; };
+		FAD5FC56144019540057FC2C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC3E144019540057FC2C /* Cocoa.framework */; };
+		FAD5FC59144019540057FC2C /* Hanzi2Pinyin.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC3B144019540057FC2C /* Hanzi2Pinyin.framework */; };
+		FAD5FC5F144019540057FC2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC5D144019540057FC2C /* InfoPlist.strings */; };
+		FAD5FC61144019540057FC2C /* Hanzi2PinyinTests.h in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC60144019540057FC2C /* Hanzi2PinyinTests.h */; };
+		FAD5FC63144019540057FC2C /* Hanzi2PinyinTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD5FC62144019540057FC2C /* Hanzi2PinyinTests.m */; };
+		FAD5FC6E144019810057FC2C /* hanzi-bindata.c in Sources */ = {isa = PBXBuildFile; fileRef = FAD5FC6C144019810057FC2C /* hanzi-bindata.c */; };
+		FAD5FC6F144019810057FC2C /* hanzi.h in Headers */ = {isa = PBXBuildFile; fileRef = FAD5FC6D144019810057FC2C /* hanzi.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FAD5FC57144019540057FC2C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FAD5FC31144019540057FC2C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FAD5FC3A144019540057FC2C;
+			remoteInfo = Hanzi2Pinyin;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FAD5FC3B144019540057FC2C /* Hanzi2Pinyin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Hanzi2Pinyin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAD5FC3E144019540057FC2C /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		FAD5FC41144019540057FC2C /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		FAD5FC42144019540057FC2C /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		FAD5FC43144019540057FC2C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		FAD5FC46144019540057FC2C /* Hanzi2Pinyin-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Hanzi2Pinyin-Info.plist"; sourceTree = "<group>"; };
+		FAD5FC48144019540057FC2C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FAD5FC4A144019540057FC2C /* Hanzi2Pinyin-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Hanzi2Pinyin-Prefix.pch"; sourceTree = "<group>"; };
+		FAD5FC4B144019540057FC2C /* Hanzi2Pinyin.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hanzi2Pinyin.h; sourceTree = "<group>"; };
+		FAD5FC4C144019540057FC2C /* Hanzi2Pinyin.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Hanzi2Pinyin.m; sourceTree = "<group>"; };
+		FAD5FC53144019540057FC2C /* Hanzi2PinyinTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hanzi2PinyinTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAD5FC54144019540057FC2C /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		FAD5FC5C144019540057FC2C /* Hanzi2PinyinTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Hanzi2PinyinTests-Info.plist"; sourceTree = "<group>"; };
+		FAD5FC5E144019540057FC2C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FAD5FC60144019540057FC2C /* Hanzi2PinyinTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hanzi2PinyinTests.h; sourceTree = "<group>"; };
+		FAD5FC62144019540057FC2C /* Hanzi2PinyinTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Hanzi2PinyinTests.m; sourceTree = "<group>"; };
+		FAD5FC6C144019810057FC2C /* hanzi-bindata.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = "hanzi-bindata.c"; path = "../../../c/hanzi-bindata.c"; sourceTree = "<group>"; };
+		FAD5FC6D144019810057FC2C /* hanzi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = hanzi.h; path = ../../../c/hanzi.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FAD5FC37144019540057FC2C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD5FC3F144019540057FC2C /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAD5FC4F144019540057FC2C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD5FC55144019540057FC2C /* SenTestingKit.framework in Frameworks */,
+				FAD5FC56144019540057FC2C /* Cocoa.framework in Frameworks */,
+				FAD5FC59144019540057FC2C /* Hanzi2Pinyin.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FAD5FC2F144019540057FC2C = {
+			isa = PBXGroup;
+			children = (
+				FAD5FC44144019540057FC2C /* Hanzi2Pinyin */,
+				FAD5FC5A144019540057FC2C /* Hanzi2PinyinTests */,
+				FAD5FC3D144019540057FC2C /* Frameworks */,
+				FAD5FC3C144019540057FC2C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FAD5FC3C144019540057FC2C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FAD5FC3B144019540057FC2C /* Hanzi2Pinyin.framework */,
+				FAD5FC53144019540057FC2C /* Hanzi2PinyinTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FAD5FC3D144019540057FC2C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FAD5FC3E144019540057FC2C /* Cocoa.framework */,
+				FAD5FC54144019540057FC2C /* SenTestingKit.framework */,
+				FAD5FC40144019540057FC2C /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FAD5FC40144019540057FC2C /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FAD5FC41144019540057FC2C /* AppKit.framework */,
+				FAD5FC42144019540057FC2C /* CoreData.framework */,
+				FAD5FC43144019540057FC2C /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		FAD5FC44144019540057FC2C /* Hanzi2Pinyin */ = {
+			isa = PBXGroup;
+			children = (
+				FAD5FC4B144019540057FC2C /* Hanzi2Pinyin.h */,
+				FAD5FC4C144019540057FC2C /* Hanzi2Pinyin.m */,
+				FAD5FC6C144019810057FC2C /* hanzi-bindata.c */,
+				FAD5FC6D144019810057FC2C /* hanzi.h */,
+				FAD5FC45144019540057FC2C /* Supporting Files */,
+			);
+			path = Hanzi2Pinyin;
+			sourceTree = "<group>";
+		};
+		FAD5FC45144019540057FC2C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FAD5FC46144019540057FC2C /* Hanzi2Pinyin-Info.plist */,
+				FAD5FC47144019540057FC2C /* InfoPlist.strings */,
+				FAD5FC4A144019540057FC2C /* Hanzi2Pinyin-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FAD5FC5A144019540057FC2C /* Hanzi2PinyinTests */ = {
+			isa = PBXGroup;
+			children = (
+				FAD5FC60144019540057FC2C /* Hanzi2PinyinTests.h */,
+				FAD5FC62144019540057FC2C /* Hanzi2PinyinTests.m */,
+				FAD5FC5B144019540057FC2C /* Supporting Files */,
+			);
+			path = Hanzi2PinyinTests;
+			sourceTree = "<group>";
+		};
+		FAD5FC5B144019540057FC2C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FAD5FC5C144019540057FC2C /* Hanzi2PinyinTests-Info.plist */,
+				FAD5FC5D144019540057FC2C /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		FAD5FC38144019540057FC2C /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD5FC6F144019810057FC2C /* hanzi.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		FAD5FC3A144019540057FC2C /* Hanzi2Pinyin */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAD5FC66144019540057FC2C /* Build configuration list for PBXNativeTarget "Hanzi2Pinyin" */;
+			buildPhases = (
+				FAD5FC36144019540057FC2C /* Sources */,
+				FAD5FC37144019540057FC2C /* Frameworks */,
+				FAD5FC38144019540057FC2C /* Headers */,
+				FAD5FC39144019540057FC2C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Hanzi2Pinyin;
+			productName = Hanzi2Pinyin;
+			productReference = FAD5FC3B144019540057FC2C /* Hanzi2Pinyin.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		FAD5FC52144019540057FC2C /* Hanzi2PinyinTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAD5FC69144019540057FC2C /* Build configuration list for PBXNativeTarget "Hanzi2PinyinTests" */;
+			buildPhases = (
+				FAD5FC4E144019540057FC2C /* Sources */,
+				FAD5FC4F144019540057FC2C /* Frameworks */,
+				FAD5FC50144019540057FC2C /* Resources */,
+				FAD5FC51144019540057FC2C /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FAD5FC58144019540057FC2C /* PBXTargetDependency */,
+			);
+			name = Hanzi2PinyinTests;
+			productName = Hanzi2PinyinTests;
+			productReference = FAD5FC53144019540057FC2C /* Hanzi2PinyinTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FAD5FC31144019540057FC2C /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = FAD5FC34144019540057FC2C /* Build configuration list for PBXProject "Hanzi2Pinyin" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FAD5FC2F144019540057FC2C;
+			productRefGroup = FAD5FC3C144019540057FC2C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FAD5FC3A144019540057FC2C /* Hanzi2Pinyin */,
+				FAD5FC52144019540057FC2C /* Hanzi2PinyinTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FAD5FC39144019540057FC2C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD5FC49144019540057FC2C /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAD5FC50144019540057FC2C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD5FC5F144019540057FC2C /* InfoPlist.strings in Resources */,
+				FAD5FC61144019540057FC2C /* Hanzi2PinyinTests.h in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		FAD5FC51144019540057FC2C /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FAD5FC36144019540057FC2C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD5FC4D144019540057FC2C /* Hanzi2Pinyin.m in Sources */,
+				FAD5FC6E144019810057FC2C /* hanzi-bindata.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAD5FC4E144019540057FC2C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD5FC63144019540057FC2C /* Hanzi2PinyinTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FAD5FC58144019540057FC2C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FAD5FC3A144019540057FC2C /* Hanzi2Pinyin */;
+			targetProxy = FAD5FC57144019540057FC2C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		FAD5FC47144019540057FC2C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FAD5FC48144019540057FC2C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		FAD5FC5D144019540057FC2C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FAD5FC5E144019540057FC2C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FAD5FC64144019540057FC2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		FAD5FC65144019540057FC2C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		FAD5FC67144019540057FC2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_VERSION = A;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Hanzi2Pinyin/Hanzi2Pinyin-Prefix.pch";
+				INFOPLIST_FILE = "Hanzi2Pinyin/Hanzi2Pinyin-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Debug;
+		};
+		FAD5FC68144019540057FC2C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_VERSION = A;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Hanzi2Pinyin/Hanzi2Pinyin-Prefix.pch";
+				INFOPLIST_FILE = "Hanzi2Pinyin/Hanzi2Pinyin-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Release;
+		};
+		FAD5FC6A144019540057FC2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Hanzi2Pinyin/Hanzi2Pinyin-Prefix.pch";
+				INFOPLIST_FILE = "Hanzi2PinyinTests/Hanzi2PinyinTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		FAD5FC6B144019540057FC2C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Hanzi2Pinyin/Hanzi2Pinyin-Prefix.pch";
+				INFOPLIST_FILE = "Hanzi2PinyinTests/Hanzi2PinyinTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FAD5FC34144019540057FC2C /* Build configuration list for PBXProject "Hanzi2Pinyin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAD5FC64144019540057FC2C /* Debug */,
+				FAD5FC65144019540057FC2C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FAD5FC66144019540057FC2C /* Build configuration list for PBXNativeTarget "Hanzi2Pinyin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAD5FC67144019540057FC2C /* Debug */,
+				FAD5FC68144019540057FC2C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		FAD5FC69144019540057FC2C /* Build configuration list for PBXNativeTarget "Hanzi2PinyinTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAD5FC6A144019540057FC2C /* Debug */,
+				FAD5FC6B144019540057FC2C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FAD5FC31144019540057FC2C /* Project object */;
+}

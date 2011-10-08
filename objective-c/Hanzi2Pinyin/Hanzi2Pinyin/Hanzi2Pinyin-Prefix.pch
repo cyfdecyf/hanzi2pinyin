@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Hanzi2Pinyin' target in the 'Hanzi2Pinyin' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
