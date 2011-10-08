@@ -16,8 +16,8 @@ static const char *data_path =
 
 static uint16_t *pinyin_data;
 
-static const UTF32 START_CODEPOINT = 0x4E00;
-static const UTF32 END_CODEPOINT = 0x9FFF;
+static const uint32_t START_CODEPOINT = 0x4E00;
+static const uint32_t END_CODEPOINT = 0x9FFF;
 
 /* Obtained from data/Unihan/block1-pinyin-statistic.rb */
 static const char *pinyin_tbl[] = {
@@ -91,7 +91,7 @@ static int init_data() {
     return 0;
 }
 
-const char *hz_pinyin_codepoint(UTF32 cp) {
+const char *hz_pinyin_codepoint(uint32_t cp) {
     init_data();
 
     if (START_CODEPOINT <= cp && cp <= END_CODEPOINT) {

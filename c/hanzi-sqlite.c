@@ -41,7 +41,7 @@ static int check_sqlite_error(int err, const char *msg) {
     }
 }
 
-const char *hz_pinyin_codepoint(UTF32 cp) {
+const char *hz_pinyin_codepoint(uint32_t cp) {
     int err;
 
     pinyin_db_init();

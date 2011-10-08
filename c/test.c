@@ -1,3 +1,4 @@
+#include "unicode.h"
 #include "hanzi.h"
 #include <stdio.h>
 #include <stdlib.h>
