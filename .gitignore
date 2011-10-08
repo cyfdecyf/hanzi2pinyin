@@ -1,3 +1,5 @@
 *.o
 *.dat
 *.db
+xcuserdata
+.DS_store
