@@ -5,7 +5,12 @@
 #include <string.h>
 #include <assert.h>
 
-void test_onechar(const char *s, const char *expected_pinyin, Encoding enc) {
+// #define DEBUG
+#include "util.h"
+
+const int LINE_LEN_MAX = 255;
+
+static void test_pinyin(const char *s, const char *expected_pinyin, Encoding enc) {
     size_t n;
     UTF32 *cp;
 
@@ -16,39 +21,36 @@ void test_onechar(const char *s, const char *expected_pinyin, Encoding enc) {
         return;
     }
 
-    /*
-     *int i;
-     *for (i = 0; i < n; i++)
-     *    printf("%x ", s[i]);
-     *puts("");
-     */
     if (!cp) {
-        printf("conversion failed\n");
+        printf("conversion to codepoint failed\n");
         return;
     }
+    DPRINTF("hanzi contains %lu characters", n);
 
-    const char *pinyin = hz_pinyin_codepoint(cp[0]);
-    if (!pinyin) {
-        printf("No pinyin found for: %s cp: %x\n", s, cp[0]);
-        return;
+    char pinyin[255] = { 0 };
+    char *pinyin_start = pinyin;
+
+    DPRINTF("str: %s ", s);
+    for (int i = 0; i < n; i++) {
+        const char *py = hz_pinyin_codepoint(cp[i]);
+        if (!py) {
+            printf("No pinyin found for: %s cp: %x\n", s, cp[i]);
+            return;
+        }
+        int len = strlen(py);
+        strncpy(pinyin_start, py, len);
+        pinyin_start += len;
+
+        DPRINTF("%x %s ", cp[i], py);
     }
 
-    printf("%s %x %s\n", s, cp[0], pinyin);
     if (strcmp(pinyin, expected_pinyin) != 0) {
         printf("ERROR, expected_pinyin is: %s\n", expected_pinyin);
     }
     free(cp);
 }
 
-void dump_char(const char *s) {
-    int i;
-    for (i = 0; s[i]; ++i) {
-        printf("%hhx ", s[i]);
-    }
-    puts("");
-}
-
-void test_file(const char *path, Encoding enc) {
+static void test_file(const char *path, Encoding enc) {
     FILE *fp = fopen(path, "r");
     if (!fp) {
         fprintf(stderr, "error opening file\n");
@@ -56,22 +58,20 @@ void test_file(const char *path, Encoding enc) {
     }
 
     while (1) {
-        char c[255];
-        char pinyin[255];
+        char c[LINE_LEN_MAX];
+        char pinyin[LINE_LEN_MAX];
 
-        fgets(c, 10, fp);
+        fgets(c, LINE_LEN_MAX, fp);
         if (feof(fp))
             break;
-        fgets(pinyin, 10, fp);
-
-        dump_char(c);
+        fgets(pinyin, LINE_LEN_MAX, fp);
 
         /* Remove trailing "\n"
          * XXX strlen does not work with UTF-16 encoded byte sequence */
         c[strlen(c) - 1] = '\0';
         pinyin[strlen(pinyin) - 1] = '\0';
 
-        test_onechar(c, pinyin, enc);
+        test_pinyin(c, pinyin, enc);
     }
 }
 

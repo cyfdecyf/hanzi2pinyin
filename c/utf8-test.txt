@@ -1,8 +1,6 @@
-陈
-chen
+汉字拼音
+hanzipinyin
 你
 ni
-苹
-ping
-果
-guo
+苹果
+pingguo

@@ -17,12 +17,4 @@ typedef enum {
  * Caller should free memory. */
 UTF32 *hz_utf8_to_utf32(const char *s, size_t *nchar);
 
-/* XXX Not good to put here. */
-#define CALL_ONCE(retcode) \
-    static bool __called = false; \
-    if (__called) \
-        return 0; \
-    else \
-        __called = true; \
-
 #endif /* _UNICODE_H */

@@ -1,4 +1,5 @@
 #include "hanzi.h"
+#include "util.h"
 #include <sys/mman.h>
 #include <stdio.h>
 #include <stdbool.h>

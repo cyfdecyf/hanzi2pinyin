@@ -1,6 +1,6 @@
 CC = llvm-gcc
 LDFLAGS = -liconv
-CFLAGS = -g
+CFLAGS = -g -std=gnu99
 
 TEST_RUN = sqlite-test bindata-test cp2py
 

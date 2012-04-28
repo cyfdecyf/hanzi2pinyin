@@ -1,4 +1,5 @@
 #include "unicode.h"
+#include "util.h"
 #include <stdbool.h>
 #include <stdlib.h>
 #include <string.h>
@@ -38,7 +39,11 @@ static UTF32 *convert(iconv_t cd, const char *s, size_t inbytes, size_t *nchar) 
     char *outbuf = calloc(1, outbytes);
     char *outp = outbuf;
 
-    /* In GNU libiconv, the second parameter is a const char ** */
+    /* Note iconv's return value is "number of characters converted in a non-reversible way".
+       If we convert UTF-8 encoded string "abc汉字" to ASCII, as the last 2 characters can't
+       be represented in ASCII, we may convert them to '?', this means we can't convert the
+       resulting ASCII string back to the original UTF-8 string. So this conversion is
+       non-reversible. */
     size_t n = iconv(cd, (char **)&s, &inbytes, &outp, &outbytes);
     if (n == (size_t) -1) {
         perror("convert");
@@ -46,7 +51,7 @@ static UTF32 *convert(iconv_t cd, const char *s, size_t inbytes, size_t *nchar) 
         return NULL;
     }
     if (nchar)
-        *nchar = n;
+        *nchar = (outp - outbuf) / sizeof(UTF32);
     return (UTF32 *)outbuf;
 }
 

@@ -9,12 +9,4 @@
  * The implementation in hanzi_bindata.c does not have this problem. */
 const char *hz_pinyin_codepoint(uint32_t cp);
 
-/* XXX Not good to put here. */
-#define CALL_ONCE(retcode) \
-    static bool __called = false; \
-    if (__called) \
-        return 0; \
-    else \
-        __called = true; \
-
 #endif /* _HANZI_H */
