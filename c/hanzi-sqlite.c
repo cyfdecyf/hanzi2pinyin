@@ -1,4 +1,5 @@
 #include "hanzi.h"
+#include "util.h"
 #include "sqlite3.h"
 #include <stdbool.h>
 #include <stdio.h>
@@ -41,7 +42,7 @@ static int check_sqlite_error(int err, const char *msg) {
     }
 }
 
-const char *hz_pinyin_codepoint(uint32_t cp) {
+const char *hz2pinyin_codepoint(uint32_t cp) {
     int err;
 
     pinyin_db_init();

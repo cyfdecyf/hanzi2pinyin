@@ -92,7 +92,7 @@ static int init_data() {
     return 0;
 }
 
-const char *hz_pinyin_codepoint(uint32_t cp) {
+const char *hz2pinyin_codepoint(uint32_t cp) {
     init_data();
 
     if (START_CODEPOINT <= cp && cp <= END_CODEPOINT) {

@@ -15,7 +15,7 @@ int main(int argc, char* argv[])
 
     for (; i < argc; i++) {
         cp = (uint32_t)strtol(argv[i], NULL, 0);
-        pinyin = hz_pinyin_codepoint(cp);
+        pinyin = hz2pinyin_codepoint(cp);
 
         if (i > 1)
             printf(" ");
