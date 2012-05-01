@@ -17,9 +17,6 @@ static const char *data_path =
 
 static uint16_t *pinyin_data;
 
-static const uint32_t START_CODEPOINT = 0x4E00;
-static const uint32_t END_CODEPOINT = 0x9FFF;
-
 /* Obtained from data/Unihan/block1-pinyin-statistic.rb */
 static const char *pinyin_tbl[] = {
     "a", "ai", "an", "ang", "ao", "ba", "bai", "ban", "bang", "bao", "bei",
@@ -85,7 +82,7 @@ static int init_data() {
     if (pinyin_data == MAP_FAILED) {
         fprintf(stderr, "Can't mmap pinyin data file\n");
         fclose(data_file);
-        data_file = NULL;
+        pinyin_data = NULL;
         return -1;
     }
 
@@ -95,8 +92,12 @@ static int init_data() {
 const char *hz2pinyin_codepoint(uint32_t cp) {
     init_data();
 
-    if (START_CODEPOINT <= cp && cp <= END_CODEPOINT) {
-        uint16_t id = pinyin_data[cp - START_CODEPOINT];
+    if (! pinyin_data) {
+        return NULL;
+    }
+
+    if (hz_is_chinese(cp)) {
+        uint16_t id = pinyin_data[cp - HANZI_START_CODEPOINT];
         if (id == 0xFFFF)
             return NULL;
         else
