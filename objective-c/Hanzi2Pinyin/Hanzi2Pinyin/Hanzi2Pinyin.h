@@ -10,6 +10,11 @@
 
 @interface Hanzi2Pinyin : NSObject
 
+// Retrun a new string with all Chinese characters convreted to pinyin.
+// For 2 consecutive characters, if one is Chinese, separater will be added
+// if the other is not space
++ (NSString *)convert:(NSString *)str separater:(NSString *)sep;
+
 + (NSString *)convert:(NSString *)str;
 
 @end

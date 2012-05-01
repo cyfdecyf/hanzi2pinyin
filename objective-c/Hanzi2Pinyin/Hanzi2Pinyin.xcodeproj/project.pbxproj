@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA06E98A154FC40E00BD92C4 /* Hanzi2Pinyin.h in Headers */ = {isa = PBXBuildFile; fileRef = FAD5FC4B144019540057FC2C /* Hanzi2Pinyin.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAD5FC3F144019540057FC2C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC3E144019540057FC2C /* Cocoa.framework */; };
 		FAD5FC49144019540057FC2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC47144019540057FC2C /* InfoPlist.strings */; };
 		FAD5FC4D144019540057FC2C /* Hanzi2Pinyin.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD5FC4C144019540057FC2C /* Hanzi2Pinyin.m */; };
@@ -16,8 +17,7 @@
 		FAD5FC5F144019540057FC2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC5D144019540057FC2C /* InfoPlist.strings */; };
 		FAD5FC61144019540057FC2C /* Hanzi2PinyinTests.h in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC60144019540057FC2C /* Hanzi2PinyinTests.h */; };
 		FAD5FC63144019540057FC2C /* Hanzi2PinyinTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD5FC62144019540057FC2C /* Hanzi2PinyinTests.m */; };
-		FAD5FC6E144019810057FC2C /* hanzi-bindata.c in Sources */ = {isa = PBXBuildFile; fileRef = FAD5FC6C144019810057FC2C /* hanzi-bindata.c */; };
-		FAD5FC6F144019810057FC2C /* hanzi.h in Headers */ = {isa = PBXBuildFile; fileRef = FAD5FC6D144019810057FC2C /* hanzi.h */; };
+		FAE3CA98154FAB5900F563C2 /* pinyin.dat in Resources */ = {isa = PBXBuildFile; fileRef = FAE3CA97154FAB5900F563C2 /* pinyin.dat */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,8 +47,7 @@
 		FAD5FC5E144019540057FC2C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FAD5FC60144019540057FC2C /* Hanzi2PinyinTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hanzi2PinyinTests.h; sourceTree = "<group>"; };
 		FAD5FC62144019540057FC2C /* Hanzi2PinyinTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Hanzi2PinyinTests.m; sourceTree = "<group>"; };
-		FAD5FC6C144019810057FC2C /* hanzi-bindata.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = "hanzi-bindata.c"; path = "../../../c/hanzi-bindata.c"; sourceTree = "<group>"; };
-		FAD5FC6D144019810057FC2C /* hanzi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = hanzi.h; path = ../../../c/hanzi.h; sourceTree = "<group>"; };
+		FAE3CA97154FAB5900F563C2 /* pinyin.dat */ = {isa = PBXFileReference; lastKnownFileType = file; path = pinyin.dat; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,10 +114,9 @@
 		FAD5FC44144019540057FC2C /* Hanzi2Pinyin */ = {
 			isa = PBXGroup;
 			children = (
+				FAE3CA97154FAB5900F563C2 /* pinyin.dat */,
 				FAD5FC4B144019540057FC2C /* Hanzi2Pinyin.h */,
 				FAD5FC4C144019540057FC2C /* Hanzi2Pinyin.m */,
-				FAD5FC6C144019810057FC2C /* hanzi-bindata.c */,
-				FAD5FC6D144019810057FC2C /* hanzi.h */,
 				FAD5FC45144019540057FC2C /* Supporting Files */,
 			);
 			path = Hanzi2Pinyin;
@@ -160,7 +158,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAD5FC6F144019810057FC2C /* hanzi.h in Headers */,
+				FA06E98A154FC40E00BD92C4 /* Hanzi2Pinyin.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,6 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAD5FC49144019540057FC2C /* InfoPlist.strings in Resources */,
+				FAE3CA98154FAB5900F563C2 /* pinyin.dat in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,7 +268,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAD5FC4D144019540057FC2C /* Hanzi2Pinyin.m in Sources */,
-				FAD5FC6E144019810057FC2C /* hanzi-bindata.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -365,6 +363,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Hanzi2Pinyin/Hanzi2Pinyin-Prefix.pch";
 				INFOPLIST_FILE = "Hanzi2Pinyin/Hanzi2Pinyin-Info.plist";
+				INSTALL_PATH = "@executable_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = framework;
 			};
@@ -379,6 +378,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Hanzi2Pinyin/Hanzi2Pinyin-Prefix.pch";
 				INFOPLIST_FILE = "Hanzi2Pinyin/Hanzi2Pinyin-Info.plist";
+				INSTALL_PATH = "@executable_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = framework;
 			};
@@ -427,6 +427,7 @@
 				FAD5FC68144019540057FC2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FAD5FC69144019540057FC2C /* Build configuration list for PBXNativeTarget "Hanzi2PinyinTests" */ = {
 			isa = XCConfigurationList;
@@ -435,6 +436,7 @@
 				FAD5FC6B144019540057FC2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

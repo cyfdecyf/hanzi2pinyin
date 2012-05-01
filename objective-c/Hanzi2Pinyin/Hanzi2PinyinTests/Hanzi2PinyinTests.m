@@ -25,7 +25,7 @@
     [super tearDown];
 }
 
-- (void)testExample
+- (void)testConvert
 {
     NSString *py = [Hanzi2Pinyin convert:@"abc,love"];
     STAssertTrue([py isEqualToString:@"abc,love"], @"ASCII char should not convert");
@@ -35,6 +35,9 @@
 
     py = [Hanzi2Pinyin convert:@"欢迎 world"];
     STAssertTrue([py isEqualToString:@"huan ying world"], @"pinyin not correct, got %@", py);
+    
+    py = [Hanzi2Pinyin convert:@"I欢迎world"];
+    STAssertTrue([py isEqualToString:@"I huan ying world"], @"pinyin not correct, got %@", py);
     
     py = [Hanzi2Pinyin convert:@"Steve Jobs，祝福"];
     STAssertTrue([py isEqualToString:@"Steve Jobs， zhu fu"], @"pinyin not correct, got %@", py);    
