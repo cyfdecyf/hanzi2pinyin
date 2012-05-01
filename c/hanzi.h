@@ -8,7 +8,7 @@
 static const uint32_t HANZI_START_CODEPOINT = 0x4E00;
 static const uint32_t HANZI_END_CODEPOINT = 0x9FFF;
 
-static inline int hz_is_chinese(uint32_t cp) {
+static inline int hz_is_hanzi(uint32_t cp) {
     return (HANZI_START_CODEPOINT <= cp && cp <= HANZI_END_CODEPOINT);
 }
 
