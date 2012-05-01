@@ -207,6 +207,9 @@
 /* Begin PBXProject section */
 		FAD5FC31144019540057FC2C /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
 			buildConfigurationList = FAD5FC34144019540057FC2C /* Build configuration list for PBXProject "Hanzi2Pinyin" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;

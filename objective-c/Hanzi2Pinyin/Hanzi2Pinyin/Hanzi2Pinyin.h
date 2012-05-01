@@ -17,4 +17,7 @@
 
 + (NSString *)convert:(NSString *)str;
 
+// Convert each Chinese character to the first letter of its pinyin.
++ (NSString *)convertToAbbreviation:(NSString *)str; 
+
 @end

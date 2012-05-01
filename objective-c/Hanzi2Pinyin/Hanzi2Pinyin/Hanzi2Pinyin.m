@@ -148,4 +148,26 @@ static NSString *pinyinFromCodepoint(int cp) {
     return [self convert:str separater:@" "];
 }
 
++ (NSString *)convertToAbbreviation:(NSString *)str {
+    // Convert to codepoint first
+    const uint32_t *cp = (const uint32_t *)([str cStringUsingEncoding:NSUTF32LittleEndianStringEncoding]);
+    NSUInteger length = [str length];
+    
+    NSMutableString *abbrev = [NSMutableString stringWithCapacity:(length)];
+    
+    for (NSUInteger i = 0; i < length; i++) {
+        NSString *py = pinyinFromCodepoint(cp[i]);
+        NSString *appendStr = py;
+        if (py) {
+            appendStr = [py substringToIndex:1];
+        } else {
+            // No pinyin found, add the original character in the string
+            NSRange range = {i, 1};
+            appendStr = [str substringWithRange:range];
+        }
+        [abbrev appendString:appendStr];
+    }
+    return abbrev;
+}
+
 @end

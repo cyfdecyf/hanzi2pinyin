@@ -40,7 +40,19 @@
     STAssertTrue([py isEqualToString:@"I huan ying world"], @"pinyin not correct, got %@", py);
     
     py = [Hanzi2Pinyin convert:@"Steve Jobs，祝福"];
-    STAssertTrue([py isEqualToString:@"Steve Jobs， zhu fu"], @"pinyin not correct, got %@", py);    
+    STAssertTrue([py isEqualToString:@"Steve Jobs， zhu fu"], @"pinyin not correct, got %@", py);   
+}
+
+- (void)testConvertAbbreviation
+{
+    NSString *py = [Hanzi2Pinyin convertToAbbreviation:@"abc,love"];
+    STAssertTrue([py isEqualToString:@"abc,love"], @"ASCII char should not convert");
+    
+    py = [Hanzi2Pinyin convertToAbbreviation:@"你好"];
+    STAssertTrue([py isEqualToString:@"nh"], @"pinyin not correct, got %@", py);
+    
+    py = [Hanzi2Pinyin convertToAbbreviation:@"欢迎 world"];
+    STAssertTrue([py isEqualToString:@"hy world"], @"pinyin not correct, got %@", py);
 }
 
 @end
