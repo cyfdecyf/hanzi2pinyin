@@ -118,7 +118,7 @@ static NSString *pinyinFromCodepoint(int cp) {
     }
 }
 
-+ (NSString *)convert:(NSString *)str separater:(NSString *)sep {
++ (NSMutableString *)convert:(NSString *)str separater:(NSString *)sep {
     // Convert to codepoint first
     const uint32_t *cp = (const uint32_t *)([str cStringUsingEncoding:NSUTF32LittleEndianStringEncoding]);
     NSUInteger length = [str length];
@@ -144,11 +144,11 @@ static NSString *pinyinFromCodepoint(int cp) {
     return pinyin;
 }
 
-+ (NSString *)convert:(NSString *)str {
++ (NSMutableString *)convert:(NSString *)str {
     return [self convert:str separater:@" "];
 }
 
-+ (NSString *)convertToAbbreviation:(NSString *)str {
++ (NSMutableString *)convertToAbbreviation:(NSString *)str {
     // Convert to codepoint first
     const uint32_t *cp = (const uint32_t *)([str cStringUsingEncoding:NSUTF32LittleEndianStringEncoding]);
     NSUInteger length = [str length];

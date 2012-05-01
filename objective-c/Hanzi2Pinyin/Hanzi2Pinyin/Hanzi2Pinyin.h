@@ -13,11 +13,11 @@
 // Retrun a new string with all Chinese characters convreted to pinyin.
 // For 2 consecutive characters, if one is Chinese, separater will be added
 // if the other is not space
-+ (NSString *)convert:(NSString *)str separater:(NSString *)sep;
++ (NSMutableString *)convert:(NSString *)str separater:(NSString *)sep;
 
-+ (NSString *)convert:(NSString *)str;
++ (NSMutableString *)convert:(NSString *)str;
 
 // Convert each Chinese character to the first letter of its pinyin.
-+ (NSString *)convertToAbbreviation:(NSString *)str; 
++ (NSMutableString *)convertToAbbreviation:(NSString *)str;
 
 @end
