@@ -2,19 +2,11 @@ CC = llvm-gcc
 LDFLAGS = -liconv
 CFLAGS = -g -std=gnu99
 
-TEST_RUN = sqlite-test bindata-test cp2py
+all: cp2py
 
-all : $(TEST_RUN)
-
-sqlite-test : test.o hanzi.o hanzi-sqlite.o unicode.o
-	$(CC) $(CFLAGS) $(LDFLAGS) -lsqlite3 $^ -o $@
-
-bindata-test : test.o hanzi.o hanzi-bindata.o unicode.o
+cp2py: cp2py.o hanzi.o hanzi-bindata.o unicode.o
 	$(CC) $(CFLAGS) $(LDFLAGS) $^ -o $@
 
-cp2py: cp2py.o hanzi-bindata.o unicode.o
-	$(CC) $(CFLAGS) $(LDFLAGS) $^ -o $@
-
-clean :
+clean:
 	-rm -f *.o
 	-rm -f $(TEST_RUN)
