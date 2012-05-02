@@ -7,7 +7,7 @@ Notes for the codepoint to pinyin map files
   - The data is from the Unihan database
     ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip, unicode version 6.0.0
   - Created the pinyin mapping file from Unihan\_Readings.txt
-  - More details in Unihan/process.rb
+  - More details in Unihan/process-unihan-readings.rb
 
 At first I tried to use data from other sources, but these data has some
 problems. Just document the experience here, data is not included.
