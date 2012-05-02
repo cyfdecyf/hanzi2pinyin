@@ -172,4 +172,14 @@ static NSString *pinyinFromCodepoint(int cp) {
     return [NSString stringWithString:abbrev];
 }
 
++ (BOOL)hasChineseCharacter:(NSString *)str {
+    const uint32_t *cp = (const uint32_t *)([str cStringUsingEncoding:NSUTF32LittleEndianStringEncoding]);
+    NSUInteger length = [str length];
+    for (NSUInteger i = 0; i < length; i++) {
+        if (isHanzi(cp[i]))
+            return YES;
+    }
+    return NO;
+}
+
 @end

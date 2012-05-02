@@ -20,4 +20,6 @@
 // Convert each Chinese character to the first letter of its pinyin.
 + (NSString *)convertToAbbreviation:(NSString *)str;
 
++ (BOOL)hasChineseCharacter:(NSString *)str;
+
 @end
