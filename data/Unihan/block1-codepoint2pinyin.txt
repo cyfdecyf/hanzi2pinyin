@@ -7579,7 +7579,7 @@
 6C85 yuan
 6C86 hang
 6C87 yan
-6C88 chen
+6C88 shen
 6C89 chen
 6C8A dan
 6C8B you
