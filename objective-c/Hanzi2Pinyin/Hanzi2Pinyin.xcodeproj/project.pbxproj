@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FA06E98A154FC40E00BD92C4 /* Hanzi2Pinyin.h in Headers */ = {isa = PBXBuildFile; fileRef = FAD5FC4B144019540057FC2C /* Hanzi2Pinyin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA5AB46E1550FC0400653BCE /* pinyin.dat in Resources */ = {isa = PBXBuildFile; fileRef = FAE3CA97154FAB5900F563C2 /* pinyin.dat */; };
 		FAD5FC3F144019540057FC2C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC3E144019540057FC2C /* Cocoa.framework */; };
 		FAD5FC49144019540057FC2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC47144019540057FC2C /* InfoPlist.strings */; };
 		FAD5FC4D144019540057FC2C /* Hanzi2Pinyin.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD5FC4C144019540057FC2C /* Hanzi2Pinyin.m */; };
@@ -17,7 +18,6 @@
 		FAD5FC5F144019540057FC2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC5D144019540057FC2C /* InfoPlist.strings */; };
 		FAD5FC61144019540057FC2C /* Hanzi2PinyinTests.h in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC60144019540057FC2C /* Hanzi2PinyinTests.h */; };
 		FAD5FC63144019540057FC2C /* Hanzi2PinyinTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD5FC62144019540057FC2C /* Hanzi2PinyinTests.m */; };
-		FAE3CA98154FAB5900F563C2 /* pinyin.dat in Resources */ = {isa = PBXBuildFile; fileRef = FAE3CA97154FAB5900F563C2 /* pinyin.dat */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -233,8 +233,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA5AB46E1550FC0400653BCE /* pinyin.dat in Resources */,
 				FAD5FC49144019540057FC2C /* InfoPlist.strings in Resources */,
-				FAE3CA98154FAB5900F563C2 /* pinyin.dat in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

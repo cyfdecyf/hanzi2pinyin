@@ -40,7 +40,10 @@
     STAssertTrue([py isEqualToString:@"I huan ying world"], @"pinyin not correct, got %@", py);
     
     py = [Hanzi2Pinyin convert:@"Steve Jobs，祝福"];
-    STAssertTrue([py isEqualToString:@"Steve Jobs， zhu fu"], @"pinyin not correct, got %@", py);   
+    STAssertTrue([py isEqualToString:@"Steve Jobs， zhu fu"], @"pinyin not correct, got %@", py);
+    
+    py = [Hanzi2Pinyin convert:@"沈阳"];
+    STAssertTrue([py isEqualToString:@"shen yang"], @"pinyin not correct, got %@", py);
 }
 
 - (void)testConvertAbbreviation
@@ -53,6 +56,9 @@
     
     py = [Hanzi2Pinyin convertToAbbreviation:@"欢迎 world"];
     STAssertTrue([py isEqualToString:@"hy world"], @"pinyin not correct, got %@", py);
+    
+    py = [Hanzi2Pinyin convertToAbbreviation:@"沈阳"];
+    STAssertTrue([py isEqualToString:@"sy"], @"pinyin not correct, got %@", py);
 }
 
 @end

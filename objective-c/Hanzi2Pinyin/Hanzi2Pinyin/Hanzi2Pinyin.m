@@ -94,15 +94,14 @@ static NSString *pinyinFromCodepoint(int cp) {
 @implementation Hanzi2Pinyin
 
 + (void)initialize {
-    NSBundle* mainBundle = [NSBundle mainBundle];
-    NSLog(@"bundle path is %@", [mainBundle bundlePath]);
-    
-    NSString *data_path = [mainBundle pathForResource:@"pinyin" ofType:@"dat"];
-    NSLog(@"pinyin.dat path %@", data_path);
+    NSBundle* bundle = [NSBundle bundleForClass:[Hanzi2Pinyin class]];
+//    NSLog(@"bundle path is %@", [bundle bundlePath]);
+    NSString *data_path = [bundle pathForResource:@"pinyin" ofType:@"dat"];
+//    NSLog(@"pinyin.dat path %@", data_path);
 
-    FILE *data_file = fopen("/Users/alex/programming/hanzi2pinyin/data/pinyin.dat", "rb");
+    FILE *data_file = fopen([data_path UTF8String], "rb");
     if (!data_file) {
-        fprintf(stderr, "Can't open pinyin data file\n");
+        NSLog(@"Can't open pinyin data file");
         return;
     }
 
@@ -114,7 +113,7 @@ static NSString *pinyinFromCodepoint(int cp) {
     off_t offset = 0;
     pinyinData = mmap(NULL, length, PROT_READ, MAP_SHARED, fd, offset);
     if (pinyinData == MAP_FAILED) {
-        fprintf(stderr, "Can't mmap pinyin data file\n");
+        NSLog(@"Can't mmap pinyin data file");
         fclose(data_file);
         pinyinData = nil;
         return;
