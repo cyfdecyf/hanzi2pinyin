@@ -3,3 +3,4 @@
 *.db
 xcuserdata
 .DS_store
+*DerivedData

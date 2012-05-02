@@ -94,8 +94,11 @@ static NSString *pinyinFromCodepoint(int cp) {
 @implementation Hanzi2Pinyin
 
 + (void)initialize {
-    NSBundle* mainBundle;
+    NSBundle* mainBundle = [NSBundle mainBundle];
     NSLog(@"bundle path is %@", [mainBundle bundlePath]);
+    
+    NSString *data_path = [mainBundle pathForResource:@"pinyin" ofType:@"dat"];
+    NSLog(@"pinyin.dat path %@", data_path);
 
     FILE *data_file = fopen("/Users/alex/programming/hanzi2pinyin/data/pinyin.dat", "rb");
     if (!data_file) {
@@ -118,7 +121,7 @@ static NSString *pinyinFromCodepoint(int cp) {
     }
 }
 
-+ (NSMutableString *)convert:(NSString *)str separater:(NSString *)sep {
++ (NSString *)convert:(NSString *)str separater:(NSString *)sep {
     // Convert to codepoint first
     const uint32_t *cp = (const uint32_t *)([str cStringUsingEncoding:NSUTF32LittleEndianStringEncoding]);
     NSUInteger length = [str length];
@@ -141,14 +144,14 @@ static NSString *pinyinFromCodepoint(int cp) {
         }
         prevcp = cp[i];
     }
-    return pinyin;
+    return [NSString stringWithString:pinyin];
 }
 
-+ (NSMutableString *)convert:(NSString *)str {
++ (NSString *)convert:(NSString *)str {
     return [self convert:str separater:@" "];
 }
 
-+ (NSMutableString *)convertToAbbreviation:(NSString *)str {
++ (NSString *)convertToAbbreviation:(NSString *)str {
     // Convert to codepoint first
     const uint32_t *cp = (const uint32_t *)([str cStringUsingEncoding:NSUTF32LittleEndianStringEncoding]);
     NSUInteger length = [str length];
@@ -157,7 +160,7 @@ static NSString *pinyinFromCodepoint(int cp) {
     
     for (NSUInteger i = 0; i < length; i++) {
         NSString *py = pinyinFromCodepoint(cp[i]);
-        NSString *appendStr = py;
+        NSString *appendStr;
         if (py) {
             appendStr = [py substringToIndex:1];
         } else {
@@ -167,7 +170,7 @@ static NSString *pinyinFromCodepoint(int cp) {
         }
         [abbrev appendString:appendStr];
     }
-    return abbrev;
+    return [NSString stringWithString:abbrev];
 }
 
 @end
