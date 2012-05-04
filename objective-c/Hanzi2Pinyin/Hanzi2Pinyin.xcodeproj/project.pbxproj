@@ -8,12 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		FA06E98A154FC40E00BD92C4 /* Hanzi2Pinyin.h in Headers */ = {isa = PBXBuildFile; fileRef = FAD5FC4B144019540057FC2C /* Hanzi2Pinyin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA39C4BA1553B22A0059A4B4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC43144019540057FC2C /* Foundation.framework */; };
 		FA5AB46E1550FC0400653BCE /* pinyin.dat in Resources */ = {isa = PBXBuildFile; fileRef = FAE3CA97154FAB5900F563C2 /* pinyin.dat */; };
-		FAD5FC3F144019540057FC2C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC3E144019540057FC2C /* Cocoa.framework */; };
 		FAD5FC49144019540057FC2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC47144019540057FC2C /* InfoPlist.strings */; };
 		FAD5FC4D144019540057FC2C /* Hanzi2Pinyin.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD5FC4C144019540057FC2C /* Hanzi2Pinyin.m */; };
 		FAD5FC55144019540057FC2C /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC54144019540057FC2C /* SenTestingKit.framework */; };
-		FAD5FC56144019540057FC2C /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC3E144019540057FC2C /* Cocoa.framework */; };
 		FAD5FC59144019540057FC2C /* Hanzi2Pinyin.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAD5FC3B144019540057FC2C /* Hanzi2Pinyin.framework */; };
 		FAD5FC5F144019540057FC2C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC5D144019540057FC2C /* InfoPlist.strings */; };
 		FAD5FC61144019540057FC2C /* Hanzi2PinyinTests.h in Resources */ = {isa = PBXBuildFile; fileRef = FAD5FC60144019540057FC2C /* Hanzi2PinyinTests.h */; };
@@ -32,9 +31,6 @@
 
 /* Begin PBXFileReference section */
 		FAD5FC3B144019540057FC2C /* Hanzi2Pinyin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Hanzi2Pinyin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FAD5FC3E144019540057FC2C /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
-		FAD5FC41144019540057FC2C /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
-		FAD5FC42144019540057FC2C /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		FAD5FC43144019540057FC2C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FAD5FC46144019540057FC2C /* Hanzi2Pinyin-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Hanzi2Pinyin-Info.plist"; sourceTree = "<group>"; };
 		FAD5FC48144019540057FC2C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -55,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAD5FC3F144019540057FC2C /* Cocoa.framework in Frameworks */,
+				FA39C4BA1553B22A0059A4B4 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -64,7 +60,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAD5FC55144019540057FC2C /* SenTestingKit.framework in Frameworks */,
-				FAD5FC56144019540057FC2C /* Cocoa.framework in Frameworks */,
 				FAD5FC59144019540057FC2C /* Hanzi2Pinyin.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -94,21 +89,10 @@
 		FAD5FC3D144019540057FC2C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				FAD5FC3E144019540057FC2C /* Cocoa.framework */,
+				FAD5FC43144019540057FC2C /* Foundation.framework */,
 				FAD5FC54144019540057FC2C /* SenTestingKit.framework */,
-				FAD5FC40144019540057FC2C /* Other Frameworks */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		FAD5FC40144019540057FC2C /* Other Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				FAD5FC41144019540057FC2C /* AppKit.framework */,
-				FAD5FC42144019540057FC2C /* CoreData.framework */,
-				FAD5FC43144019540057FC2C /* Foundation.framework */,
-			);
-			name = "Other Frameworks";
 			sourceTree = "<group>";
 		};
 		FAD5FC44144019540057FC2C /* Hanzi2Pinyin */ = {
