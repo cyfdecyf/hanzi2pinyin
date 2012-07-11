@@ -5,7 +5,9 @@ CFLAGS = -g -std=gnu99
 all: cp2py
 
 cp2py: cp2py.o hanzi.o hanzi-bindata.o unicode.o
-	$(CC) $(CFLAGS) $(LDFLAGS) $^ -o $@
+	$(call cc-link)
+
+include c.make
 
 clean:
 	-rm -f *.o

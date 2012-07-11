@@ -8,7 +8,7 @@
 
 static const int PINYIN_BUF_SIZE = 128;
 
-bool need_separater(uint32_t prevcp, uint32_t curcp) {
+static inline bool need_separater(uint32_t prevcp, uint32_t curcp) {
     bool r = false;
     if (hz_is_hanzi(curcp)) {
         r = isspace(prevcp) ? false : true;
@@ -20,26 +20,18 @@ bool need_separater(uint32_t prevcp, uint32_t curcp) {
     return r;
 }
 
-char *hz2pinyin(const char *hanzi, const char *sep, Encoding enc) {
+char *hz2pinyin(const char *hanzi, const char *sep) {
     /* This function is too large. */
     size_t n;
     UTF32 *cp;
 
     int bufsize = PINYIN_BUF_SIZE;
-    char *out = calloc(1, bufsize);
+    char *out = (char *)calloc(1, bufsize);
     char *out_ptr = out;
     int out_nleft = bufsize; /* How many bytes left in the out buffer. */
 
     /* First convert the string to unicode codepoint */
-    switch (enc) {
-    case ENCODING_UTF8:
-        cp = hz_utf8_to_utf32(hanzi, &n);
-        break;
-    default:
-        DPRINTF("Not supported encoding\n");
-        return NULL;
-    }
-
+    cp = hz_utf8_to_utf32(hanzi, &n);
     if (!cp) {
         DPRINTF("conversion to codepoint failed\n");
         return NULL;
@@ -80,7 +72,7 @@ redo:
         if (ret >= out_nleft) {
             DPRINTF("not enough space in outbuffer, str: %s", out);
             bufsize += PINYIN_BUF_SIZE;
-            char *newbuf = realloc(out, bufsize);
+            char *newbuf = (char *)realloc(out, bufsize);
 
             if (!newbuf) {
                 DPRINTF("Out of memory");

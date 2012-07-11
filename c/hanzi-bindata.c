@@ -96,7 +96,7 @@ const char *hz2pinyin_codepoint(uint32_t cp) {
         return NULL;
     }
 
-    if (hz_is_chinese(cp)) {
+    if (hz_is_hanzi(cp)) {
         uint16_t id = pinyin_data[cp - HANZI_START_CODEPOINT];
         if (id == 0xFFFF)
             return NULL;

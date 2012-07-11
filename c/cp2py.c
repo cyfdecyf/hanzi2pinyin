@@ -9,7 +9,7 @@ int main(int argc, char* argv[])
         exit(1);
     }
 
-    char *pinyin = hz2pinyin(argv[1], " ", ENCODING_UTF8);
+    char *pinyin = hz2pinyin(argv[1], " ");
     printf("%s\n", pinyin);
     free(pinyin);
 

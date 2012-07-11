@@ -4,14 +4,11 @@
 #include <stdint.h>
 #include <stddef.h>
 
-typedef uint8_t UTF8;
-typedef uint16_t UTF16;
-typedef uint32_t UTF32;
+/* I'm not going to support UTF16. It's awful to handle UTF16 strings using
+   native C string function. */
 
-typedef enum {
-    ENCODING_UTF8,
-    ENCODING_UTF16
-} Encoding;
+typedef uint8_t UTF8;
+typedef uint32_t UTF32;
 
 /* Convert UTF-8 string UTF-32. nchar will be set to the number of characters.
  * Caller should free memory. */

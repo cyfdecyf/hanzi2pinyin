@@ -28,6 +28,6 @@ const char *hz2pinyin_codepoint(uint32_t cp);
    On error, return NULL.
 
    Caller should free the memory. */
-char *hz2pinyin(const char *hanzi, const char *sep, Encoding enc);
+char *hz2pinyin(const char *hanzi, const char *sep);
 
 #endif /* _HANZI_H */

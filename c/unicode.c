@@ -7,27 +7,17 @@
 #include <stdio.h>
 
 static iconv_t utf8_cd;
-/*static iconv_t utf16_cd;*/
-
-static inline int open_cd(iconv_t *cd, const char *from) {
-    /* XXX Note the endianness. On intel based Mac, use little endian. */
-    *cd = iconv_open("UTF-32LE", from);
-    if (*cd == (iconv_t)-1) {
-        perror("iconv_open");
-        return 1;
-    }
-    return 0;
-}
 
 static int init_cd() {
     CALL_ONCE(0);
 
-    int err = 0;
-
-    err += open_cd(&utf8_cd, "UTF-8");
-    /*err += open_cd(&utf16_cd, "UTF-16LE");*/
-
-    return (err == 0) ? 0 : -1;
+    /* XXX Note the endianness. On intel based Mac, use little endian. */
+    utf8_cd = iconv_open("UTF-32LE", "UTF-8");
+    if (utf8_cd == (iconv_t)-1) {
+        perror("iconv_open");
+        return 1;
+    }
+    return 0;
 }
 
 static UTF32 *convert(iconv_t cd, const char *s, size_t inbytes, size_t *nchar) {
@@ -59,16 +49,3 @@ UTF32 *hz_utf8_to_utf32(const char *s, size_t *nchar) {
     init_cd();
     return convert(utf8_cd, s, strlen(s), nchar);
 }
-
-/* How to detect the end of a UTF16 byte sequence?
- * This is C string, the last '\0' is just a single byte.
- * Working with UTF-16 in C is awful. */
-/*
-UTF32 *hz_utf16_to_utf32(const char *s, size_t *nchar) {
-    init_cd();
-    size_t n = 0;
-    UTF16 *ss = (UTF16 *)s;
-    while (*ss++ != 0) n++;
-    return convert(utf16_cd, s, n, nchar);
-}
-*/
